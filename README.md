@@ -29,8 +29,6 @@ Collection of Youtube live channels that can be added to any IPTV client.
 | Logo | Name | Group | Country | Language | Youtube Channel |
 | --- | --- | --- | --- | --- | --- |
 | <img src="https://yt3.ggpht.com/ytc/AKedOLS1ux6GXmgjIw4kkiJHfeuY0Bi9N0kjPaWVKzBv" width="50"> | Piano Relaxing | Nature | Global | English | [Link](https://www.youtube.com/channel/UCEiS8m8OLFI0REntmsTvzjA) |
-| Logo | Name | Group | Country | Language | Youtube Channel |
-| --- | --- | --- | --- | --- | --- |
 | <img src="https://yt3.ggpht.com/f9e-m4g6okRrg7TCHLllMQYFxdM4SPTElEKjUWVmb4vbdzFyk2oM6knZuAVGiiZeIpvlNbO4jw" width="50"> | Nature Relax | Nature | Global | English | [Link](https://www.youtube.com/channel/UC80oBMhAYgvV5bCWXs-xCUA) |
 
 ### India English News
