@@ -11,7 +11,21 @@ Collection of Youtube live channels that can be added to any IPTV client.
 | <img src="https://yt3.ggpht.com/ytc/AKedOLTMjtN-vrh_KfbZj_vlGVo3ka_LDP2g6fsPuCJmjw" width="50"> | News18 Odia  | News | India | Odia | [Link](https://www.youtube.com/channel/UCUK49UvmYWYLiB7_bZFuFZQ) |
 | <img src="https://yt3.ggpht.com/ytc/AKedOLSgRTYyhZKf1NGma__2qf_oa1eJfyLHkSHx9FIHfg" width="50"> | OTV | News | India | Odia | [Link](https://www.youtube.com/channel/UCCgLMMp4lv7fSD2sBz1Ai6Q) |
 
-## Others
+### International News
+| Logo | Name | Group | Country | Language | Youtube Channel |
+| --- | --- | --- | --- | --- | --- |
+| <img src="https://yt3.ggpht.com/ytc/AKedOLToHygnzerTBVOB3GsUcxsPiMP6dIOzFe9T90R0fAE" width="50"> | DW News | News | Global | English | [Link](https://www.youtube.com/channel/UCknLrEdhRCp1aegoMqRaCZgg) |
+| <img src="https://yt3.ggpht.com/ytc/AKedOLSSvx6Lajinz_I-_33UiIWNItieFMkWIAxbDuR_AA" width="50"> | France 24 English | News | Global | English | [Link](https://www.youtube.com/channel/UCQfwfsi5VrQ8yKZ-UWmAEFg) |
+| <img src="https://yt3.ggpht.com/ytc/AKedOLSWUC1XEN9_RtfZ6mUX_oN3jo1UuB-KU3tweyxPLb4" width="50"> | Al Jazeera English | News | Global | English | [Link](https://www.youtube.com/channel/UCNye-wNBqNL5ZzHSJj3l8Bg) |
+| <img src="https://yt3.ggpht.com/yf11CBlHMr2hTqx-gUoAR_v9W0iRSK7O8PD5Wi5qKIcU7cKKF11Dhwr2KuKZ_SWRnxDVKIct" width="50"> | Euro News | News | Global | English | [Link](https://www.youtube.com/channel/UCSrZ3UV4jOidv8ppoVuvW9Q) |
+| <img src="https://yt3.ggpht.com/E96qzkAoX81DQs7wqRHR4rNk1esa4quBPzda2QRzImlhoHOVgRdAN8o-S0Rb_hpygo_n4LdhwTE" width="50"> | Sky News | News | Global | English | [Link](https://www.youtube.com/channel/UCoMdktPbSTixAyNGwb-UYkQ) |
+
+### Music
+| Logo | Name | Group | Country | Language | Youtube Channel |
+| --- | --- | --- | --- | --- | --- |
+| <img src="https://yt3.ggpht.com/5C8e_VL2fvl8tEDcnW5K_TsocwiNxbhuXCpdV2t8DhJO-dz8cWIYq6nT3Mf4F9yBnQmIWZUe" width="50"> | Tomorrowland | Music | Global | English | [Link](https://www.youtube.com/channel/UCsN8M73DMWa8SPp5o_0IAQQ) |
+
+### Others
 | Logo | Name | Group | Country | Language | Youtube Channel |
 | --- | --- | --- | --- | --- | --- |
 | <img src="https://yt3.ggpht.com/ytc/AKedOLQRJiELJWT983TxaxQ8nKgVGP4jgWTvqTaOUFekrB0" width="50"> | Aaj Tak | News | India | Hindi | [Link](https://www.youtube.com/channel/UCt4t-jeY85JegMlZ-E5UWtA)
