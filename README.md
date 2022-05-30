@@ -41,5 +41,11 @@ Collection of Youtube live channels that can be added to any IPTV client.
 | --- | --- | --- | --- | --- | --- |
 | <img src="https://yt3.ggpht.com/ytc/AKedOLQRJiELJWT983TxaxQ8nKgVGP4jgWTvqTaOUFekrB0" width="50"> | Aaj Tak | News | India | Hindi | [Link](https://www.youtube.com/channel/UCt4t-jeY85JegMlZ-E5UWtA) |
 | <img src="https://yt3.ggpht.com/y5S847YDNlDZNUUk3xmEfVMUDu2XSe0yAU_qvIpbwKi5VgIYQQc3FGeOANbgu-36sBEDpAwDAQ" width="50"> | India TV | News | India | Hindi | [Link](https://www.youtube.com/channel/UCttspZesZIDEwwpVIgoZtWQ) |
-| <img src="https://yt3.ggpht.com/ytc/AKedOLTHZuOu1RwxGkcEsHKE6_WfmeST3JPoWNLxir3alA=s88-c-k-c0x00ffffff-no-rj" width="50"> | Republic Bharat | News | India | Hindi | [Link](https://www.youtube.com/channel/UC7wXt18f2iA3EDXeqAVuKn) |
+| <img src="https://yt3.ggpht.com/ytc/AKedOLTHZuOu1RwxGkcEsHKE6_WfmeST3JPoWNLxir3alA" width="50"> | Republic Bharat | News | India | Hindi | [Link](https://www.youtube.com/channel/UC7wXt18f2iA3EDXeqAVuKn) |
 
+# Kids
+| Logo | Name | Group | Country | Language | Youtube Channel |
+| --- | --- | --- | --- | --- | --- |
+| <img src="https://yt3.ggpht.com/BnrgYIJLNhJ2p9H-ymJcjVaKTMATWYl9rBix40pemYpkykC4_9gEbF82C_RsKgsRD8YzYXP5mA" width="50"> | Cartoon Network Asia | Kids | Global | English | [Link](https://www.youtube.com/channel/UC9hVEGaTpAYMVd-bRsOYKwA) |
+| <img src="https://yt3.ggpht.com/ytc/AKedOLTWSuXvajlpkF0dcqa8Mf2Va5svzH7b9EC1x0Q7zA" width="50"> | WB Kids | Kids | Global | English | [Link](https://www.youtube.com/channel/UC9trsD1jCTXXtN3xIOIU8gg) |
+| <img src="https://yt3.ggpht.com/ytc/AKedOLRu2MPHAs_A-Kmv-iTR_8rDC5uv6CoWq5ekM_DATw" width="50"> | DC Kids | Kids | Global | English | [Link](https://www.youtube.com/channel/UCyu8StPfZWapR6rfW_JgqcA) |
