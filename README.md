@@ -49,3 +49,4 @@ Collection of Youtube live channels that can be added to any IPTV client.
 | <img src="https://yt3.ggpht.com/BnrgYIJLNhJ2p9H-ymJcjVaKTMATWYl9rBix40pemYpkykC4_9gEbF82C_RsKgsRD8YzYXP5mA" width="50"> | Cartoon Network Asia | Kids | Global | English | [Link](https://www.youtube.com/channel/UC9hVEGaTpAYMVd-bRsOYKwA) |
 | <img src="https://yt3.ggpht.com/ytc/AKedOLTWSuXvajlpkF0dcqa8Mf2Va5svzH7b9EC1x0Q7zA" width="50"> | WB Kids | Kids | Global | English | [Link](https://www.youtube.com/channel/UC9trsD1jCTXXtN3xIOIU8gg) |
 | <img src="https://yt3.ggpht.com/ytc/AKedOLRu2MPHAs_A-Kmv-iTR_8rDC5uv6CoWq5ekM_DATw" width="50"> | DC Kids | Kids | Global | English | [Link](https://www.youtube.com/channel/UCyu8StPfZWapR6rfW_JgqcA) |
+| <img src="https://yt3.ggpht.com/xdgNgosFHeVJ8BNdypwReOje1Luer4O521yV1-k5lVWRuRdmHzq9kLsNz9eVLRBCewW56fP9CQ" width="50"> | Muse Asia | Kids | Global | Japanese | [Link](https://www.youtube.com/channel/UCGbshtvS9t-8CW11W7TooQg) |
