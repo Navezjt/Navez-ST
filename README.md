@@ -25,9 +25,23 @@ Collection of Youtube live channels that can be added to any IPTV client.
 | --- | --- | --- | --- | --- | --- |
 | <img src="https://yt3.ggpht.com/5C8e_VL2fvl8tEDcnW5K_TsocwiNxbhuXCpdV2t8DhJO-dz8cWIYq6nT3Mf4F9yBnQmIWZUe" width="50"> | Tomorrowland | Music | Global | English | [Link](https://www.youtube.com/channel/UCsN8M73DMWa8SPp5o_0IAQQ) |
 
-### Others
+### Nature
 | Logo | Name | Group | Country | Language | Youtube Channel |
 | --- | --- | --- | --- | --- | --- |
-| <img src="https://yt3.ggpht.com/ytc/AKedOLQRJiELJWT983TxaxQ8nKgVGP4jgWTvqTaOUFekrB0" width="50"> | Aaj Tak | News | India | Hindi | [Link](https://www.youtube.com/channel/UCt4t-jeY85JegMlZ-E5UWtA)
-| <img src="https://yt3.ggpht.com/ytc/AKedOLQ5U-RWZZWrWBgS5imVahjSmIJpb21BW3Rwwd1XTw" width="50"> | WION | News | India | English | [Link](https://www.youtube.com/channel/UC_gUM8rL-Lrg6O3adPW9K1g)
-| <img src="https://yt3.ggpht.com/y5S847YDNlDZNUUk3xmEfVMUDu2XSe0yAU_qvIpbwKi5VgIYQQc3FGeOANbgu-36sBEDpAwDAQ" width="50"> | India TV | News | India | Hindi | [Link](https://www.youtube.com/channel/UCttspZesZIDEwwpVIgoZtWQ)
+| <img src="https://yt3.ggpht.com/ytc/AKedOLS1ux6GXmgjIw4kkiJHfeuY0Bi9N0kjPaWVKzBv" width="50"> | Piano Relaxing | Nature | Global | English | [Link](https://www.youtube.com/channel/UCEiS8m8OLFI0REntmsTvzjA) |
+| Logo | Name | Group | Country | Language | Youtube Channel |
+| --- | --- | --- | --- | --- | --- |
+| <img src="https://yt3.ggpht.com/f9e-m4g6okRrg7TCHLllMQYFxdM4SPTElEKjUWVmb4vbdzFyk2oM6knZuAVGiiZeIpvlNbO4jw" width="50"> | Nature Relax | Nature | Global | English | [Link](https://www.youtube.com/channel/UC80oBMhAYgvV5bCWXs-xCUA) |
+
+### India English News
+| Logo | Name | Group | Country | Language | Youtube Channel |
+| --- | --- | --- | --- | --- | --- |
+| <img src="https://yt3.ggpht.com/ytc/AKedOLQ5U-RWZZWrWBgS5imVahjSmIJpb21BW3Rwwd1XTw" width="50"> | WION | News | India | English | [Link](https://www.youtube.com/channel/UC_gUM8rL-Lrg6O3adPW9K1g) |
+
+### India Hindi News
+| Logo | Name | Group | Country | Language | Youtube Channel |
+| --- | --- | --- | --- | --- | --- |
+| <img src="https://yt3.ggpht.com/ytc/AKedOLQRJiELJWT983TxaxQ8nKgVGP4jgWTvqTaOUFekrB0" width="50"> | Aaj Tak | News | India | Hindi | [Link](https://www.youtube.com/channel/UCt4t-jeY85JegMlZ-E5UWtA) |
+| <img src="https://yt3.ggpht.com/y5S847YDNlDZNUUk3xmEfVMUDu2XSe0yAU_qvIpbwKi5VgIYQQc3FGeOANbgu-36sBEDpAwDAQ" width="50"> | India TV | News | India | Hindi | [Link](https://www.youtube.com/channel/UCttspZesZIDEwwpVIgoZtWQ) |
+| <img src="https://yt3.ggpht.com/ytc/AKedOLTHZuOu1RwxGkcEsHKE6_WfmeST3JPoWNLxir3alA=s88-c-k-c0x00ffffff-no-rj" width="50"> | Republic Bharat | News | India | Hindi | [Link](https://www.youtube.com/channel/UC7wXt18f2iA3EDXeqAVuKn) |
+
