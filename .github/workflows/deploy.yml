@@ -1,0 +1,14 @@
+name: Run Tests
+on: [ push ] 
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout
+      - uses: actions/setup-node
+      - run: npm ci
+      - run: npm run generate
+      - uses: peaceiris/actions-gh-pages
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./dist

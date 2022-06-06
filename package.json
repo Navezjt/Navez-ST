@@ -6,7 +6,8 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "lint": "standard --fix",
-    "generate:m3u8": "node ./src/m3u8.js"
+    "generate:playlist": "node ./src/m3u8.js",
+    "generate": "npm run generate:playlist"
   },
   "repository": {
     "type": "git",
