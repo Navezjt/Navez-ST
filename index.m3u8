@@ -3,8 +3,35 @@
 #EXTINF:-1 group-title="News" tvg-language="Hindi" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLQRJiELJWT983TxaxQ8nKgVGP4jgWTvqTaOUFekrB0", Aaj Tak
 https://hls.youtb.workers.dev/channel/UCt4t-jeY85JegMlZ-E5UWtA.m3u8
 
+#EXTINF:-1 group-title="News" tvg-language="English" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLSWUC1XEN9_RtfZ6mUX_oN3jo1UuB-KU3tweyxPLb4", Al Jazeera English
+https://hls.youtb.workers.dev/channel/UCNye-wNBqNL5ZzHSJj3l8Bg.m3u8
+
+#EXTINF:-1 group-title="News" tvg-language="English" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLToHygnzerTBVOB3GsUcxsPiMP6dIOzFe9T90R0fAE", DW News
+https://hls.youtb.workers.dev/channel/UCknLrEdhRCp1aegoMqRaCZgg.m3u8
+
+#EXTINF:-1 group-title="News" tvg-language="English" tvg-logo="https://yt3.ggpht.com/yf11CBlHMr2hTqx-gUoAR_v9W0iRSK7O8PD5Wi5qKIcU7cKKF11Dhwr2KuKZ_SWRnxDVKIct", Euro News
+https://hls.youtb.workers.dev/channel/UCSrZ3UV4jOidv8ppoVuvW9Q.m3u8
+
+#EXTINF:-1 group-title="News" tvg-language="English" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLSSvx6Lajinz_I-_33UiIWNItieFMkWIAxbDuR_AA", France 24 English
+https://hls.youtb.workers.dev/channel/UCQfwfsi5VrQ8yKZ-UWmAEFg.m3u8
+
 #EXTINF:-1 group-title="News" tvg-language="Hindi" tvg-logo="https://yt3.ggpht.com/y5S847YDNlDZNUUk3xmEfVMUDu2XSe0yAU_qvIpbwKi5VgIYQQc3FGeOANbgu-36sBEDpAwDAQ", India TV
 https://hls.youtb.workers.dev/channel/UCttspZesZIDEwwpVIgoZtWQ.m3u8
+
+#EXTINF:-1 group-title="Nature" tvg-language="English" tvg-logo="https://yt3.ggpht.com/f9e-m4g6okRrg7TCHLllMQYFxdM4SPTElEKjUWVmb4vbdzFyk2oM6knZuAVGiiZeIpvlNbO4jw", Nature Relax
+https://hls.youtb.workers.dev/channel/UC80oBMhAYgvV5bCWXs-xCUA.m3u8
+
+#EXTINF:-1 group-title="News" tvg-language="Odia" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLSgRTYyhZKf1NGma__2qf_oa1eJfyLHkSHx9FIHfg", OTV
+https://hls.youtb.workers.dev/channel/UCCgLMMp4lv7fSD2sBz1Ai6Q.m3u8
+
+#EXTINF:-1 group-title="Nature" tvg-language="English" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLS1ux6GXmgjIw4kkiJHfeuY0Bi9N0kjPaWVKzBv", Piano Relaxing
+https://hls.youtb.workers.dev/channel/UCEiS8m8OLFI0REntmsTvzjA.m3u8
+
+#EXTINF:-1 group-title="News" tvg-language="English" tvg-logo="https://yt3.ggpht.com/E96qzkAoX81DQs7wqRHR4rNk1esa4quBPzda2QRzImlhoHOVgRdAN8o-S0Rb_hpygo_n4LdhwTE", Sky News
+https://hls.youtb.workers.dev/channel/UCoMdktPbSTixAyNGwb-UYkQ.m3u8
+
+#EXTINF:-1 group-title="Music" tvg-language="English" tvg-logo="https://yt3.ggpht.com/5C8e_VL2fvl8tEDcnW5K_TsocwiNxbhuXCpdV2t8DhJO-dz8cWIYq6nT3Mf4F9yBnQmIWZUe", Tomorrowland
+https://hls.youtb.workers.dev/channel/UCsN8M73DMWa8SPp5o_0IAQQ.m3u8
 
 #EXTINF:-1 group-title="News" tvg-language="English" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLQ5U-RWZZWrWBgS5imVahjSmIJpb21BW3Rwwd1XTw", WION
 https://hls.youtb.workers.dev/channel/UC_gUM8rL-Lrg6O3adPW9K1g.m3u8
