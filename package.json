@@ -1,0 +1,27 @@
+{
+  "name": "iptv-youtube-live",
+  "version": "1.0.0",
+  "description": "Collection of Youtube live channels that can be added to any IPTV client.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lint": "standard --fix",
+    "generate:m3u8": "node ./src/m3u8.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/abskmj/iptv-youtube-live.git"
+  },
+  "author": "abskmj@gmail.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/abskmj/iptv-youtube-live/issues"
+  },
+  "homepage": "https://github.com/abskmj/iptv-youtube-live#readme",
+  "devDependencies": {
+    "standard": "^17.0.0"
+  },
+  "dependencies": {
+    "csv-parse": "^5.1.0"
+  }
+}
