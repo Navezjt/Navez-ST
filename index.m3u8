@@ -1,5 +1,8 @@
 #EXTM3U x-tvg-url="https://github.com/botallen/epg/releases/download/latest/epg.xml"
 
+#EXTINF:-1 group-title="News" tvg-language="English" tvg-logo="https://yt3.ggpht.com/Iv4QbKjK63MB70UvQ22FnTWF8KN3-2qZ2FqeFDiI-HVmidR7GJKo6UrVSwR6vsyHvmdm1pfirrg", ABC News
+https://hls.youtb.workers.dev/channel/UCBi2mrWuNuyYy4gbM6fU18Q.m3u8
+
 #EXTINF:-1 group-title="News" tvg-language="Hindi" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLRUToLipy4MP82mnh40IvVCb4gOykJssP3S4anLCcE", ABP News
 https://hls.youtb.workers.dev/channel/UCRWFSbif-RFENbBrSiez1DA.m3u8
 
@@ -12,8 +15,14 @@ https://hls.youtb.workers.dev/channel/UCNye-wNBqNL5ZzHSJj3l8Bg.m3u8
 #EXTINF:-1 group-title="News" tvg-language="Odia" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLSpayG9r8Bd4gUvQN8A-WwNKL_4RCF2IMgl5d_n", Argus News
 https://hls.youtb.workers.dev/channel/UCwBK7Cdk0wq8rCjxcvaoHzg.m3u8
 
+#EXTINF:-1 group-title="News" tvg-language="English" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLQbVFfYfijJ0VrwhRpN02LYgy8GGK2PGE-4wBZzOw", CNA
+https://hls.youtb.workers.dev/channel/UC83jt4dlz1Gjl58fzQrrKZg.m3u8
+
 #EXTINF:-1 group-title="News" tvg-language="Hindi" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLSyRjbzRKUYj309uO4sP5h3OrYedoJV1_kQxsTP", CNBC Awaaz
 https://hls.youtb.workers.dev/channel/UCQIycDaLsBpMKjOCeaKUYVg.m3u8
+
+#EXTINF:-1 group-title="News" tvg-language="English" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLQZYIayv7xgavlSTqkrCB_OsPxeG0tkCsvN6p539Q", CNN News18
+https://hls.youtb.workers.dev/channel/UCef1-8eOpJgud7szVPlZQAQ.m3u8
 
 #EXTINF:-1 group-title="Kids" tvg-language="English" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLRu2MPHAs_A-Kmv-iTR_8rDC5uv6CoWq5ekM_DATw", DC Kids
 https://hls.youtb.workers.dev/channel/UCyu8StPfZWapR6rfW_JgqcA.m3u8
@@ -38,6 +47,9 @@ https://hls.youtb.workers.dev/channel/UCttspZesZIDEwwpVIgoZtWQ.m3u8
 
 #EXTINF:-1 group-title="News" tvg-language="Odia" tvg-logo="https://yt3.ggpht.com/vxTV33OnAei79YI2dPSTit69z5DaXn6r3jOvYHztTYeBU13ehCik6iKmvgYaO53jPokrWwcb8qo", Kanak News
 https://hls.youtb.workers.dev/channel/UC90RW5ZmBBqp4r2QIQxfACA.m3u8
+
+#EXTINF:-1 group-title="Science" tvg-language="English" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLRb1ugnpZU9Cb2wF07qqiwvVQ6ZJTfMxkrVXPUMh_A", NASA
+https://hls.youtb.workers.dev/channel/UCLA_DiR1FfKNvjuUpBHmylQ.m3u8
 
 #EXTINF:-1 group-title="News" tvg-language="English" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLQ21BVR2XXhuPuSZAf1HC6quBldr1TQYxXO552Mre4", NDTV
 https://hls.youtb.workers.dev/channel/UCZFMm1mMw0F81Z37aaEzTUA.m3u8
