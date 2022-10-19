@@ -42,8 +42,14 @@ https://hls.youtb.workers.dev/channel/UCSrZ3UV4jOidv8ppoVuvW9Q.m3u8
 #EXTINF:-1 group-title="News" tvg-language="English" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLSSvx6Lajinz_I-_33UiIWNItieFMkWIAxbDuR_AA", France 24 English
 https://hls.youtb.workers.dev/channel/UCQfwfsi5VrQ8yKZ-UWmAEFg.m3u8
 
+#EXTINF:-1 group-title="Devotional" tvg-language="Hindi" tvg-logo="https://yt3.ggpht.com/cmXR5OrJASDcNhBOWu3hwnetv8NqIalDOiIlpWdqKBfu1364rIr5fmfKI670vOmMDPYJ-qCUFw", Hare Krsna
+https://hls.youtb.workers.dev/video/RYqewnoTqWQ.m3u8
+
 #EXTINF:-1 group-title="News" tvg-language="Hindi" tvg-logo="https://yt3.ggpht.com/y5S847YDNlDZNUUk3xmEfVMUDu2XSe0yAU_qvIpbwKi5VgIYQQc3FGeOANbgu-36sBEDpAwDAQ", India TV
 https://hls.youtb.workers.dev/channel/UCttspZesZIDEwwpVIgoZtWQ.m3u8
+
+#EXTINF:-1 group-title="News" tvg-language="English" tvg-logo="https://yt3.ggpht.com/5Zr4bV9iJRa6zNS_-VSbZ7j5S8JhQc2Aez7b9y923AnYqJnltvI2iGdOFnWBcW-34ioPZlxzzLE", India Today
+https://hls.youtb.workers.dev/video/lyeyoqwXm5o.m3u8
 
 #EXTINF:-1 group-title="News" tvg-language="Odia" tvg-logo="https://yt3.ggpht.com/vxTV33OnAei79YI2dPSTit69z5DaXn6r3jOvYHztTYeBU13ehCik6iKmvgYaO53jPokrWwcb8qo", Kanak News
 https://hls.youtb.workers.dev/channel/UC90RW5ZmBBqp4r2QIQxfACA.m3u8
@@ -61,10 +67,13 @@ https://hls.youtb.workers.dev/channel/UC80oBMhAYgvV5bCWXs-xCUA.m3u8
 https://hls.youtb.workers.dev/channel/UCUK49UvmYWYLiB7_bZFuFZQ.m3u8
 
 #EXTINF:-1 group-title="News" tvg-language="Odia" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLSgRTYyhZKf1NGma__2qf_oa1eJfyLHkSHx9FIHfg", OTV
-https://hls.youtb.workers.dev/channel/UCCgLMMp4lv7fSD2sBz1Ai6Q.m3u8
+https://hls.youtb.workers.dev/video/AtveZ8K0JT0.m3u8
 
 #EXTINF:-1 group-title="Nature" tvg-language="English" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLS1ux6GXmgjIw4kkiJHfeuY0Bi9N0kjPaWVKzBv", Piano Relaxing
 https://hls.youtb.workers.dev/channel/UCEiS8m8OLFI0REntmsTvzjA.m3u8
+
+#EXTINF:-1 group-title="Music" tvg-language="English" tvg-logo="https://yt3.ggpht.com/ytc/AMLnZu9d1O338iPDejQIv8NA0a7xQwqt7mziK0aB581k-g", Relaxation Ambient Music
+https://hls.youtb.workers.dev/video/tNkZsRW7h2c.m3u8
 
 #EXTINF:-1 group-title="News" tvg-language="Hindi" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLTHZuOu1RwxGkcEsHKE6_WfmeST3JPoWNLxir3alA", Republic Bharat
 https://hls.youtb.workers.dev/channel/UC7wXt18f2iA3EDXeqAVuKn.m3u8
