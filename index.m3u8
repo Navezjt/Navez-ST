@@ -24,6 +24,12 @@ https://hls.youtb.workers.dev/channel/UCQIycDaLsBpMKjOCeaKUYVg.m3u8
 #EXTINF:-1 group-title="News" tvg-language="English" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLQZYIayv7xgavlSTqkrCB_OsPxeG0tkCsvN6p539Q", CNN News18
 https://hls.youtb.workers.dev/channel/UCef1-8eOpJgud7szVPlZQAQ.m3u8
 
+#EXTINF:-1 group-title="Crime" tvg-language="English" tvg-logo="https://yt3.ggpht.com/ytc/AMLnZu91uKoppQJdRBlpEMFQSaXd_I4CIJ3T7MNxl1Cz", Cold Case Detective
+https://hls.youtb.workers.dev/channel/UCdjslyNQupPSFxK_mSPcG-g.m3u8
+
+#EXTINF:-1 group-title="Crime" tvg-language="English" tvg-logo="https://yt3.ggpht.com/ytc/AMLnZu_AUUcZXR1_1NfoyYpzi9rydQq-RfDZDghNwPesfQ", Cops TV
+https://hls.youtb.workers.dev/channel/UCfJsOa7m1zKMS9T2.m3u8
+
 #EXTINF:-1 group-title="Kids" tvg-language="English" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLRu2MPHAs_A-Kmv-iTR_8rDC5uv6CoWq5ekM_DATw", DC Kids
 https://hls.youtb.workers.dev/channel/UCyu8StPfZWapR6rfW_JgqcA.m3u8
 
@@ -41,6 +47,9 @@ https://hls.youtb.workers.dev/channel/UCSrZ3UV4jOidv8ppoVuvW9Q.m3u8
 
 #EXTINF:-1 group-title="News" tvg-language="English" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLSSvx6Lajinz_I-_33UiIWNItieFMkWIAxbDuR_AA", France 24 English
 https://hls.youtb.workers.dev/channel/UCQfwfsi5VrQ8yKZ-UWmAEFg.m3u8
+
+#EXTINF:-1 group-title="Music" tvg-language="English" tvg-logo="https://yt3.ggpht.com/ytc/AMLnZu_V9mOdHaorjNFqGXCecFeOBZhDWB8tVYG_I8gJwA", Good Life Radio
+https://hls.youtb.workers.dev/video/36YnV9STBqc.m3u8
 
 #EXTINF:-1 group-title="Devotional" tvg-language="Hindi" tvg-logo="https://yt3.ggpht.com/cmXR5OrJASDcNhBOWu3hwnetv8NqIalDOiIlpWdqKBfu1364rIr5fmfKI670vOmMDPYJ-qCUFw", Hare Krsna
 https://hls.youtb.workers.dev/video/RYqewnoTqWQ.m3u8
@@ -83,6 +92,9 @@ https://hls.youtb.workers.dev/channel/UCwqusr8YDwM-3mEYTDeJHzw.m3u8
 
 #EXTINF:-1 group-title="News" tvg-language="English" tvg-logo="https://yt3.ggpht.com/E96qzkAoX81DQs7wqRHR4rNk1esa4quBPzda2QRzImlhoHOVgRdAN8o-S0Rb_hpygo_n4LdhwTE", Sky News
 https://hls.youtb.workers.dev/channel/UCoMdktPbSTixAyNGwb-UYkQ.m3u8
+
+#EXTINF:-1 group-title="Music" tvg-language="English" tvg-logo="https://yt3.ggpht.com/ytc/AMLnZu9ppdgul4nVU7Z1bix1Bj6GiuB8zNKJUPKVzOsBkg", Spinning Records
+https://hls.youtb.workers.dev/channel/UChh_fym-hr05Pd-vPMrOVAg.m3u8
 
 #EXTINF:-1 group-title="Music" tvg-language="English" tvg-logo="https://yt3.ggpht.com/5C8e_VL2fvl8tEDcnW5K_TsocwiNxbhuXCpdV2t8DhJO-dz8cWIYq6nT3Mf4F9yBnQmIWZUe", Tomorrowland
 https://hls.youtb.workers.dev/channel/UCsN8M73DMWa8SPp5o_0IAQQ.m3u8
