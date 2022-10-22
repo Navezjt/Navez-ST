@@ -15,6 +15,9 @@ https://hls.youtb.workers.dev/channel/UCNye-wNBqNL5ZzHSJj3l8Bg.m3u8
 #EXTINF:-1 group-title="News" tvg-language="Odia" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLSpayG9r8Bd4gUvQN8A-WwNKL_4RCF2IMgl5d_n", Argus News
 https://hls.youtb.workers.dev/channel/UCwBK7Cdk0wq8rCjxcvaoHzg.m3u8
 
+#EXTINF:-1 group-title="Music" tvg-language="English" tvg-logo="https://yt3.ggpht.com/X5J4XRzSiFusACXIZrV90ImV__L96bdCaed5OJEF9OR4j8aidoHrqRLfhr8lZEqkbECrsUAESQ", Art of Minimal Techno Trip
+https://hls.youtb.workers.dev/channel/UCrcfRtdHb11YJEloTSaOYvw.m3u8
+
 #EXTINF:-1 group-title="News" tvg-language="English" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLQbVFfYfijJ0VrwhRpN02LYgy8GGK2PGE-4wBZzOw", CNA
 https://hls.youtb.workers.dev/channel/UC83jt4dlz1Gjl58fzQrrKZg.m3u8
 
@@ -42,6 +45,9 @@ https://hls.youtb.workers.dev/channel/UCKwucPzHZ7zCUIf7If-Wo1g.m3u8
 #EXTINF:-1 group-title="News" tvg-language="English" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLToHygnzerTBVOB3GsUcxsPiMP6dIOzFe9T90R0fAE", DW News
 https://hls.youtb.workers.dev/channel/UCknLrEdhRCp1aegoMqRaCZg.m3u8
 
+#EXTINF:-1 group-title="Kids" tvg-language="English" tvg-logo="https://yt3.ggpht.com/_h0LruFUfluRLAx1VtPbKZ4AfTnm7TkTFMZIuR83dKpnRcOCP8tkw8KIJaHfaj2yKgPffuLu", Disney Junior
+https://hls.youtb.workers.dev/channel/UCw7SNYrYei7F5ttQO3o-rpA.m3u8
+
 #EXTINF:-1 group-title="News" tvg-language="English" tvg-logo="https://yt3.ggpht.com/yf11CBlHMr2hTqx-gUoAR_v9W0iRSK7O8PD5Wi5qKIcU7cKKF11Dhwr2KuKZ_SWRnxDVKIct", Euro News
 https://hls.youtb.workers.dev/channel/UCSrZ3UV4jOidv8ppoVuvW9Q.m3u8
 
@@ -50,6 +56,9 @@ https://hls.youtb.workers.dev/channel/UCQfwfsi5VrQ8yKZ-UWmAEFg.m3u8
 
 #EXTINF:-1 group-title="Music" tvg-language="English" tvg-logo="https://yt3.ggpht.com/ytc/AMLnZu_V9mOdHaorjNFqGXCecFeOBZhDWB8tVYG_I8gJwA", Good Life Radio
 https://hls.youtb.workers.dev/video/36YnV9STBqc.m3u8
+
+#EXTINF:-1 group-title="Devotional" tvg-language="Punjabi" tvg-logo="https://yt3.ggpht.com/ppC-4mgOE3ph6lmjgO-q8cZfCDLdBm8aQp5RDaZ1gw0M1p5X5yoB6Ei45yEs4-8aJMTjjX-bUQ", Gurbani Shabad Kirtan
+https://hls.youtb.workers.dev/channel/UCLMfeT_BVADvx_sTybotSLA.m3u8
 
 #EXTINF:-1 group-title="Devotional" tvg-language="Hindi" tvg-logo="https://yt3.ggpht.com/cmXR5OrJASDcNhBOWu3hwnetv8NqIalDOiIlpWdqKBfu1364rIr5fmfKI670vOmMDPYJ-qCUFw", Hare Krsna
 https://hls.youtb.workers.dev/video/RYqewnoTqWQ.m3u8
@@ -81,6 +90,12 @@ https://hls.youtb.workers.dev/video/AtveZ8K0JT0.m3u8
 #EXTINF:-1 group-title="Nature" tvg-language="English" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLS1ux6GXmgjIw4kkiJHfeuY0Bi9N0kjPaWVKzBv", Piano Relaxing
 https://hls.youtb.workers.dev/channel/UCEiS8m8OLFI0REntmsTvzjA.m3u8
 
+#EXTINF:-1 group-title="Kids" tvg-language="English" tvg-logo="https://yt3.ggpht.com/IepI9V2OjYmTKYKDiRBk_5WC6J2yjJR3RCgMUfbsJxbK9J5HufPZ4y0kobaDNO9MdUbighMmlA", Power Rangers
+https://hls.youtb.workers.dev/channel/CbIm2iqwql8bFqkO2bHv7Mw.m3u8
+
+#EXTINF:-1 group-title="Hobby" tvg-language="English" tvg-logo="https://yt3.ggpht.com/w7ypnC99hE2BTYOC9k2g5Ud1_gYmY6V0QsaeeRO0hsdeAvxzK4-S7Hb0NcAT63EaK73uvFkylw", Rail Cow Girl
+https://hls.youtb.workers.dev/channel/UCvm9D3qA3ySXLCmSXu4Zc3w.m3u8
+
 #EXTINF:-1 group-title="Music" tvg-language="English" tvg-logo="https://yt3.ggpht.com/ytc/AMLnZu9d1O338iPDejQIv8NA0a7xQwqt7mziK0aB581k-g", Relaxation Ambient Music
 https://hls.youtb.workers.dev/video/tNkZsRW7h2c.m3u8
 
@@ -96,8 +111,14 @@ https://hls.youtb.workers.dev/channel/UCoMdktPbSTixAyNGwb-UYkQ.m3u8
 #EXTINF:-1 group-title="Music" tvg-language="English" tvg-logo="https://yt3.ggpht.com/ytc/AMLnZu9ppdgul4nVU7Z1bix1Bj6GiuB8zNKJUPKVzOsBkg", Spinning Records
 https://hls.youtb.workers.dev/channel/UChh_fym-hr05Pd-vPMrOVAg.m3u8
 
+#EXTINF:-1 group-title="Kids" tvg-language="English" tvg-logo="https://yt3.ggpht.com/ytc/AMLnZu8icX-RsqoNmZcmNlrojwG4GVh_-X7Uz8_ZIYXXfA", Talking Tom
+https://hls.youtb.workers.dev/channel/UCDCNmuaOXOo25Yn4mbMHhhQ.m3u8
+
 #EXTINF:-1 group-title="Music" tvg-language="English" tvg-logo="https://yt3.ggpht.com/5C8e_VL2fvl8tEDcnW5K_TsocwiNxbhuXCpdV2t8DhJO-dz8cWIYq6nT3Mf4F9yBnQmIWZUe", Tomorrowland
 https://hls.youtb.workers.dev/channel/UCsN8M73DMWa8SPp5o_0IAQQ.m3u8
+
+#EXTINF:-1 group-title="Kids" tvg-language="English" tvg-logo="https://yt3.ggpht.com/ytc/AMLnZu_IX4cW3hPoiNEHyRQWmQ4iG9CGKvfrONpQFgV-HQ", Transformers
+https://hls.youtb.workers.dev/channel/UCx7b66RpQRLuOXvItxy0Wxg.m3u8
 
 #EXTINF:-1 group-title="Kids" tvg-language="English" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLTWSuXvajlpkF0dcqa8Mf2Va5svzH7b9EC1x0Q7zA", WB Kids
 https://hls.youtb.workers.dev/channel/UC9trsD1jCTXXtN3xIOIU8gg.m3u8
