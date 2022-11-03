@@ -3,6 +3,9 @@
 #EXTINF:-1 group-title="News" tvg-language="English" tvg-logo="https://yt3.ggpht.com/Iv4QbKjK63MB70UvQ22FnTWF8KN3-2qZ2FqeFDiI-HVmidR7GJKo6UrVSwR6vsyHvmdm1pfirrg", ABC News
 https://hls.youtb.workers.dev/channel/UCBi2mrWuNuyYy4gbM6fU18Q.m3u8
 
+#EXTINF:-1 group-title="News" tvg-language="English" tvg-logo="https://yt3.ggpht.com/ytc/AMLnZu_m6ZrA15uLgM1cNGM0gpT2XEXnJT6fYNjS1Z7FcQ", ABC News (Australia)
+https://hls.youtb.workers.dev/channel/UCVgO39Bk5sMo66-6o6Spn6Q.m3u8
+
 #EXTINF:-1 group-title="News" tvg-language="Hindi" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLRUToLipy4MP82mnh40IvVCb4gOykJssP3S4anLCcE", ABP News
 https://hls.youtb.workers.dev/channel/UCRWFSbif-RFENbBrSiez1DA.m3u8
 
@@ -39,6 +42,9 @@ https://hls.youtb.workers.dev/channel/UCdjslyNQupPSFxK_mSPcG-g.m3u8
 #EXTINF:-1 group-title="Crime" tvg-language="English" tvg-logo="https://yt3.ggpht.com/ytc/AMLnZu_AUUcZXR1_1NfoyYpzi9rydQq-RfDZDghNwPesfQ", Cops TV
 https://hls.youtb.workers.dev/channel/UCfJsOa7m1zKMS9T2.m3u8
 
+#EXTINF:-1 group-title="Hobby" tvg-language="English" tvg-logo="https://yt3.ggpht.com/fnybNqxJVlKpq0EplOrnGgfKyjwQD1kR-kZTUHOqlooUG2VfhZKjJgHSCiuZkftEUGqToaPpoNk", Create & Craft TV
+https://hls.youtb.workers.dev/channel/UC6dB-iYVw8Lcs5_uFWUZCOQ.m3u8
+
 #EXTINF:-1 group-title="Kids" tvg-language="English" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLRu2MPHAs_A-Kmv-iTR_8rDC5uv6CoWq5ekM_DATw", DC Kids
 https://hls.youtb.workers.dev/channel/UCyu8StPfZWapR6rfW_JgqcA.m3u8
 
@@ -55,7 +61,7 @@ https://hls.youtb.workers.dev/channel/UCknLrEdhRCp1aegoMqRaCZg.m3u8
 https://hls.youtb.workers.dev/channel/UCw7SNYrYei7F5ttQO3o-rpA.m3u8
 
 #EXTINF:-1 group-title="Music" tvg-language="English" tvg-logo="https://yt3.ggpht.com/t_VmCQuVMtzURrk2Xlbh8JU7RCi1jUGk5i-jYXMDIT3x5ge8Q9B4x9qDwdei8HlvJbi7iw-6sA", Epidemic Pop
-https://hls.youtb.workers.dev/channel/UCy83_JjYulvknnYjHuc3Puw.m3u8
+https://hls.youtb.workers.dev/channel/UCzMxEa-lDX2AfgotszScOFg.m3u8
 
 #EXTINF:-1 group-title="News" tvg-language="English" tvg-logo="https://yt3.ggpht.com/yf11CBlHMr2hTqx-gUoAR_v9W0iRSK7O8PD5Wi5qKIcU7cKKF11Dhwr2KuKZ_SWRnxDVKIct", Euro News
 https://hls.youtb.workers.dev/channel/UCSrZ3UV4jOidv8ppoVuvW9Q.m3u8
@@ -70,15 +76,15 @@ https://hls.youtb.workers.dev/channel/UCS5iRXHd5PqBud1Chh9FRFA.m3u8
 https://hls.youtb.workers.dev/channel/UCQfwfsi5VrQ8yKZ-UWmAEFg.m3u8
 
 #EXTINF:-1 group-title="Music" tvg-language="English" tvg-logo="https://yt3.ggpht.com/ytc/AMLnZu9tzRyzH8H175teN3sBw21I6vGhTPRFFbvQI59HSg", Future House Radio
-https://hls.youtb.workers.dev/channel/UCw7yTxYNzGuO4-dRemr3ePQ.m3u8
+https://hls.youtb.workers.dev/channel/UCE7gceSq79z8uW7cTe86UaA.m3u8
 
 #EXTINF:-1 group-title="Music" tvg-language="English" tvg-logo="https://yt3.ggpht.com/ytc/AMLnZu_V9mOdHaorjNFqGXCecFeOBZhDWB8tVYG_I8gJwA", Good Life Radio
 https://hls.youtb.workers.dev/video/36YnV9STBqc.m3u8
 
-#EXTINF:-1 group-title="Devotional" tvg-language="Punjabi" tvg-logo="https://yt3.ggpht.com/ppC-4mgOE3ph6lmjgO-q8cZfCDLdBm8aQp5RDaZ1gw0M1p5X5yoB6Ei45yEs4-8aJMTjjX-bUQ", Gurbani Shabad Kirtan
+#EXTINF:-1 group-title="Spiritual" tvg-language="Punjabi" tvg-logo="https://yt3.ggpht.com/ppC-4mgOE3ph6lmjgO-q8cZfCDLdBm8aQp5RDaZ1gw0M1p5X5yoB6Ei45yEs4-8aJMTjjX-bUQ", Gurbani Shabad Kirtan
 https://hls.youtb.workers.dev/channel/UCLMfeT_BVADvx_sTybotSLA.m3u8
 
-#EXTINF:-1 group-title="Devotional" tvg-language="Hindi" tvg-logo="https://yt3.ggpht.com/cmXR5OrJASDcNhBOWu3hwnetv8NqIalDOiIlpWdqKBfu1364rIr5fmfKI670vOmMDPYJ-qCUFw", Hare Krsna
+#EXTINF:-1 group-title="Spiritual" tvg-language="Hindi" tvg-logo="https://yt3.ggpht.com/cmXR5OrJASDcNhBOWu3hwnetv8NqIalDOiIlpWdqKBfu1364rIr5fmfKI670vOmMDPYJ-qCUFw", Hare Krsna
 https://hls.youtb.workers.dev/video/RYqewnoTqWQ.m3u8
 
 #EXTINF:-1 group-title="News" tvg-language="Hindi" tvg-logo="https://yt3.ggpht.com/y5S847YDNlDZNUUk3xmEfVMUDu2XSe0yAU_qvIpbwKi5VgIYQQc3FGeOANbgu-36sBEDpAwDAQ", India TV
@@ -91,7 +97,7 @@ https://hls.youtb.workers.dev/video/lyeyoqwXm5o.m3u8
 https://hls.youtb.workers.dev/channel/UC90RW5ZmBBqp4r2QIQxfACA.m3u8
 
 #EXTINF:-1 group-title="Music" tvg-language="English" tvg-logo="https://yt3.ggpht.com/KNYElmLFGAOSZoBmxYGKKXhGHrT2e7Hmz3WsBerbam5uaDXFADAmT7htj3OcC-uK1O88lC9fQg", Lofi Girl
-https://hls.youtb.workers.dev/channel/UCuw1VDsmOWOldKGLYq6AkVg.m3u8
+https://hls.youtb.workers.dev/channel/UCSJ4gkVC6NrvII8umztf0Ow.m3u8
 
 #EXTINF:-1 group-title="Science" tvg-language="English" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLRb1ugnpZU9Cb2wF07qqiwvVQ6ZJTfMxkrVXPUMh_A", NASA
 https://hls.youtb.workers.dev/channel/UCLA_DiR1FfKNvjuUpBHmylQ.m3u8
@@ -138,8 +144,11 @@ https://hls.youtb.workers.dev/channel/UC7wXt18f2iA3EDXeqAVuKn.m3u8
 #EXTINF:-1 group-title="News" tvg-language="English" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLSsQCQ5OPDxOO21aNL5b7dHEA-42JUP2W7oxMefwA", Republic World
 https://hls.youtb.workers.dev/channel/UCwqusr8YDwM-3mEYTDeJHzw.m3u8
 
+#EXTINF:-1 group-title="News" tvg-language="Hindi" tvg-logo="https://yt3.ggpht.com/tY3E_5kQ29_aNmLX17bMwGtgHbhkAFZefpaluftZaAxW16Q3IC2-MRxmIo9TimnaqXbz6KRNBw", Sansad TV
+https://hls.youtb.workers.dev/channel/UCISgnSNwqQ2i8lhCun3KtQg.m3u8
+
 #EXTINF:-1 group-title="News" tvg-language="English" tvg-logo="https://yt3.ggpht.com/E96qzkAoX81DQs7wqRHR4rNk1esa4quBPzda2QRzImlhoHOVgRdAN8o-S0Rb_hpygo_n4LdhwTE", Sky News
-https://hls.youtb.workers.dev/channel/UCoMdktPbSTixAyNGwb-UYkQ.m3u8
+https://hls.youtb.workers.dev/video/9Auq9mYxFEE.m3u8
 
 #EXTINF:-1 group-title="Music" tvg-language="English" tvg-logo="https://yt3.ggpht.com/ytc/AMLnZu9ppdgul4nVU7Z1bix1Bj6GiuB8zNKJUPKVzOsBkg", Spinning Records
 https://hls.youtb.workers.dev/channel/UChh_fym-hr05Pd-vPMrOVAg.m3u8
@@ -155,6 +164,9 @@ https://hls.youtb.workers.dev/channel/UCsN8M73DMWa8SPp5o_0IAQQ.m3u8
 
 #EXTINF:-1 group-title="Kids" tvg-language="English" tvg-logo="https://yt3.ggpht.com/ytc/AMLnZu_IX4cW3hPoiNEHyRQWmQ4iG9CGKvfrONpQFgV-HQ", Transformers
 https://hls.youtb.workers.dev/channel/UCx7b66RpQRLuOXvItxy0Wxg.m3u8
+
+#EXTINF:-1 group-title="Spiritual" tvg-language="English" tvg-logo="https://yt3.ggpht.com/ytc/AMLnZu84Jv1Jpf4ODWJk7SZeIiH7nbe0Bip_qSlyMkXIGw", Victory Channel
+https://hls.youtb.workers.dev/channel/UCvYVGf_JFME9dVe3WtljP1Q.m3u8
 
 #EXTINF:-1 group-title="Kids" tvg-language="English" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLTWSuXvajlpkF0dcqa8Mf2Va5svzH7b9EC1x0Q7zA", WB Kids
 https://hls.youtb.workers.dev/channel/UC9trsD1jCTXXtN3xIOIU8gg.m3u8
