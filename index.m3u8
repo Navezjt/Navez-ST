@@ -87,6 +87,9 @@ https://hls.youtb.workers.dev/channel/UCLMfeT_BVADvx_sTybotSLA.m3u8
 #EXTINF:-1 group-title="Spiritual" tvg-language="Hindi" tvg-logo="https://yt3.ggpht.com/cmXR5OrJASDcNhBOWu3hwnetv8NqIalDOiIlpWdqKBfu1364rIr5fmfKI670vOmMDPYJ-qCUFw", Hare Krsna
 https://hls.youtb.workers.dev/video/RYqewnoTqWQ.m3u8
 
+#EXTINF:-1 group-title="Kids" tvg-language="English" tvg-logo="https://yt3.ggpht.com/ytc/AMLnZu8wGk4JEru-1Csaj17ZK3Me6lR3lvByD2XX-apU9g", Hasbro
+https://hls.youtb.workers.dev/channel/UC-r13SLLdZtZNmuC2bMnlmw.m3u8
+
 #EXTINF:-1 group-title="News" tvg-language="Hindi" tvg-logo="https://yt3.ggpht.com/y5S847YDNlDZNUUk3xmEfVMUDu2XSe0yAU_qvIpbwKi5VgIYQQc3FGeOANbgu-36sBEDpAwDAQ", India TV
 https://hls.youtb.workers.dev/channel/UCttspZesZIDEwwpVIgoZtWQ.m3u8
 
@@ -96,11 +99,14 @@ https://hls.youtb.workers.dev/video/lyeyoqwXm5o.m3u8
 #EXTINF:-1 group-title="News" tvg-language="Odia" tvg-logo="https://yt3.ggpht.com/vxTV33OnAei79YI2dPSTit69z5DaXn6r3jOvYHztTYeBU13ehCik6iKmvgYaO53jPokrWwcb8qo", Kanak News
 https://hls.youtb.workers.dev/channel/UC90RW5ZmBBqp4r2QIQxfACA.m3u8
 
+#EXTINF:-1 group-title="Hobby" tvg-language="English" tvg-logo="https://yt3.ggpht.com/ytc/AMLnZu8-K8AOBonOVedtQtFH5yjomCkY_U7IH6LcWBwCVg", Kozoom
+https://hls.youtb.workers.dev/channel/UCOwcct1FjXWzlvmQxaR4Y8Q.m3u8
+
 #EXTINF:-1 group-title="Music" tvg-language="English" tvg-logo="https://yt3.ggpht.com/KNYElmLFGAOSZoBmxYGKKXhGHrT2e7Hmz3WsBerbam5uaDXFADAmT7htj3OcC-uK1O88lC9fQg", Lofi Girl
 https://hls.youtb.workers.dev/channel/UCSJ4gkVC6NrvII8umztf0Ow.m3u8
 
 #EXTINF:-1 group-title="Science" tvg-language="English" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLRb1ugnpZU9Cb2wF07qqiwvVQ6ZJTfMxkrVXPUMh_A", NASA
-https://hls.youtb.workers.dev/channel/UCLA_DiR1FfKNvjuUpBHmylQ.m3u8
+https://hls.youtb.workers.dev/video/21X5lGlDOfg.m3u8
 
 #EXTINF:-1 group-title="News" tvg-language="English" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLQ21BVR2XXhuPuSZAf1HC6quBldr1TQYxXO552Mre4", NDTV
 https://hls.youtb.workers.dev/channel/UCZFMm1mMw0F81Z37aaEzTUA.m3u8
@@ -168,11 +174,17 @@ https://hls.youtb.workers.dev/channel/UCx7b66RpQRLuOXvItxy0Wxg.m3u8
 #EXTINF:-1 group-title="Spiritual" tvg-language="English" tvg-logo="https://yt3.ggpht.com/ytc/AMLnZu84Jv1Jpf4ODWJk7SZeIiH7nbe0Bip_qSlyMkXIGw", Victory Channel
 https://hls.youtb.workers.dev/channel/UCvYVGf_JFME9dVe3WtljP1Q.m3u8
 
+#EXTINF:-1 group-title="News" tvg-language="English" tvg-logo="https://yt3.ggpht.com/ytc/AMLnZu9twhWxE8HBY5NGawjMEPDpzwlKaqeh55yKfK-93w", Vox
+https://hls.youtb.workers.dev/channel/UCLXo7UDZvByw2ixzpQCufnA.m3u8
+
 #EXTINF:-1 group-title="Kids" tvg-language="English" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLTWSuXvajlpkF0dcqa8Mf2Va5svzH7b9EC1x0Q7zA", WB Kids
 https://hls.youtb.workers.dev/channel/UC9trsD1jCTXXtN3xIOIU8gg.m3u8
 
 #EXTINF:-1 group-title="News" tvg-language="English" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLQ5U-RWZZWrWBgS5imVahjSmIJpb21BW3Rwwd1XTw", WION
 https://hls.youtb.workers.dev/channel/UC_gUM8rL-Lrg6O3adPW9K1g.m3u8
+
+#EXTINF:-1 group-title="Hobby" tvg-language="English" tvg-logo="https://yt3.ggpht.com/tUoCcMWfGISu5Bb_j2dorGlRGrtw8PNHhJyShDSqWiaCueQiGxoP7jw2dRDcHJGpsDLoDJnq4A", World Poker Tour
+https://hls.youtb.workers.dev/channel/UCEUGxpG2rkyJlCvr46PBr6g.m3u8
 
 #EXTINF:-1 group-title="News" tvg-language="Hindi" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLQ8kKijuHJ7kY9prcuIXQ1Aht4yznFzAZe-jleevQw", Zee News
 https://hls.youtb.workers.dev/channel/UCIvaYmXn910QMdemBG3v1pQ.m3u8
