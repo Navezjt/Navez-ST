@@ -1,0 +1,51 @@
+name: 🐞 Issue report
+description: Report a source issue
+body:
+
+  - type: input
+    id: source
+    attributes:
+      label: Source information
+      description: |
+        You can find the source name in .CSV file.
+      placeholder: |
+        Example: "NDTV"
+    validations:
+      required: true
+
+  - type: textarea
+    id: reproduce-steps
+    attributes:
+      label: Steps to reproduce
+      description: Provide an example of the issue.
+      placeholder: |
+        Example:
+          1. First step
+          2. Second step
+          3. Issue here
+    validations:
+      required: false
+
+  - type: input
+    id: provider-name
+    attributes:
+      label: IPTV Provider
+      placeholder: |
+        Example: "OTT NAV"
+    validations:
+      required: true
+
+  - type: textarea
+    id: other-details
+    attributes:
+      label: Other details
+      placeholder: |
+        Additional details and attachments.
+
+  - type: checkboxes
+    id: acknowledgements
+    attributes:
+      label: Acknowledgements
+      options:
+        - label: I have searched the existing issues and this is a new ticket, **NOT** a duplicate or related to another open issue.
+          required: true
