@@ -51,8 +51,8 @@ const getCache = async () => {
 
   // sort channels alphabetically by their name
   channels.sort((a, b) => {
-    if (a.name > b.name) return 1
-    if (a.name < b.name) return -1
+    if (a.name.toLowerCase() > b.name.toLowerCase()) return 1
+    if (a.name.toLowerCase() < b.name.toLowerCase()) return -1
     return 0
   })
 
