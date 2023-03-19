@@ -252,6 +252,9 @@ https://ythls.onrender.com/video/lyeyoqwXm5o.m3u8
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="", JAN TV
 https://ythls.onrender.com/channel/UCjmnq35TvJ1J8JZS49OPg-Q.m3u8
 
+#EXTINF:-1 group-title="" tvg-language="" tvg-logo="", JAPAN NEWS NIIGATA
+https://ythls.onrender.com/channel/UC8iN-WKPu820ve-4t9NxHRw.m3u8
+
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="", Jaya Plus
 https://ythls.onrender.com/channel/UCOP4Gbw-T1ofcW8vyL89ZDw.m3u8
 
@@ -339,6 +342,9 @@ https://ythls.onrender.com/channel/UCat88i6_rELqI_prwvjspRA.m3u8
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="", NewsJ
 https://ythls.onrender.com/channel/UCsfh2Zb7-m4qzT8jLhK_Fzw.m3u8
 
+#EXTINF:-1 group-title="" tvg-language="" tvg-logo="", NewsTamil 24X7
+https://ythls.onrender.com/channel/UCtbo6_eDG7zEtaOtcSltJkA.m3u8
+
 #EXTINF:-1 group-title="News" tvg-language="Odia" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLSgRTYyhZKf1NGma__2qf_oa1eJfyLHkSHx9FIHfg", OTV
 https://ythls.onrender.com/video/UWY2p8YEnb8.m3u8
 
@@ -378,11 +384,23 @@ https://ythls.onrender.com/channel/UC8Z-VjXBtDJTvq6aqkIskPg.m3u8
 #EXTINF:-1 group-title="Kids" tvg-language="English" tvg-logo="https://yt3.ggpht.com/IepI9V2OjYmTKYKDiRBk_5WC6J2yjJR3RCgMUfbsJxbK9J5HufPZ4y0kobaDNO9MdUbighMmlA", Power Rangers
 https://ythls.onrender.com/channel/UCbIm2iqwql8bFqkO2bHv7Mw.m3u8
 
+#EXTINF:-1 group-title="" tvg-language="" tvg-logo="", Prière Midi Pasteur Carlos
+https://ythls.onrender.com/channel/UCBxkIrtn2x0YkB72FAz3t5A.m3u8
+
+#EXTINF:-1 group-title="" tvg-language="" tvg-logo="", REALITATEA.NET
+https://ythls.onrender.com/channel/UCO4RZJR_9WZmS-qRA3tMMTg.m3u8
+
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="", RTD WEB TV
 https://ythls.onrender.com/channel/UCB0NxICFmGabAalD46J2i4A.m3u8
 
+#EXTINF:-1 group-title="" tvg-language="" tvg-logo="", RTVE Noticias
+https://ythls.onrender.com/video/xR-4NDFsYNk.m3u8
+
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="", RTVSLON
 https://ythls.onrender.com/channel/UCX0QrFrUrE3Vu7wUcvwQKSw.m3u8
+
+#EXTINF:-1 group-title="" tvg-language="" tvg-logo="", Radio Télé Altagrace
+https://ythls.onrender.com/channel/UCMRUAEjvPv7HZCUinmjywSA.m3u8
 
 #EXTINF:-1 group-title="Hobby" tvg-language="English" tvg-logo="https://yt3.ggpht.com/w7ypnC99hE2BTYOC9k2g5Ud1_gYmY6V0QsaeeRO0hsdeAvxzK4-S7Hb0NcAT63EaK73uvFkylw", Rail Cow Girl
 https://ythls.onrender.com/channel/UCj-Xm8j6WBgKY8OG7s9r2vQ.m3u8
@@ -414,6 +432,12 @@ https://ythls.onrender.com/channel/UCn8lMRYDANs_1yAL3iuw7_g.m3u8
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="", Shekinah News
 https://ythls.onrender.com/channel/UCHtYUfPnQci6GoUpPlWfrOg.m3u8
 
+#EXTINF:-1 group-title="" tvg-language="" tvg-logo="", Shekinah. fm
+https://ythls.onrender.com/channel/UCJWJu_Vts7EUBbmsa1gO0Yw.m3u8
+
+#EXTINF:-1 group-title="" tvg-language="" tvg-logo="", Shoptime
+https://ythls.onrender.com/channel/UCCuYi5AP3gya6C5mdWYS6CQ.m3u8
+
 #EXTINF:-1 group-title="Spiritual" tvg-language="Hindi" tvg-logo="https://yt3.googleusercontent.com/ytc/AL5GRJXKTxNO-kSRgkeDE0TFz2vnqiyvTKE2z45iIJYo=s100-c-k-c0x00ffffff-no-rj", Shri Krishna Bhakti Geet
 https://ythls.onrender.com/channel/UC0MRoMlktQ0OJmh3jubsz4g.m3u8
 
@@ -440,6 +464,9 @@ https://ythls.onrender.com/channel/UCcqFHIDYfKsaJ5KXZjzW7ZQ.m3u8
 
 #EXTINF:-1 group-title="Shop" tvg-language="English" tvg-logo="https://yt3.ggpht.com/cBoqCwufrjvxQUvQ_1dfvxH6PAeJGSij7MYf8oXGvex0haRbrBekKu1nG7aNUOMRACVOHqyh", TSC
 https://ythls.onrender.com/channel/UCsvQn8KCdv1kNaCAu8C1Gog.m3u8
+
+#EXTINF:-1 group-title="" tvg-language="" tvg-logo="", TSC
+https://ythls.onrender.com/video/1wotsnJGYWk.m3u8
 
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="", TV La Verdad Oficial
 https://ythls.onrender.com/channel/UCS5n5q3lJBXom3wVbOiUl9Q.m3u8
@@ -495,6 +522,9 @@ https://ythls.onrender.com/channel/UCGRhTiknVzrL-Rfy4N1tPTA.m3u8
 #EXTINF:-1 group-title="News" tvg-language="English" tvg-logo="https://yt3.ggpht.com/ytc/AMLnZu-MMFwM5z9qIRmaSTKk01s3dTy4ru-tXqmwwEzP3g", United Nations TV
 https://ythls.onrender.com/channel/UC5O114-PQNYkurlTg6hekZw.m3u8
 
+#EXTINF:-1 group-title="" tvg-language="" tvg-logo="", Vevo
+https://ythls.onrender.com/video/xl63OdwuoAw.m3u8
+
 #EXTINF:-1 group-title="Spiritual" tvg-language="English" tvg-logo="https://yt3.ggpht.com/ytc/AMLnZu84Jv1Jpf4ODWJk7SZeIiH7nbe0Bip_qSlyMkXIGw", Victory Channel
 https://ythls.onrender.com/channel/UCvYVGf_JFME9dVe3WtljP1Q.m3u8
 
@@ -525,6 +555,9 @@ https://ythls.onrender.com/channel/UCPe9vNjHF1kEExT5kHwc7aw.m3u8
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="", eXtra news Live Stream
 https://ythls.onrender.com/channel/UC65F33K2cXk9hGDbOQYhTOw.m3u8
 
+#EXTINF:-1 group-title="" tvg-language="" tvg-logo="", eldoce
+https://ythls.onrender.com/channel/UCiaePeoCqpU8hBHiNrgkzrA.m3u8
+
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="", euronews (magyarul)
 https://ythls.onrender.com/channel/UC4Ct8gIf9f0n4mdyGsFiZRA.m3u8
 
@@ -545,6 +578,9 @@ https://ythls.onrender.com/channel/UCEduOt4TK8TtOaznB45TrhA.m3u8
 
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="", Телеканал 1+1
 https://ythls.onrender.com/channel/UCVEaAWKfv7fE1c-ZuBs7TKQ.m3u8
+
+#EXTINF:-1 group-title="" tvg-language="" tvg-logo="", Телеканал Конкурент TV - новини Луцька та Волині
+https://ythls.onrender.com/channel/UC7eTa1b57wOoboFKH2hVdMQ.m3u8
 
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="", Телеканал Прямий
 https://ythls.onrender.com/channel/UCH9H_b9oJtSHBovh94yB5HA.m3u8
