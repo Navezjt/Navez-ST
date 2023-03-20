@@ -33,7 +33,9 @@ const getCache = async () => {
       const channel = channels.find((channel) => channel.youtube === youtube)
 
       if (channel) {
-        // console.log('Found channel')
+        if (item.logo && item.logo !== '' && channel.logo !== item.logo) {
+          channel.logo = item.logo
+        }
       } else {
         console.log('Adding new channel:', item.name)
         channels.push({
@@ -41,7 +43,7 @@ const getCache = async () => {
           group: '',
           language: '',
           youtube,
-          logo: ''
+          logo: item.logo
         })
       }
     }
