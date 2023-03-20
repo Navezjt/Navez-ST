@@ -34,10 +34,11 @@ const getCache = async () => {
 
       if (channel) {
         if (item.logo && item.logo !== '' && channel.logo !== item.logo) {
+          console.log('Updating logo:', item.name)
           channel.logo = item.logo
         }
       } else {
-        console.log('Adding new channel:', item.name)
+        console.log('Adding channel:', item.name)
         channels.push({
           name: item.name,
           group: '',
