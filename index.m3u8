@@ -1,15 +1,15 @@
 #EXTM3U x-tvg-url="https://github.com/botallen/epg/releases/download/latest/epg.xml"
 
-#EXTINF:-1 group-title="" tvg-language="" tvg-logo="", 24 Horas - TVN Chile
+#EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/Kry6_WnfdJJD6Hrsp0HxRpoSq4oj4h39oRW2klUNb7-DX3Q8YKJ2EWmYf0vxX6OHMKfQ4iZJZw", 24 Horas - TVN Chile
 https://ythls.onrender.com/channel/UCTXNz3gjAypWp3EhlIATEJQ.m3u8
 
-#EXTINF:-1 group-title="" tvg-language="" tvg-logo="", 7ALimoges
+#EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/f-dQzTnkyRbC_znNPbvUv9XpJYqJZf_NTeujXEr_8ttjOdcwuEktPBMaMcWYsxQM-69jiOTRbA", 7ALimoges
 https://ythls.onrender.com/channel/UCdFv_ZWQ3Xk_NfRiaK-ryGg.m3u8
 
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="", A Spor
 https://ythls.onrender.com/channel/UCJElRTCNEmLemgirqvsW63Q.m3u8
 
-#EXTINF:-1 group-title="" tvg-language="" tvg-logo="", A24com
+#EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/UUDeuubaQlPaVvvMJhseVjpR0n3g3bk1kBdyN8iTmbbvK371YcZqYDzzBxqbmerAnWRl21Lp", A24com
 https://ythls.onrender.com/channel/UCR9120YBAqMfntqgRTKmkjQ.m3u8
 
 #EXTINF:-1 group-title="News" tvg-language="Hindi" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLQRJiELJWT983TxaxQ8nKgVGP4jgWTvqTaOUFekrB0", Aaj Tak
@@ -33,31 +33,31 @@ https://ythls.onrender.com/channel/UCRWFSbif-RFENbBrSiez1DA.m3u8
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="", ABS-CBN Entertainment
 https://ythls.onrender.com/channel/UCstEtN0pgOmCf02EdXsGChw.m3u8
 
-#EXTINF:-1 group-title="" tvg-language="" tvg-logo="", africanews
+#EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/L8irqEmpi37buYveRShxDoYvBTtJs4UboF4yo7sPY86uzdIy_oJ06A3VsP-TGjzFpEewg_iV1Cw", africanews
 https://ythls.onrender.com/channel/UC1_E8NeF5QHY2dtdLRBCCLA.m3u8
 
-#EXTINF:-1 group-title="" tvg-language="" tvg-logo="", Al Hiwar TV قناة الحوار
+#EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/ytc/AL5GRJU1V0nmt-goBhec3WQth6_nrEoHFSnalCxt905RQA", Al Hiwar TV قناة الحوار
 https://ythls.onrender.com/channel/UC_fNP2ettM5ius4BZ6G7MOg.m3u8
 
-#EXTINF:-1 group-title="News" tvg-language="English" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLSWUC1XEN9_RtfZ6mUX_oN3jo1UuB-KU3tweyxPLb4", Al Jazeera English
+#EXTINF:-1 group-title="News" tvg-language="English" tvg-logo="https://yt3.ggpht.com/YKrh5sIYpesEIHbjfgqwFjFx3ZgIjM_zak2z0LO8QENSgrmgKBes1m65POj9jkmzm0qoKwgl", Al Jazeera English
 https://ythls.onrender.com/channel/UCNye-wNBqNL5ZzHSJj3l8Bg.m3u8
 
-#EXTINF:-1 group-title="" tvg-language="" tvg-logo="", AlArabiya العربية
+#EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/ytc/AL5GRJVFbfy9HyxZZVcYqQ5OCvbIaYMbwP9hGSU6ROK2og", AlArabiya العربية
 https://ythls.onrender.com/channel/UCahpxixMCwoANAftn6IxkTg.m3u8
 
-#EXTINF:-1 group-title="" tvg-language="" tvg-logo="", Alghad TV - قناة الغد
+#EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/QqSDRRBCFylqAQexJ-Vb6D6pTfqMacwYltPhRhxvCvBma_oRJEWXxs48cdJhSSHpzSOJOvh22w", Alghad TV - قناة الغد
 https://ythls.onrender.com/channel/UCH4UNKBHSNwstan99YDoCVg.m3u8
 
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="", AlHadath الحدث
 https://ythls.onrender.com/channel/UCrj5BGAhtWxDfqbza9T9hqA.m3u8
 
-#EXTINF:-1 group-title="" tvg-language="" tvg-logo="", AlJazeera Arabic  قناة الجزيرة
+#EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/LViWsQpkUN7p22xcW5kPzWai-HzWlaszpsEP3jQjnIyXi2G_gaZz7zosE1_vNOPrrdvzKYEryA", AlJazeera Arabic  قناة الجزيرة
 https://ythls.onrender.com/channel/UCfiwzLy-8yKzIbsmZTzxDgw.m3u8
 
 #EXTINF:-1 group-title="News" tvg-language="Hindi" tvg-logo="https://yt3.ggpht.com/ytc/AMLnZu9QtVczEu7dm8vEdUWl0J0HMDym6yqvP0XaumHwJg", All India Radio
 https://ythls.onrender.com/channel/UCYOv0QZr2B70Rkx_ZqIA84w.m3u8
 
-#EXTINF:-1 group-title="" tvg-language="" tvg-logo="", ALL THE K-POP
+#EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/rt1bDWIkFPoQblyNJnQsf1LisM9i88QKRUU-NZu9fmQ0ogyLvUVVUJe1ufaEN0E8DiZk2RgYwg", ALL THE K-POP
 https://ythls.onrender.com/channel/UCPde4guD9yFBRzkxk2PatoA.m3u8
 
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="", Almagharibia TV قناة المغاربية
@@ -84,7 +84,7 @@ https://ythls.onrender.com/channel/UCrcfRtdHb11YJEloTSaOYvw.m3u8
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="", ARY News
 https://ythls.onrender.com/channel/UCMmpLL2ucRHAXbNHiCPyIyg.m3u8
 
-#EXTINF:-1 group-title="" tvg-language="" tvg-logo="", Asharq News - الشرق للأخبار
+#EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/ytc/AL5GRJVut9MugMpLKQz3_ULCdhxb2Fg5PVHsqppXijrN", Asharq News - الشرق للأخبار
 https://ythls.onrender.com/channel/UCRJUVYt9gjg8MnlGacySUdg.m3u8
 
 #EXTINF:-1 group-title="Spiritual" tvg-language="Hindi" tvg-logo="https://yt3.ggpht.com/H2KkeJ9KAzGE2Hf2u7xbTaDsPaLMC08fFZdo-WDixmzS_YFoR7MA2QO8mAmiCTu8rntqbRGrKQ", Awakening TV
@@ -105,19 +105,19 @@ https://ythls.onrender.com/channel/UChirEOpgFCupRAk5etXqPaA.m3u8
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="", BN CHANNEL
 https://ythls.onrender.com/channel/UCnjzIRDMkVnogC7ZVJJvvyQ.m3u8
 
-#EXTINF:-1 group-title="" tvg-language="" tvg-logo="", BOA VONTADE TV
+#EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/uPMurfe80YnHLuLVfEw1K78oSICgd1GIPY9KUi3lDm-2Pq_l7sDFKSq6HpiJsCJlhcSukCY62P0", BOA VONTADE TV
 https://ythls.onrender.com/channel/UCedt33latJW7StRfdF4-1FQ.m3u8
 
-#EXTINF:-1 group-title="" tvg-language="" tvg-logo="", BOL News
+#EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/lpf7A8LYtwvgEu0mWl-NTcA2cCLW96vjNFRIYzfhwxMfUCJiHoMdvWSAQteRoJfDzsRhmpFdjA", BOL News
 https://ythls.onrender.com/channel/UCz2yxQJZgiB_5elTzqV7FiQ.m3u8
 
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="", Cafe Music BGM channel
 https://ythls.onrender.com/channel/UCJhjE7wbdYAae1G25m0tHAA.m3u8
 
-#EXTINF:-1 group-title="" tvg-language="" tvg-logo="", CBCSofra Live Stream
+#EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/ytc/AL5GRJUccfNXH1xC46K-ItFbBmO9qluOM9nqV4jysOBCXQ", CBCSofra Live Stream
 https://ythls.onrender.com/channel/UC--UtxrU7FWNCp0l7AG9EIw.m3u8
 
-#EXTINF:-1 group-title="" tvg-language="" tvg-logo="", Channels Television
+#EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/mz3T74jFl9DpLb8nNH3ETqIuUXqAztMzOYUckw7YZWmCjnmLiaUU5T0BLEIBJk74Q0eoq0CRbw", Channels Television
 https://ythls.onrender.com/channel/UCEXGDNclvmg6RW0vipJYsTQ.m3u8
 
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="", CHV Noticias
@@ -126,7 +126,7 @@ https://ythls.onrender.com/channel/UCRsUoZYC1ULUspipMRnMhwg.m3u8
 #EXTINF:-1 group-title="News" tvg-language="English" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLQbVFfYfijJ0VrwhRpN02LYgy8GGK2PGE-4wBZzOw", CNA
 https://ythls.onrender.com/channel/UC83jt4dlz1Gjl58fzQrrKZg.m3u8
 
-#EXTINF:-1 group-title="" tvg-language="" tvg-logo="", CNBC Arabia TV
+#EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/qEaMh3qe5aECjp6bsfKqzlOYRAXfoIH0z1k0pAtlYoyX4BMUyB4YXA1YLvhafG-EgQJjnOltig", CNBC Arabia TV
 https://ythls.onrender.com/channel/UCsHdPPJXT-yKVTLGkn3DSvQ.m3u8
 
 #EXTINF:-1 group-title="News" tvg-language="Hindi" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLSyRjbzRKUYj309uO4sP5h3OrYedoJV1_kQxsTP", CNBC Awaaz
@@ -147,7 +147,7 @@ https://ythls.onrender.com/channel/UCfJsOa7m1zKMS9T2dvIljfQ.m3u8
 #EXTINF:-1 group-title="Hobby" tvg-language="English" tvg-logo="https://yt3.ggpht.com/fnybNqxJVlKpq0EplOrnGgfKyjwQD1kR-kZTUHOqlooUG2VfhZKjJgHSCiuZkftEUGqToaPpoNk", Create & Craft TV
 https://ythls.onrender.com/channel/UC6dB-iYVw8Lcs5_uFWUZCOQ.m3u8
 
-#EXTINF:-1 group-title="" tvg-language="" tvg-logo="", DawnNews
+#EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/ytc/AL5GRJUE_Te2ghVCszPdXQ-Fb4OaepJ1lHMh_pG7kb9lzw", DawnNews
 https://ythls.onrender.com/channel/UCaxR-D8FjZ-2otbU0_Y2grg.m3u8
 
 #EXTINF:-1 group-title="Kids" tvg-language="English" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLRu2MPHAs_A-Kmv-iTR_8rDC5uv6CoWq5ekM_DATw", DC Kids
@@ -156,7 +156,7 @@ https://ythls.onrender.com/channel/UCyu8StPfZWapR6rfW_JgqcA.m3u8
 #EXTINF:-1 group-title="News" tvg-language="English" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLTp8egInu6rUWvlKwjpK0ybQBXaq8d26vo59KS8rg", DD India
 https://ythls.onrender.com/channel/UCGDQNvybfDDeGTf4GtigXaw.m3u8
 
-#EXTINF:-1 group-title="News" tvg-language="Hindi" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLQtlX3rWNbvBfc9eOCnu5jajwWVrxwe9NvqtLBB1w", DD News
+#EXTINF:-1 group-title="News" tvg-language="Hindi" tvg-logo="https://yt3.ggpht.com/gO0awpd_5QpBSAn1qbsE0WcbO57H1uuwqwVtZG2hQl3N4OIemMgZXYezurk4fwu0xdsu6B-TRw", DD News
 https://ythls.onrender.com/channel/UCKwucPzHZ7zCUIf7If-Wo1g.m3u8
 
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="", Digital Dicas
@@ -165,10 +165,10 @@ https://ythls.onrender.com/video/E9NebTG42GE.m3u8
 #EXTINF:-1 group-title="Kids" tvg-language="English" tvg-logo="https://yt3.ggpht.com/_h0LruFUfluRLAx1VtPbKZ4AfTnm7TkTFMZIuR83dKpnRcOCP8tkw8KIJaHfaj2yKgPffuLu", Disney Junior
 https://ythls.onrender.com/channel/UCNcdbMyA59zE-Vk668bKWOg.m3u8
 
-#EXTINF:-1 group-title="" tvg-language="" tvg-logo="", Dobrogea TV
+#EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/ytc/AL5GRJVRoBDBzuOEvXPmA3vUl18Kv3dkzM9_DriwLm0D3Q", Dobrogea TV
 https://ythls.onrender.com/channel/UCc5vhBLfkX4MSOEwjismqHw.m3u8
 
-#EXTINF:-1 group-title="" tvg-language="" tvg-logo="", Dunya News
+#EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/S3x4qubQOEyO50MByNNmBUGqd0UmcAcY4qt_8kUhHUrGzgmQc2QdvI7mYqcxu_ZMh4fVS8H8jOA", Dunya News
 https://ythls.onrender.com/channel/UCnMBV5Iw4WqKILKue1nP6Hg.m3u8
 
 #EXTINF:-1 group-title="Lifestyle" tvg-language="English" tvg-logo="https://yt3.ggpht.com/ytc/AMLnZu9CLc9DIXPt0fIqYUP5VFaj0MyhpNNt4X9pCJJyFQ", DW Euromaxx
@@ -177,13 +177,13 @@ https://ythls.onrender.com/channel/UCd-swDW3HCs4LTZhq8Cf7Fg.m3u8
 #EXTINF:-1 group-title="News" tvg-language="English" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLToHygnzerTBVOB3GsUcxsPiMP6dIOzFe9T90R0fAE", DW News
 https://ythls.onrender.com/channel/UCknLrEdhRCp1aegoMqRaCZg.m3u8
 
-#EXTINF:-1 group-title="" tvg-language="" tvg-logo="", DW عربية
+#EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/ytc/AL5GRJVXDptR1cizgWjfumWurRWHW_oxs1Wjgu_uIPFmZw", DW عربية
 https://ythls.onrender.com/channel/UC30ditU5JI16o5NbFsHde_Q.m3u8
 
-#EXTINF:-1 group-title="" tvg-language="" tvg-logo="", Déjate de Historias TV
+#EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/hM8UjiEpcqbFKo4iXS0el6aN44yoRTdKuLC-Ra6-2WsDHBc22GZK8kz9RR5YuU4MfK2eyOCI", Déjate de Historias TV
 https://ythls.onrender.com/channel/UChMCkc02GVSi89TrvhbRasA.m3u8
 
-#EXTINF:-1 group-title="" tvg-language="" tvg-logo="", El Futuro En tu Mano
+#EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/ytc/AL5GRJWFRw4hs4EZuxgrf1PiD3Rm15Qt5X4Ur2pFZru0KQ", El Futuro En tu Mano
 https://ythls.onrender.com/channel/UCZSw3jfFZo_8I9BHSMlT2Fg.m3u8
 
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="", eldoce
@@ -201,10 +201,10 @@ https://ythls.onrender.com/channel/UCSrZ3UV4jOidv8ppoVuvW9Q.m3u8
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="", euronews (magyarul)
 https://ythls.onrender.com/channel/UC4Ct8gIf9f0n4mdyGsFiZRA.m3u8
 
-#EXTINF:-1 group-title="" tvg-language="" tvg-logo="", euronews (στα ελληνικά)
+#EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/MNf6K3CQWM9hYBq0Dyi2AZVu-6-3gGgGLAhDYTKEBVYB2mBYH0GurGFgfdmasdYZ1XdZsmuIq8w", euronews (στα ελληνικά)
 https://ythls.onrender.com/channel/UC8HJZNfDPoySgW9DN3YGNaA.m3u8
 
-#EXTINF:-1 group-title="" tvg-language="" tvg-logo="", Euronews Albania
+#EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/ytc/AL5GRJXTWx_QLQ4IdskLjySRbkjOvjO2383ug1hwefBW", Euronews Albania
 https://ythls.onrender.com/channel/UChR-A__NS_C5kHDWj3PeAhw.m3u8
 
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="", Euronews em Português
@@ -219,7 +219,7 @@ https://ythls.onrender.com/channel/UC-2KSeUU5SMCX6XLRD-AEvw.m3u8
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="", Express News
 https://ythls.onrender.com/channel/UCTur7oM6mLL0rM2k0znuZpQ.m3u8
 
-#EXTINF:-1 group-title="" tvg-language="" tvg-logo="", eXtra news Live Stream
+#EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/ytc/AL5GRJV2XxP2AIQz7656l9ACPKc-GUzLiJvWM1djuoZlZQ", eXtra news Live Stream
 https://ythls.onrender.com/channel/UC65F33K2cXk9hGDbOQYhTOw.m3u8
 
 #EXTINF:-1 group-title="Science" tvg-language="English" tvg-logo="https://yt3.ggpht.com/2BL8HCZqU6z4YkbSoYk2DspfJU9BGxNPMvvEm8lUFfugee-VR6A-0pCiu8SwOYUttOmlY3mU4Q", Factnomenal
@@ -228,19 +228,19 @@ https://ythls.onrender.com/channel/UCS5iRXHd5PqBud1Chh9FRFA.m3u8
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="", FOX
 https://ythls.onrender.com/channel/UCJe13zu6MyE6Oueac41KAqg.m3u8
 
-#EXTINF:-1 group-title="" tvg-language="" tvg-logo="", FRANCE 24
+#EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/ytc/AL5GRJUN8w5Xrgd1-TseuJ4Cm1_2J1KFk4NeCJx9Lp8B2g", FRANCE 24
 https://ythls.onrender.com/channel/UCCCPCZNChQdGa9EkATeye4g.m3u8
 
-#EXTINF:-1 group-title="News" tvg-language="English" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLSSvx6Lajinz_I-_33UiIWNItieFMkWIAxbDuR_AA", France 24 English
+#EXTINF:-1 group-title="News" tvg-language="English" tvg-logo="https://yt3.ggpht.com/ytc/AL5GRJXuNPbGePOdLA5iCxY9BNgPCChLaG7kQ8xcFDVt0w", France 24 English
 https://ythls.onrender.com/channel/UCQfwfsi5VrQ8yKZ-UWmAEFg.m3u8
 
 #EXTINF:-1 group-title="Music" tvg-language="English" tvg-logo="https://yt3.ggpht.com/ytc/AMLnZu9tzRyzH8H175teN3sBw21I6vGhTPRFFbvQI59HSg", Future House Radio
 https://ythls.onrender.com/channel/UCE7gceSq79z8uW7cTe86UaA.m3u8
 
-#EXTINF:-1 group-title="" tvg-language="" tvg-logo="", GBNews
+#EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/9QATDXAANCn4Z5pqMiRj54aYxsZza-nHbKGk6mmEfVfEPp5bsfwHXBzG8XIcJizrT4Ed67RY", GBNews
 https://ythls.onrender.com/channel/UC0vn8ISa4LKMunLbzaXLnOQ.m3u8
 
-#EXTINF:-1 group-title="" tvg-language="" tvg-logo="", Globovisión En Vivo
+#EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/RlSRDysdiCOHOZbwCkYueV_x2nyBBmTu3yni3kdEtSnBq71GOcAk2EGjBIjVADO_Fac0vdVnyv8", Globovisión En Vivo
 https://ythls.onrender.com/channel/UCfJtBtmhnIyfUB6RqXeImMw.m3u8
 
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="", GMANetwork
@@ -261,7 +261,7 @@ https://ythls.onrender.com/channel/UC-r13SLLdZtZNmuC2bMnlmw.m3u8
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="", hitfm
 https://ythls.onrender.com/channel/UCTTq-Hhcb_eUq0-dWpdlvpg.m3u8
 
-#EXTINF:-1 group-title="" tvg-language="" tvg-logo="", Hope Channel Indonesia
+#EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/ytc/AL5GRJW1Ou8aFcfOIrRDHtUqQccVnHQpEORKXYdRPMvp", Hope Channel Indonesia
 https://ythls.onrender.com/channel/UCTR1wO3hnYzBs0BJIQAyZKw.m3u8
 
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="", HUM News
@@ -270,7 +270,7 @@ https://ythls.onrender.com/channel/UC0Um3pnZ2WGBEeoA3BX2sKw.m3u8
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="", Hummingbird Spot
 https://ythls.onrender.com/video/pXe8MpU7uzk.m3u8
 
-#EXTINF:-1 group-title="" tvg-language="" tvg-logo="", IFM
+#EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/VOPtwWgRZIA4WxJyhLWwMCGrlrcNUtV8MLKr_zalcStq-Ojq7orMO56cSRQIOOcUiXrYnuQHeC0", IFM
 https://ythls.onrender.com/channel/UCvPW0VhnTcxYjWIxCvMlw2Q.m3u8
 
 #EXTINF:-1 group-title="News" tvg-language="English" tvg-logo="https://yt3.ggpht.com/5Zr4bV9iJRa6zNS_-VSbZ7j5S8JhQc2Aez7b9y923AnYqJnltvI2iGdOFnWBcW-34ioPZlxzzLE", India Today
@@ -279,7 +279,7 @@ https://ythls.onrender.com/video/lyeyoqwXm5o.m3u8
 #EXTINF:-1 group-title="News" tvg-language="Hindi" tvg-logo="https://yt3.ggpht.com/y5S847YDNlDZNUUk3xmEfVMUDu2XSe0yAU_qvIpbwKi5VgIYQQc3FGeOANbgu-36sBEDpAwDAQ", India TV
 https://ythls.onrender.com/channel/UCttspZesZIDEwwpVIgoZtWQ.m3u8
 
-#EXTINF:-1 group-title="" tvg-language="" tvg-logo="", JAN TV
+#EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/ytc/AL5GRJXc_YAcTtALEVfA7EtBVO8Q87xhrbjwOaE8woO2", JAN TV
 https://ythls.onrender.com/channel/UCjmnq35TvJ1J8JZS49OPg-Q.m3u8
 
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="", JAPAN NEWS NIIGATA
@@ -297,16 +297,16 @@ https://ythls.onrender.com/channel/UC90RW5ZmBBqp4r2QIQxfACA.m3u8
 #EXTINF:-1 group-title="Kids" tvg-language="Hindi" tvg-logo="https://yt3.googleusercontent.com/ytc/AL5GRJXiDBpM5HVpw4nt5T3_QoPFu9hj0qYEFVfPQZ6-dA=s100-c-k-c0x00ffffff-no-rj", Kids Land
 https://ythls.onrender.com/channel/UCZMKZS3L9GfhcFkMyBRoVFg.m3u8
 
-#EXTINF:-1 group-title="" tvg-language="" tvg-logo="", KNR News Nutaarsiassat
+#EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/ytc/AL5GRJW0iV1ZcTN6_hdS2tP-f-GI0DxGezocE8ns2CyK", KNR News Nutaarsiassat
 https://ythls.onrender.com/channel/UC6D225YIMCwVBiBktEeV-vQ.m3u8
 
 #EXTINF:-1 group-title="Hobby" tvg-language="English" tvg-logo="https://yt3.ggpht.com/ytc/AMLnZu8-K8AOBonOVedtQtFH5yjomCkY_U7IH6LcWBwCVg", Kozoom
 https://ythls.onrender.com/channel/UCOwcct1FjXWzlvmQxaR4Y8Q.m3u8
 
-#EXTINF:-1 group-title="" tvg-language="" tvg-logo="", KTN News
+#EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/ETVvEpKcRwJYj2FbbhdUmu8PN3_oGVVi6RMmvT9P6kCOJ_wNaLHDF9SLM0kK6WqCz_e0GUQI", KTN News
 https://ythls.onrender.com/channel/UCKVsdeoHExltrWMuK0hOWmg.m3u8
 
-#EXTINF:-1 group-title="" tvg-language="" tvg-logo="", LA NACION
+#EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/ytc/AL5GRJW4Twopn-FIKrElNMDdb0AUAfdcnQIAT7BK7Ri_JQ", LA NACION
 https://ythls.onrender.com/channel/UCba3hpU7EFBSk817y9qZkiA.m3u8
 
 #EXTINF:-1 group-title="Music" tvg-language="English" tvg-logo="https://yt3.ggpht.com/KNYElmLFGAOSZoBmxYGKKXhGHrT2e7Hmz3WsBerbam5uaDXFADAmT7htj3OcC-uK1O88lC9fQg", Lofi Girl
@@ -318,19 +318,19 @@ https://ythls.onrender.com/channel/UCs3cho4vcDuCze0tk3W9iVQ.m3u8
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="", Maria Tv Romania
 https://ythls.onrender.com/channel/UCMXP2cd--EkenT6FaE9rAjw.m3u8
 
-#EXTINF:-1 group-title="" tvg-language="" tvg-logo="", Marina TV
+#EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/mJybErWbKQ5Mi915WyV2buspGifyqFPDaDKqLMPiicc8Wr7scW0yC1BuG7L4thqGhbnNcFitiA", Marina TV
 https://ythls.onrender.com/channel/UC1TelTm8bbY2jw0guInSvBA.m3u8
 
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="", Mathrubhumi News
 https://ythls.onrender.com/channel/UCwXrBBZnIh2ER4lal6WbAHw.m3u8
 
-#EXTINF:-1 group-title="" tvg-language="" tvg-logo="", Media Sunnah Aceh TV
+#EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/_4dCoRviXAgeiMdwyXqffDZS7IEUZTK959-Pe5lP3N_o1k4W5Xo4T1E9XK00bIXUViPinpGGvg", Media Sunnah Aceh TV
 https://ythls.onrender.com/channel/UCem4zrffr93cp-o8cOPDhdQ.m3u8
 
-#EXTINF:-1 group-title="" tvg-language="" tvg-logo="", Meganoticias
+#EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/DivHQWmzs3uHKZQfk6BiMnVMHsIU72dWLh0X5rEh4caNkYkfEV-T3nJGDx7mplosBW498zLuLi4", Meganoticias
 https://ythls.onrender.com/channel/UCkccyEbqhhM3uKOI6Shm-4Q.m3u8
 
-#EXTINF:-1 group-title="" tvg-language="" tvg-logo="", METRO TV 
+#EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/RXCiPfH_LYi15tgWbLNkEoJz3eQwouG6RDcg-df7Rirg3sFXP-gyW31SdwUdKTwZixUJQBMg", METRO TV 
 https://ythls.onrender.com/channel/UCzl0OrB3-ehunyotIQvK77A.m3u8
 
 #EXTINF:-1 group-title="Sports" tvg-language="English" tvg-logo="https://yt3.ggpht.com/9wk_1O3cXWnUmNUseduRI9QDLnSc9AcF92LrP92V8TKaVLTVWvYK5nw4TNkDJWq1-lRGGJ5LIg", MXGP TV
@@ -351,7 +351,7 @@ https://ythls.onrender.com/channel/UC80oBMhAYgvV5bCWXs-xCUA.m3u8
 #EXTINF:-1 group-title="News" tvg-language="English" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLQ21BVR2XXhuPuSZAf1HC6quBldr1TQYxXO552Mre4", NDTV
 https://ythls.onrender.com/channel/UCZFMm1mMw0F81Z37aaEzTUA.m3u8
 
-#EXTINF:-1 group-title="" tvg-language="" tvg-logo="", News Central TV
+#EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/rAIqqMEci1tZOtaZ1AkLnodn2vyayrGU4lCqPQXg2lHQEbgEpGP_dWvjMEaCTNFp2Lw1xWu74o0", News Central TV
 https://ythls.onrender.com/channel/UCPLKy4Ypb4mfblbjJI8Aljw.m3u8
 
 #EXTINF:-1 group-title="News" tvg-language="Hindi" tvg-logo="https://yt3.googleusercontent.com/ytc/AL5GRJUu6CkgJSsAdf9Q3rHiq2dP4S6DR0jrVMsV84bKVw=s100-c-k-c0x00ffffff-no-rj", News18 Bihar
@@ -369,7 +369,7 @@ https://ythls.onrender.com/channel/UCsfh2Zb7-m4qzT8jLhK_Fzw.m3u8
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="", NewsTamil 24X7
 https://ythls.onrender.com/channel/UCtbo6_eDG7zEtaOtcSltJkA.m3u8
 
-#EXTINF:-1 group-title="" tvg-language="" tvg-logo="", NTA TV  channel
+#EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/c0_jy3lFxgDOA8Y5LwcRMNVruOX_eYntzHgTMnhSBalzNyFodysYkTGiYY0KoG4H2G7SOXc8", NTA TV  channel
 https://ythls.onrender.com/channel/UCQdSS9GSBbtSqW3oNB39KTw.m3u8
 
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="", NTVUganda
@@ -396,7 +396,7 @@ https://ythls.onrender.com/channel/UCEiS8m8OLFI0REntmsTvzjA.m3u8
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="", PIE Channel
 https://ythls.onrender.com/channel/UCAxAaFQnH5IK_ZTwiQWV-9A.m3u8
 
-#EXTINF:-1 group-title="" tvg-language="" tvg-logo="", Polimer News
+#EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/ytc/AL5GRJXO_ZejAs3ASZnyVD4x-cPxIVqeqaJ4TC9gMWMzxJQ", Polimer News
 https://ythls.onrender.com/channel/UC8Z-VjXBtDJTvq6aqkIskPg.m3u8
 
 #EXTINF:-1 group-title="Kids" tvg-language="English" tvg-logo="https://yt3.ggpht.com/IepI9V2OjYmTKYKDiRBk_5WC6J2yjJR3RCgMUfbsJxbK9J5HufPZ4y0kobaDNO9MdUbighMmlA", Power Rangers
@@ -405,10 +405,10 @@ https://ythls.onrender.com/channel/UCbIm2iqwql8bFqkO2bHv7Mw.m3u8
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="", Prière Midi Pasteur Carlos
 https://ythls.onrender.com/channel/UCBxkIrtn2x0YkB72FAz3t5A.m3u8
 
-#EXTINF:-1 group-title="" tvg-language="" tvg-logo="", PTV
+#EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/7f0UCFcLULiaebj9Lo1Bvi-ovSYqgZbZyNItga-Pb-O2Mb-Ig7Eu7Jc5LwVpr2WiQHLJgJSw7A", PTV
 https://ythls.onrender.com/channel/UCJCUbMaY593_4SN1QPG7NFQ.m3u8
 
-#EXTINF:-1 group-title="" tvg-language="" tvg-logo="", PTV Home
+#EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/ytc/AL5GRJWYeepxwOh62C5mkcCmS6axb1d58XovtZ9Rel6CPA", PTV Home
 https://ythls.onrender.com/channel/UCMfwlaPLGMn44BKvHv15yzA.m3u8
 
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="", PTV News
@@ -444,25 +444,25 @@ https://ythls.onrender.com/video/qfrocHBy6RQ.m3u8
 #EXTINF:-1 group-title="News" tvg-language="English" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLSsQCQ5OPDxOO21aNL5b7dHEA-42JUP2W7oxMefwA", Republic World
 https://ythls.onrender.com/channel/UCwqusr8YDwM-3mEYTDeJHzw.m3u8
 
-#EXTINF:-1 group-title="" tvg-language="" tvg-logo="", RTD WEB TV
+#EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/ytc/AL5GRJUdRDQdK7kBMa3_gFDwGf_hg-Q-hJKZkIGlwmIiKw", RTD WEB TV
 https://ythls.onrender.com/channel/UCB0NxICFmGabAalD46J2i4A.m3u8
 
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="", RTVE Noticias
 https://ythls.onrender.com/video/xR-4NDFsYNk.m3u8
 
-#EXTINF:-1 group-title="" tvg-language="" tvg-logo="", RTVSLON
+#EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/ytc/AL5GRJUophi83P0sgFitq2kZ-JrgCJKSxQVI013wyMsu", RTVSLON
 https://ythls.onrender.com/channel/UCX0QrFrUrE3Vu7wUcvwQKSw.m3u8
 
 #EXTINF:-1 group-title="News" tvg-language="Hindi" tvg-logo="https://yt3.ggpht.com/tY3E_5kQ29_aNmLX17bMwGtgHbhkAFZefpaluftZaAxW16Q3IC2-MRxmIo9TimnaqXbz6KRNBw", Sansad TV
 https://ythls.onrender.com/channel/UCISgnSNwqQ2i8lhCun3KtQg.m3u8
 
-#EXTINF:-1 group-title="" tvg-language="" tvg-logo="", Sathiyam News
+#EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/ytc/AL5GRJXMIc1Wz3JzhCMA7zE113CL1Wad6VlbA-Q3UYH5rw", Sathiyam News
 https://ythls.onrender.com/channel/UC2ziCMHFPWkFHjocUMXT__Q.m3u8
 
-#EXTINF:-1 group-title="" tvg-language="" tvg-logo="", Sharjah Radio Quran إذاعة القرآن الكريم من الشارقة
+#EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/_HwXbtRDVa9_ET3tEdVfwmHupsXsWbi_PI2x3NuVSTg1v-wHlMQHkcM9AmKarY4JVCVymhBiflQ", Sharjah Radio Quran إذاعة القرآن الكريم من الشارقة
 https://ythls.onrender.com/channel/UCn8lMRYDANs_1yAL3iuw7_g.m3u8
 
-#EXTINF:-1 group-title="" tvg-language="" tvg-logo="", Shekinah News
+#EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/3GMOBkUtQDtwWazj98wBU_FBXPQl4eqxfALkviKTUe22s-sITfRBMJHKkwsMq2QKX7kUQ--pug", Shekinah News
 https://ythls.onrender.com/channel/UCHtYUfPnQci6GoUpPlWfrOg.m3u8
 
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="", Shekinah. fm
@@ -486,31 +486,31 @@ https://ythls.onrender.com/channel/UCYlh4lH762HvHt6mmiecyWQ.m3u8
 #EXTINF:-1 group-title="Kids" tvg-language="English" tvg-logo="https://yt3.googleusercontent.com/y5Tzb0pMxPPLanirclqZbasYEfmkMB3LAZkbvYGPHLpcZcbiwLXnXBC9UxLx36H7f-dfhUa_=s100-c-k-c0x00ffffff-no-rj", Super JoJo
 https://ythls.onrender.com/channel/UCJzcBX9R38KVkH7sWUn5apA.m3u8
 
-#EXTINF:-1 group-title="" tvg-language="" tvg-logo="", T13
+#EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/Tsgm-_R7j2H1dcDZ-ZWK_54e9NW3Mm41n2uZqGpID9ZyTdg4kOpFOX36yJvZM4XMi1nf0ox3wg", T13
 https://ythls.onrender.com/channel/UCsRnhjcUCR78Q3Ud6OXCTNg.m3u8
 
-#EXTINF:-1 group-title="" tvg-language="" tvg-logo="", TaiwanPlus Livestream
+#EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/6bPR4HEN_91wKrD7k0dfnRWO5G6XPZdHKWWhRbzyT-nERWPTm-LtpqF_TYhwuf5BqMBveum5sdQ", TaiwanPlus Livestream
 https://ythls.onrender.com/channel/UC7c6rvyAZLpKGk8ttVnpnLA.m3u8
 
 #EXTINF:-1 group-title="Kids" tvg-language="English" tvg-logo="https://yt3.ggpht.com/ytc/AMLnZu8icX-RsqoNmZcmNlrojwG4GVh_-X7Uz8_ZIYXXfA", Talking Tom
 https://ythls.onrender.com/channel/UCDCNmuaOXOo25Yn4mbMHhhQ.m3u8
 
-#EXTINF:-1 group-title="" tvg-language="" tvg-logo="", Tanasuh Tv Live البث المباشر قناة التناصح الفضائية
+#EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/ytc/AL5GRJVx4ehmLklgBNLDY0TJ6JZPaPEEHVp6plZRLJk", Tanasuh Tv Live البث المباشر قناة التناصح الفضائية
 https://ythls.onrender.com/channel/UCRaoHR6b3zViY9QxfgFNntQ.m3u8
 
-#EXTINF:-1 group-title="" tvg-language="" tvg-logo="", TBS NEWS DIG Powered by JNN
+#EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/AinbPmBSBsp7EuUA5HbrSj4o2qfr08uT8RsS4mP4ssWF1KwjSSNqdtPhra3IcUSNLgV9clxItg", TBS NEWS DIG Powered by JNN
 https://ythls.onrender.com/channel/UC6AG81pAkf6Lbi_1VC5NmPA.m3u8
 
-#EXTINF:-1 group-title="" tvg-language="" tvg-logo="", Televisa Tijuana Oficial
+#EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/ytc/AL5GRJXMKVUXzn8bvHcWpQnQaBboPo3JEdJV63UO-Fx5qA", Televisa Tijuana Oficial
 https://ythls.onrender.com/channel/UCjwXjnO3BGePtB7gSKEpoqA.m3u8
 
-#EXTINF:-1 group-title="" tvg-language="" tvg-logo="", Televisa Veracruz Oficial
+#EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/WMFUH76Iz25xMcEi4nkMRLLfSS4GSotYScDX8st1D2IswLm0dE5EqiFeQVj_QmZCrVk_0Ui9", Televisa Veracruz Oficial
 https://ythls.onrender.com/channel/UC5EnLdE7ASjYzWt7wvT-QSg.m3u8
 
-#EXTINF:-1 group-title="" tvg-language="" tvg-logo="", Televisa Zacatecas
+#EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/seVLi3Jb67C7UCxlExK1uo8YN8BiO05YgZ83C5m3Cp_lVV9cl7TmTYU7-0XPyxNlk5IvIbNR-Q", Televisa Zacatecas
 https://ythls.onrender.com/channel/UCQb3i7gu9J8A4zzQU7j6C1Q.m3u8
 
-#EXTINF:-1 group-title="" tvg-language="" tvg-logo="", TelevisionCanaria
+#EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/ytc/AL5GRJUo0lu242Db0BX9LOebXxLLY_R3yyTENl211AmyCg", TelevisionCanaria
 https://ythls.onrender.com/channel/UCTQrUTmzCWIfG6h4EVCdOCQ.m3u8
 
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="", Thanthi TV
@@ -531,7 +531,7 @@ https://ythls.onrender.com/channel/UCZbpK_Lgctew3YNELlG2ecw.m3u8
 #EXTINF:-1 group-title="Kids" tvg-language="English" tvg-logo="https://yt3.ggpht.com/ytc/AMLnZu_IX4cW3hPoiNEHyRQWmQ4iG9CGKvfrONpQFgV-HQ", Transformers
 https://ythls.onrender.com/channel/UCx7b66RpQRLuOXvItxy0Wxg.m3u8
 
-#EXTINF:-1 group-title="" tvg-language="" tvg-logo="", TRINITAS TV
+#EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/ytc/AL5GRJXEbNX7VonixZbHRN5qB9EeLJX6oWM70hQDPzmY8Q", TRINITAS TV
 https://ythls.onrender.com/channel/UCcqFHIDYfKsaJ5KXZjzW7ZQ.m3u8
 
 #EXTINF:-1 group-title="Shop" tvg-language="English" tvg-logo="https://yt3.ggpht.com/cBoqCwufrjvxQUvQ_1dfvxH6PAeJGSij7MYf8oXGvex0haRbrBekKu1nG7aNUOMRACVOHqyh", TSC
@@ -540,7 +540,7 @@ https://ythls.onrender.com/channel/UCsvQn8KCdv1kNaCAu8C1Gog.m3u8
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="", TSC
 https://ythls.onrender.com/video/1wotsnJGYWk.m3u8
 
-#EXTINF:-1 group-title="" tvg-language="" tvg-logo="", TV La Verdad Oficial
+#EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/ytc/AL5GRJX4s12SmGLYG90B9ay4YugrYKtE9kclwzpEKDJoKA", TV La Verdad Oficial
 https://ythls.onrender.com/channel/UCS5n5q3lJBXom3wVbOiUl9Q.m3u8
 
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="", TV5 News 
@@ -567,7 +567,7 @@ https://ythls.onrender.com/channel/UCvYVGf_JFME9dVe3WtljP1Q.m3u8
 #EXTINF:-1 group-title="News" tvg-language="English" tvg-logo="https://yt3.ggpht.com/ytc/AMLnZu9twhWxE8HBY5NGawjMEPDpzwlKaqeh55yKfK-93w", Vox
 https://ythls.onrender.com/channel/UCLXo7UDZvByw2ixzpQCufnA.m3u8
 
-#EXTINF:-1 group-title="" tvg-language="" tvg-logo="", Watania Replay
+#EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/s-aSAkhYk-W2oMjXXAuvGe0zFcHNTNXnardDRAABRhKrpRnyhKu4uqrwjhlxLpJNjJKxyrMbKjo", Watania Replay
 https://ythls.onrender.com/channel/UCdvWVsmQBROkgcGzVep73oA.m3u8
 
 #EXTINF:-1 group-title="Kids" tvg-language="English" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLTWSuXvajlpkF0dcqa8Mf2Va5svzH7b9EC1x0Q7zA", WB Kids
@@ -588,37 +588,37 @@ https://ythls.onrender.com/channel/UCIvaYmXn910QMdemBG3v1pQ.m3u8
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="", Ми - Україна
 https://ythls.onrender.com/channel/UCEduOt4TK8TtOaznB45TrhA.m3u8
 
-#EXTINF:-1 group-title="" tvg-language="" tvg-logo="", Телеканал 1+1
+#EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/tNuyTK2uEqFyqgzlf6idH2ExJQtEbPLfMru9UY6kKMAAFzwj0SvlWj3r9dACRcljad7tqe1w", Телеканал 1+1
 https://ythls.onrender.com/channel/UCVEaAWKfv7fE1c-ZuBs7TKQ.m3u8
 
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="", Телеканал Конкурент TV - новини Луцька та Волині
 https://ythls.onrender.com/channel/UC7eTa1b57wOoboFKH2hVdMQ.m3u8
 
-#EXTINF:-1 group-title="" tvg-language="" tvg-logo="", Телеканал Прямий
+#EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/LOAjtAl31lDNGQ92qqk9RYUR9H3Xj-EGr7pxRTUsOclP94brCKaiFcQLB7fMxFQJTcFVLEtXBQ", Телеканал Прямий
 https://ythls.onrender.com/channel/UCH9H_b9oJtSHBovh94yB5HA.m3u8
 
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="", Телеканал Хабар 24
 https://ythls.onrender.com/channel/UCnAFKvDuqBGkIfV8Vn0J_CQ.m3u8
 
-#EXTINF:-1 group-title="" tvg-language="" tvg-logo="", آيات 
+#EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/vSd05YIZNp4XYjKpsc4wFZFH1FHSfCJRcoDSFyrNE1ROIKSbRziHJhlb3mx2P7dmltuMdGIH", آيات 
 https://ythls.onrender.com/channel/UC89SSMnCKzXdZsIs_GB6QBg.m3u8
 
-#EXTINF:-1 group-title="" tvg-language="" tvg-logo="", صوت العترة (عليهم السلام)
+#EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/tKv8hW2CCCka27zoVB2iv444uTpkN0pr2I4ks-y62RoICC87Y8vEMuiT6o92z4DnprWS1resBA", صوت العترة (عليهم السلام)
 https://ythls.onrender.com/channel/UCySVZYvDeRd5HThx8s2yTzg.m3u8
 
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="", عربي TRT
 https://ythls.onrender.com/channel/UC5GvVahlgulCyo4cshSmbcg.m3u8
 
-#EXTINF:-1 group-title="" tvg-language="" tvg-logo="", فرانس 24 / FRANCE 24 Arabic
+#EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/ytc/AL5GRJVUIExHP-yb88qwraNHBgQ03in-ckwWE1AIe3LHSA", فرانس 24 / FRANCE 24 Arabic
 https://ythls.onrender.com/channel/UCdTyuXgmJkG_O8_75eqej-w.m3u8
 
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="", قناة بلقيس الفضائية Belqees TV
 https://ythls.onrender.com/channel/UCxA_zZwALQMmVMSZyLKC-Nw.m3u8
 
-#EXTINF:-1 group-title="" tvg-language="" tvg-logo="", قناة زاد الفضائية
+#EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/szb3ANvNUi9mXC3AixCu2pcINX5ej44rW4ctYUJsTQPLo32yiYjFJFSTL7c3iRBjso6OepH6Bwc", قناة زاد الفضائية
 https://ythls.onrender.com/channel/UCOll3M-P7oKs5cSrQ9ytt6g.m3u8
 
-#EXTINF:-1 group-title="" tvg-language="" tvg-logo="", 中天電視
+#EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/ytc/AL5GRJUDgSSwJsiwIRbAeILMjVudz91mcirLXAU875rP-Q", 中天電視
 https://ythls.onrender.com/channel/UC5l1Yto5oOIgRXlI4p4VKbw.m3u8
 
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="", 北海道ニュースUHB
@@ -627,17 +627,17 @@ https://ythls.onrender.com/channel/UCpQs_warGhUzJhBdwLfF34g.m3u8
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="", 台視新聞 TTV NEWS
 https://ythls.onrender.com/channel/UC8ROUUjHzEQm-ndb69CX8Ww.m3u8
 
-#EXTINF:-1 group-title="" tvg-language="" tvg-logo="", 日テレNEWS
+#EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/tbEx1gUijdigGn9zNL7npSHkTclQuDKtOkohhUt24KV9R0YNzpNS-1jYUvpd6UGAfzvXpyCG", 日テレNEWS
 https://ythls.onrender.com/channel/UCuTAXTexrhetbOe3zgskJBQ.m3u8
 
-#EXTINF:-1 group-title="" tvg-language="" tvg-logo="", 民視新聞網 Formosa TV News network
+#EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/ytc/AL5GRJXgrQ9AR_m6OUb_BhZ011Gjf19n7rScMsKCYhLTQQ", 民視新聞網 Formosa TV News network
 https://ythls.onrender.com/channel/UC2VmWn8dAqkzlQqvy02E1PA.m3u8
 
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="", 親親2o音樂LîvË【中文音樂】
 https://ythls.onrender.com/channel/UCcHWhgSsMBemnyLhg6GL1vA.m3u8
 
-#EXTINF:-1 group-title="" tvg-language="" tvg-logo="", 鏡新聞
+#EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/VZn4d9ZIvAj2ZTdGw8dU9IPkDOvbofQYxSd61nfO-qm14RKRpxJMFbe0Ndhbb_-sjAMV50yURA", 鏡新聞
 https://ythls.onrender.com/channel/UC4LjkybVKXCDlneVXlKAbmw.m3u8
 
-#EXTINF:-1 group-title="" tvg-language="" tvg-logo="", 이데일리TV
+#EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/ytc/AL5GRJUBVIibNKuCLKVY3qV_aBArOZ_cmO63a2I656OKAA", 이데일리TV
 https://ythls.onrender.com/channel/UC8Sv6O3Ux8ePVqorx8aOBMg.m3u8
