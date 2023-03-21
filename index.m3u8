@@ -81,7 +81,7 @@ https://ythls.onrender.com/channel/UC-PHIZjV-oX8H7zD1cCN2NQ.m3u8
 #EXTINF:-1 group-title="Music" tvg-language="English" tvg-logo="https://yt3.ggpht.com/X5J4XRzSiFusACXIZrV90ImV__L96bdCaed5OJEF9OR4j8aidoHrqRLfhr8lZEqkbECrsUAESQ", Art of Minimal Techno Trip
 https://ythls.onrender.com/channel/UCrcfRtdHb11YJEloTSaOYvw.m3u8
 
-#EXTINF:-1 group-title="" tvg-language="" tvg-logo="", ARY News
+#EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/dIvTxk9G7TFJovDZPEjjPGh27dlx-kr1fi1CKM3T5KTSYVjZhoW3vFZ5wY4dKn22CMBPwtog-Ko", ARY News
 https://ythls.onrender.com/channel/UCMmpLL2ucRHAXbNHiCPyIyg.m3u8
 
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/ytc/AL5GRJVut9MugMpLKQz3_ULCdhxb2Fg5PVHsqppXijrN", Asharq News - الشرق للأخبار
@@ -240,7 +240,7 @@ https://ythls.onrender.com/channel/UCS5iRXHd5PqBud1Chh9FRFA.m3u8
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/frxv-YONCV8jG9eRLvSXDIXyy-a33Pfu0Ce8xPMleEAY7PXf58Fm81AR9R5-lsy8leEO0h1liw", Fly TV
 https://ythls.onrender.com/channel/UCEpTWSFqICafylnJ0tdQpeA.m3u8
 
-#EXTINF:-1 group-title="" tvg-language="" tvg-logo="", FOX
+#EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/AYrmh-j1AdF02hLCTH2hQtCmq2fEwXTDy40eiD5mXt6WhVd4vjtKw87D8ObEU5yJENVPZ9BL", FOX
 https://ythls.onrender.com/channel/UCJe13zu6MyE6Oueac41KAqg.m3u8
 
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/ytc/AL5GRJUN8w5Xrgd1-TseuJ4Cm1_2J1KFk4NeCJx9Lp8B2g", FRANCE 24
@@ -593,6 +593,9 @@ https://ythls.onrender.com/video/1wotsnJGYWk.m3u8
 
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/ytc/AL5GRJX4s12SmGLYG90B9ay4YugrYKtE9kclwzpEKDJoKA", TV La Verdad Oficial
 https://ythls.onrender.com/channel/UCS5n5q3lJBXom3wVbOiUl9Q.m3u8
+
+#EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/6QdyAy4WlScqOZ6_1qLcuhMTQQmTnARVE1f-JX17Jk7ckjNIz5zW42DM16jw6I1wFBo0HiUCrg", TV Senado
+https://ythls.onrender.com/channel/UCLgti7NuK0RuW9wty-fxPjQ.m3u8
 
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="", TV5 News 
 https://ythls.onrender.com/channel/UCAR3h_9fLV82N2FH4cE4RKw.m3u8
