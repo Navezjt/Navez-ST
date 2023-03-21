@@ -294,6 +294,9 @@ https://ythls.onrender.com/video/pXe8MpU7uzk.m3u8
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/VOPtwWgRZIA4WxJyhLWwMCGrlrcNUtV8MLKr_zalcStq-Ojq7orMO56cSRQIOOcUiXrYnuQHeC0", IFM
 https://ythls.onrender.com/channel/UCvPW0VhnTcxYjWIxCvMlw2Q.m3u8
 
+#EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/ytc/AL5GRJVm3I7_eGLqqaxQkHZlDqSYmNemf7-5q7xkzpZF3Q", ImagenTV
+https://ythls.onrender.com/channel/UCl5JKSQsl-_WSU1rz7_BCJA.m3u8
+
 #EXTINF:-1 group-title="News" tvg-language="English" tvg-logo="https://yt3.ggpht.com/5Zr4bV9iJRa6zNS_-VSbZ7j5S8JhQc2Aez7b9y923AnYqJnltvI2iGdOFnWBcW-34ioPZlxzzLE", India Today
 https://ythls.onrender.com/video/lyeyoqwXm5o.m3u8
 
@@ -464,6 +467,9 @@ https://ythls.onrender.com/channel/UC5AA3XP4_pXIELctSsH_L7w.m3u8
 
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/ytc/AL5GRJUi-hfnI0NjGvaaRasrXdcw3GZPT0Nyj9ME3XJcug", REALITATEA.NET
 https://ythls.onrender.com/channel/UCO4RZJR_9WZmS-qRA3tMMTg.m3u8
+
+#EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/xoqgjnZ9Wd8-cPvKryCyTcfeaT7K3rZtQxCJHhcbICXoVvw7x3hYcQ0S02kzvdmsqwq-Fgnt", Record News
+https://ythls.onrender.com/channel/UCuiLR4p6wQ3xLEm15pEn1Xw.m3u8
 
 #EXTINF:-1 group-title="Music" tvg-language="English" tvg-logo="https://yt3.ggpht.com/ytc/AMLnZu9d1O338iPDejQIv8NA0a7xQwqt7mziK0aB581k-g", Relaxation Ambient Music
 https://ythls.onrender.com/video/tNkZsRW7h2c.m3u8
