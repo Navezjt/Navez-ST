@@ -117,6 +117,9 @@ https://ythls.onrender.com/channel/UCFgk2Q2mVO1BklRQhSv6p0w.m3u8
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/ytc/AL5GRJXC_qXZiSNgnuEHtmwqucjkxdVriBBS7EOpPeJV3A", Cafe Music BGM channel
 https://ythls.onrender.com/channel/UCJhjE7wbdYAae1G25m0tHAA.m3u8
 
+#EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/qiB2U_CZaAY_4IdZydkjJwMxnGCpr0v-tLoJmKrjG0KeqA3rLdj5hQ73jnOIjq2kmUcPajCvCTA", Canal 26
+https://ythls.onrender.com/channel/UCrpMfcQNog595v5gAS-oUsQ.m3u8
+
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/ytc/AL5GRJUccfNXH1xC46K-ItFbBmO9qluOM9nqV4jysOBCXQ", CBCSofra Live Stream
 https://ythls.onrender.com/channel/UC--UtxrU7FWNCp0l7AG9EIw.m3u8
 
@@ -168,8 +171,14 @@ https://ythls.onrender.com/video/E9NebTG42GE.m3u8
 #EXTINF:-1 group-title="Kids" tvg-language="English" tvg-logo="https://yt3.ggpht.com/_h0LruFUfluRLAx1VtPbKZ4AfTnm7TkTFMZIuR83dKpnRcOCP8tkw8KIJaHfaj2yKgPffuLu", Disney Junior
 https://ythls.onrender.com/channel/UCNcdbMyA59zE-Vk668bKWOg.m3u8
 
+#EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/gnpgx7YYP2NfIXXkc11ejmyH4gFJmgAz69TQ1h94TWuxPAS_Qv8c_n_6k7NLtreFCqheZNxW", DNews
+https://ythls.onrender.com/channel/UC4dWvSKVWJ36tJyhjDQCCaQ.m3u8
+
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/ytc/AL5GRJVRoBDBzuOEvXPmA3vUl18Kv3dkzM9_DriwLm0D3Q", Dobrogea TV
 https://ythls.onrender.com/channel/UCc5vhBLfkX4MSOEwjismqHw.m3u8
+
+#EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/xqQEfRfgmd-7W5YSrsMCULg4NYd2QLU912no0Dmok4FCdC4LI_romUJTN0sRDanNuyarQjJ9", DTV DIPUTADOS TELEVISIÓN
+https://ythls.onrender.com/channel/UC1h8_HKc5wScqeRw1HV6a6w.m3u8
 
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/S3x4qubQOEyO50MByNNmBUGqd0UmcAcY4qt_8kUhHUrGzgmQc2QdvI7mYqcxu_ZMh4fVS8H8jOA", Dunya News
 https://ythls.onrender.com/channel/UCnMBV5Iw4WqKILKue1nP6Hg.m3u8
