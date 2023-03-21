@@ -48,7 +48,7 @@ https://ythls.onrender.com/channel/UCahpxixMCwoANAftn6IxkTg.m3u8
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/QqSDRRBCFylqAQexJ-Vb6D6pTfqMacwYltPhRhxvCvBma_oRJEWXxs48cdJhSSHpzSOJOvh22w", Alghad TV - قناة الغد
 https://ythls.onrender.com/channel/UCH4UNKBHSNwstan99YDoCVg.m3u8
 
-#EXTINF:-1 group-title="" tvg-language="" tvg-logo="", AlHadath الحدث
+#EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/GLRjWHSxiV7D8xE55dUdK-GMsaLgjaTfezqf0Kfp0b83-wM3rpH68-yxKQSSZaY0I1A70GN_", AlHadath الحدث
 https://ythls.onrender.com/channel/UCrj5BGAhtWxDfqbza9T9hqA.m3u8
 
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/LViWsQpkUN7p22xcW5kPzWai-HzWlaszpsEP3jQjnIyXi2G_gaZz7zosE1_vNOPrrdvzKYEryA", AlJazeera Arabic  قناة الجزيرة
@@ -441,6 +441,9 @@ https://ythls.onrender.com/channel/UC5RvV_LtR1dxPCVFGw6dxXA.m3u8
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/EMAGYaGayFJU-Om7gDTjgYBE4UNoDad8GiDf8EpglYxMVIDl5SZT3JyXSkalsIOIdz8pzHk7RQ", PTV World
 https://ythls.onrender.com/channel/UCj-e7yp2_-qE-TPritppZGQ.m3u8
 
+#EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/ytc/AL5GRJUk1j-HbmwQ-YlF3EMXiJl1NENz55cOxgvU05kk", Public News
+https://ythls.onrender.com/channel/UCElJZvY_RVra6qjD8WSQYog.m3u8
+
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="", Radio Télé Altagrace
 https://ythls.onrender.com/channel/UCMRUAEjvPv7HZCUinmjywSA.m3u8
 
@@ -503,6 +506,9 @@ https://ythls.onrender.com/video/9Auq9mYxFEE.m3u8
 
 #EXTINF:-1 group-title="Music" tvg-language="English" tvg-logo="https://yt3.ggpht.com/ytc/AMLnZu9ppdgul4nVU7Z1bix1Bj6GiuB8zNKJUPKVzOsBkg", Spinning Records
 https://ythls.onrender.com/channel/UCpDJl2EmP7Oh90Vylx0dZtA.m3u8
+
+#EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/Xtfe2VDTQ-asHi0CdVRzXLWu85jErJLlnjWvek-Ryo56AE3ZOYwk4XLi0SZ4KazROtd1-v0hCw", Such News
+https://ythls.onrender.com/channel/UCyNUtOyKbLZaOgy3rhe_3lQ.m3u8
 
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="", Sun News
 https://ythls.onrender.com/channel/UCYlh4lH762HvHt6mmiecyWQ.m3u8
