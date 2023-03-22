@@ -1,5 +1,8 @@
 #EXTM3U x-tvg-url="https://github.com/botallen/epg/releases/download/latest/epg.xml"
 
+#EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/Gb4tcFuK50ESSfUzLh-kW0aEclU3Kll5yTIq6-oTzxlkfq68VHO2x7gJT7Z3IeLmCiG93kWGaQ", 10TV News Telugu
+https://ythls.onrender.com/video/NlnY6tCCC3A.m3u8
+
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/Kry6_WnfdJJD6Hrsp0HxRpoSq4oj4h39oRW2klUNb7-DX3Q8YKJ2EWmYf0vxX6OHMKfQ4iZJZw", 24 Horas - TVN Chile
 https://ythls.onrender.com/channel/UCTXNz3gjAypWp3EhlIATEJQ.m3u8
 
@@ -284,6 +287,9 @@ https://ythls.onrender.com/channel/UC-r13SLLdZtZNmuC2bMnlmw.m3u8
 
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="", hitfm
 https://ythls.onrender.com/channel/UCTTq-Hhcb_eUq0-dWpdlvpg.m3u8
+
+#EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/M20aFD6KgapPDObiR-8oG_CBRZvXOpednx7OvKXHbc8iMGszop6vTEbJesPwN-Ah8viI4SM_BdY", hmtv News
+https://ythls.onrender.com/video/2fvNaWiBUPU.m3u8
 
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/ytc/AL5GRJW1Ou8aFcfOIrRDHtUqQccVnHQpEORKXYdRPMvp", Hope Channel Indonesia
 https://ythls.onrender.com/channel/UCTR1wO3hnYzBs0BJIQAyZKw.m3u8
