@@ -390,6 +390,9 @@ https://ythls.onrender.com/channel/UCkccyEbqhhM3uKOI6Shm-4Q.m3u8
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/RXCiPfH_LYi15tgWbLNkEoJz3eQwouG6RDcg-df7Rirg3sFXP-gyW31SdwUdKTwZixUJQBMg", METRO TV 
 https://ythls.onrender.com/channel/UCzl0OrB3-ehunyotIQvK77A.m3u8
 
+#EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/ytc/AL5GRJXPr9nXzzK2FXCoFy2gquo9DhQCezshmNICRVfdGQ", Mobotix Webcams Russia
+https://ythls.onrender.com/video/rG13FY2ytno.m3u8
+
 #EXTINF:-1 group-title="Sports" tvg-language="English" tvg-logo="https://yt3.ggpht.com/9wk_1O3cXWnUmNUseduRI9QDLnSc9AcF92LrP92V8TKaVLTVWvYK5nw4TNkDJWq1-lRGGJ5LIg", MXGP TV
 https://ythls.onrender.com/channel/UCOlCqreTEPtLeuNu3hJhEBQ.m3u8
 
@@ -668,6 +671,9 @@ https://ythls.onrender.com/channel/UCdvWVsmQBROkgcGzVep73oA.m3u8
 
 #EXTINF:-1 group-title="Kids" tvg-language="English" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLTWSuXvajlpkF0dcqa8Mf2Va5svzH7b9EC1x0Q7zA", WB Kids
 https://ythls.onrender.com/channel/UC9trsD1jCTXXtN3xIOIU8gg.m3u8
+
+#EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/EzqBV7Hxio5AO16YSPkr-bPh0x3B3KjPiqJR8o4cnAnSC9R9ZjZJquz6sje_DMdry1KW7Qc2pQ", WebCam NL
+https://ythls.onrender.com/video/R3YNscjcJOk.m3u8
 
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="", webcamsdemexico
 https://ythls.onrender.com/video/c39dvnJyrgs.m3u8
