@@ -6,6 +6,9 @@ https://ythls.onrender.com/video/NlnY6tCCC3A.m3u8
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/Kry6_WnfdJJD6Hrsp0HxRpoSq4oj4h39oRW2klUNb7-DX3Q8YKJ2EWmYf0vxX6OHMKfQ4iZJZw", 24 Horas - TVN Chile
 https://ythls.onrender.com/channel/UCTXNz3gjAypWp3EhlIATEJQ.m3u8
 
+#EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/AwsdiCh9vPY13Ar44-U-5ocTcBqYlCPxrixNq8j3UgyrOc-SzI6GDAlMWL5PzmNXMQO77EQiV-I", 24 TV
+https://ythls.onrender.com/channel/UCN7VYCsI4Lx1-J4_BtjoWUA.m3u8
+
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/f-dQzTnkyRbC_znNPbvUv9XpJYqJZf_NTeujXEr_8ttjOdcwuEktPBMaMcWYsxQM-69jiOTRbA", 7ALimoges
 https://ythls.onrender.com/channel/UCdFv_ZWQ3Xk_NfRiaK-ryGg.m3u8
 
@@ -341,6 +344,9 @@ https://ythls.onrender.com/video/lyeyoqwXm5o.m3u8
 
 #EXTINF:-1 group-title="News" tvg-language="Hindi" tvg-logo="https://yt3.ggpht.com/y5S847YDNlDZNUUk3xmEfVMUDu2XSe0yAU_qvIpbwKi5VgIYQQc3FGeOANbgu-36sBEDpAwDAQ", India TV
 https://ythls.onrender.com/channel/UCttspZesZIDEwwpVIgoZtWQ.m3u8
+
+#EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/AzJatRVFUL-5Fpk4M-SP-gx9qWhX8A8qWThdCKsCPU6AYlMs8r-WELO9btQXq9lO97S7IhDp-Q", iNews Live
+https://ythls.onrender.com/video/xtNvq36LIgc.m3u8
 
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/ytc/AL5GRJXc_YAcTtALEVfA7EtBVO8Q87xhrbjwOaE8woO2", JAN TV
 https://ythls.onrender.com/channel/UCjmnq35TvJ1J8JZS49OPg-Q.m3u8
@@ -692,6 +698,9 @@ https://ythls.onrender.com/channel/UC5O114-PQNYkurlTg6hekZw.m3u8
 
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="", UNTV News and Rescue
 https://ythls.onrender.com/channel/UC3XaG-7UVi2vD8ZZEMNnnpw.m3u8
+
+#EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/ytc/AL5GRJWecEj43hAue7YTPOcb3f2uQEIuuNqxso9ApDo-i70", V6 News Telugu
+https://ythls.onrender.com/video/_xtceKvlVYQ.m3u8
 
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="", Vevo
 https://ythls.onrender.com/video/xl63OdwuoAw.m3u8
