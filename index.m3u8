@@ -33,6 +33,9 @@ https://ythls.onrender.com/channel/UCBi2mrWuNuyYy4gbM6fU18Q.m3u8
 #EXTINF:-1 group-title="News" tvg-language="English" tvg-logo="https://yt3.ggpht.com/ytc/AMLnZu_m6ZrA15uLgM1cNGM0gpT2XEXnJT6fYNjS1Z7FcQ", ABC News (Australia)
 https://ythls.onrender.com/channel/UCVgO39Bk5sMo66-6o6Spn6Q.m3u8
 
+#EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/pdmhb8Gtl4gvB8HdC8Na3mChnujTTMl5ghy41wx7Olhn00qgeIJOl7FjF9RQ9hJNyQ5b9PU0", ABCテレビニュース
+https://ythls.onrender.com/video/EqdxY34Y6LA.m3u8
+
 #EXTINF:-1 group-title="News" tvg-language="Hindi" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLRUToLipy4MP82mnh40IvVCb4gOykJssP3S4anLCcE", ABP News
 https://ythls.onrender.com/channel/UCRWFSbif-RFENbBrSiez1DA.m3u8
 
@@ -827,6 +830,9 @@ https://ythls.onrender.com/channel/UCpQs_warGhUzJhBdwLfF34g.m3u8
 
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/EwLBjB1PzvsfcoXEFdkbXGVZov4lJ9_51CjgHaNDd79Z6jmseEqWE9Veyuq11GOTASDsZwmaK1w", 台視新聞 TTV NEWS
 https://ythls.onrender.com/channel/UC8ROUUjHzEQm-ndb69CX8Ww.m3u8
+
+#EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/ytc/AL5GRJUFixhx1MsVEHqrZzHEN3yOwJ8WkmsoEpWXVfkU", 広テレ!公式チャンネル【広島テレビオンデマンド】
+https://ythls.onrender.com/video/sGpP6DpTDPM.m3u8
 
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/tbEx1gUijdigGn9zNL7npSHkTclQuDKtOkohhUt24KV9R0YNzpNS-1jYUvpd6UGAfzvXpyCG", 日テレNEWS
 https://ythls.onrender.com/channel/UCuTAXTexrhetbOe3zgskJBQ.m3u8
