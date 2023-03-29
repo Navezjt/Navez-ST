@@ -1,5 +1,8 @@
 #EXTM3U x-tvg-url="https://github.com/botallen/epg/releases/download/latest/epg.xml"
 
+#EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/ytc/AL5GRJWgZH5X5cXAjs-mJGfT3gLlxiNdAG6mLhKxNK7qxg", 1062madradio
+https://ythls.onrender.com/channel/UCzPB5j0mU-0TORZ-7-u8y0w.m3u8
+
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/Gb4tcFuK50ESSfUzLh-kW0aEclU3Kll5yTIq6-oTzxlkfq68VHO2x7gJT7Z3IeLmCiG93kWGaQ", 10TV News Telugu
 https://ythls.onrender.com/video/NlnY6tCCC3A.m3u8
 
@@ -378,6 +381,9 @@ https://ythls.onrender.com/video/36YnV9STBqc.m3u8
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/ytc/AL5GRJVCxdQJpqMf_MwrfVQjRxpXh7lc1pFCBIDdC5_j", Greek Songs
 https://ythls.onrender.com/channel/UChMcgwcwdDdAS7nFrksaL9w.m3u8
 
+#EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/ytc/AL5GRJVCxdQJpqMf_MwrfVQjRxpXh7lc1pFCBIDdC5_j", Greek Songs
+https://ythls.onrender.com/video/GgSEAgiZUaM.m3u8
+
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/lkLVIIVNb--BMVOlg-GYpPgBuaQBIYvOidYzqRBCQF9zTTbCrBsyY_855cWUCwQ1uMO5hdC3Ug", GTV NETWORK HD
 https://ythls.onrender.com/channel/UC6XLG5YjZfK1p5oY5MJ3NMw.m3u8
 
@@ -677,6 +683,12 @@ https://ythls.onrender.com/video/59_FVPiDZBE.m3u8
 
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/BpvJkenJLjYymIKZgrZ9DTwGillxZ_eLvGW4VAcUAqSqMAMUplZiPlctn3ASTZRs0ZIyG-tYgA", Radyo Dinle
 https://ythls.onrender.com/video/3LCmkOLuQ0c.m3u8
+
+#EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/BpvJkenJLjYymIKZgrZ9DTwGillxZ_eLvGW4VAcUAqSqMAMUplZiPlctn3ASTZRs0ZIyG-tYgA", Radyo Dinle
+https://ythls.onrender.com/video/lNEBOOL4sgs.m3u8
+
+#EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/BpvJkenJLjYymIKZgrZ9DTwGillxZ_eLvGW4VAcUAqSqMAMUplZiPlctn3ASTZRs0ZIyG-tYgA", Radyo Dinle
+https://ythls.onrender.com/video/mt_0DsCEC5I.m3u8
 
 #EXTINF:-1 group-title="Hobby" tvg-language="English" tvg-logo="https://yt3.ggpht.com/w7ypnC99hE2BTYOC9k2g5Ud1_gYmY6V0QsaeeRO0hsdeAvxzK4-S7Hb0NcAT63EaK73uvFkylw", Rail Cow Girl
 https://ythls.onrender.com/channel/UCj-Xm8j6WBgKY8OG7s9r2vQ.m3u8
