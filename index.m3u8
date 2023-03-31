@@ -78,6 +78,9 @@ https://ythls.onrender.com/channel/UCKos1CTDZxCL63jSfGjUXQA.m3u8
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/LViWsQpkUN7p22xcW5kPzWai-HzWlaszpsEP3jQjnIyXi2G_gaZz7zosE1_vNOPrrdvzKYEryA", AlJazeera Arabic  قناة الجزيرة
 https://ythls.onrender.com/channel/UCfiwzLy-8yKzIbsmZTzxDgw.m3u8
 
+#EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/SIourknNAwxNP1Gr94j8R3GCMsV6DT7eyLML2X_t4z4gWuCAFtP6-Fg_u0yO31pJYoD-fQT4", Aljazeera Mubasher
+https://ythls.onrender.com/channel/UCCv1Pd24oPErw5S7zJWltnQ.m3u8
+
 #EXTINF:-1 group-title="News" tvg-language="Hindi" tvg-logo="https://yt3.ggpht.com/ytc/AMLnZu9QtVczEu7dm8vEdUWl0J0HMDym6yqvP0XaumHwJg", All India Radio
 https://ythls.onrender.com/channel/UCYOv0QZr2B70Rkx_ZqIA84w.m3u8
 
@@ -987,7 +990,7 @@ https://ythls.onrender.com/channel/UChI2qxXw006CbgYPCmsAx_g.m3u8
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/EzqBV7Hxio5AO16YSPkr-bPh0x3B3KjPiqJR8o4cnAnSC9R9ZjZJquz6sje_DMdry1KW7Qc2pQ", WebCam NL
 https://ythls.onrender.com/video/R3YNscjcJOk.m3u8
 
-#EXTINF:-1 group-title="" tvg-language="" tvg-logo="", webcamsdemexico
+#EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/49J5S7D-pdtupGQLpLfDNMLD26cK9BK3t_C2w07ZRUqM1jxvpVldwfi8A3Cw6e4CwpfgI_77kw", webcamsdemexico
 https://ythls.onrender.com/video/c39dvnJyrgs.m3u8
 
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/ytc/AL5GRJXmoMx8Il6yZ-V8QDRtVkVN5FKyxJyxZJN_AI33y54", Willax Television
