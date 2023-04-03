@@ -261,6 +261,9 @@ https://ythls.onrender.com/channel/UC6dB-iYVw8Lcs5_uFWUZCOQ.m3u8
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/i213N_VQVyD9cIhh1zRP9OFW60ege6nchMkw4SzEiy6YznGacsKto8GKsFoye12LcV4pskI__w", Crónica TV
 https://ythls.onrender.com/channel/UCT7KFGv6s2a-rh2Jq8ZdM1g.m3u8
 
+#EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/DaV-yEdy-cBqcyEHcrjzkYbJxUBuLGJgFD1v6DSkX-FI8gclofHf4HtJ0pv_nCVol0jut4_UPw", Current Time
+https://ythls.onrender.com/channel/UCBG57608Hukev3d0d-gvLhQ.m3u8
+
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/ytc/AL5GRJUE_Te2ghVCszPdXQ-Fb4OaepJ1lHMh_pG7kb9lzw", DawnNews
 https://ythls.onrender.com/channel/UCaxR-D8FjZ-2otbU0_Y2grg.m3u8
 
@@ -374,6 +377,9 @@ https://ythls.onrender.com/channel/UCU1i6qBMjY9El6q5L2OK8hA.m3u8
 
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/HQD80ch4HMyp3DqbFUKUFu_xfK6lcyjL6IvW8WEvDEVcavxtkfpxiYwoNURUJs8pJ9sBUDX-", Euronews em Português
 https://ythls.onrender.com/channel/UCUmEPYxmnyQDeRUcFkslmQw.m3u8
+
+#EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/VG-hWBSY602L8iSO2Q8_OVn5dhF1oU4BXxefzHt1LroWit79aJ8kEYqG6zGqf6UuUP3w8npd", Euronews по-русски
+https://ythls.onrender.com/channel/UCFzJjgVicCtFxJ5B0P_ei8A.m3u8
 
 #EXTINF:-1 group-title="Music" tvg-language="Hindi" tvg-logo="https://yt3.googleusercontent.com/ErPf9o0J3_SQl-Oixsqz9or2V0U-zqgSncb4g2oYg578ZN4w8hxXxCWafbwSMEBna7Y-Of_APw=s100-c-k-c0x00ffffff-no-rj", EverGreen
 https://ythls.onrender.com/channel/UC1LyWXe9XLGynG39zkfLDMg.m3u8
@@ -1085,6 +1091,9 @@ https://ythls.onrender.com/channel/UCRokSp8CGOuQO4R0F1RxRGg.m3u8
 
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/BxocD7R_wvfiAXPaXCQiRGnXdoBKKbm1FrkeBh-H0m7cW-8r0BVGpjMuOM3_AHrN1KKem3MIlg", Ми - Україна
 https://ythls.onrender.com/channel/UCEduOt4TK8TtOaznB45TrhA.m3u8
+
+#EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/IcvE92umh1Ly8AdJ0AuuuOhzChtgruFaRzUJ21hkslEDU8ujSV6fibHioUWNI41jN_X7Temw", Радио Свобода Live
+https://ythls.onrender.com/channel/UCvJZyAfWreTF1eFGA3qpdLQ.m3u8
 
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/tNuyTK2uEqFyqgzlf6idH2ExJQtEbPLfMru9UY6kKMAAFzwj0SvlWj3r9dACRcljad7tqe1w", Телеканал 1+1
 https://ythls.onrender.com/channel/UCVEaAWKfv7fE1c-ZuBs7TKQ.m3u8
