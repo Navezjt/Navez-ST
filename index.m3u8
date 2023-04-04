@@ -426,6 +426,9 @@ https://ythls.onrender.com/channel/UC_vt34wimdCzdkrzVejwX9g.m3u8
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/RlSRDysdiCOHOZbwCkYueV_x2nyBBmTu3yni3kdEtSnBq71GOcAk2EGjBIjVADO_Fac0vdVnyv8", Globovisión En Vivo
 https://ythls.onrender.com/channel/UCfJtBtmhnIyfUB6RqXeImMw.m3u8
 
+#EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/V-dRGM9K3NaOzY8M6d7At_GP1Yf_-TSq-2Mj5AUEoVkJQCQZrP_stToYDlEHt8k9CzP2OrN4DpM", GMA News
+https://ythls.onrender.com/channel/UCqYw-CTd1dU2yGI71sEyqNw.m3u8
+
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.googleusercontent.com/854F5U1nuLmECr0OHClX5-Eyj8JpI8YQuBWudm4H4-KhE4kTX5clshDlYQgnOB0iBeEc2C2wpw", GMANetwork
 https://ythls.onrender.com/channel/UCKL5hAuzgFQsyrsQKgU0Qng.m3u8
 
@@ -735,7 +738,7 @@ https://ythls.onrender.com/channel/UCgR0st4ZLABi-LQcWNu3wnQ.m3u8
 #EXTINF:-1 group-title="Nature" tvg-language="English" tvg-logo="https://yt3.ggpht.com/ytc/AL5GRJWuLvy7a7f8y8CYKDoyfD4b2ID0OX4zH-xhmjgn", Piano Relaxing
 https://ythls.onrender.com/channel/UCEiS8m8OLFI0REntmsTvzjA.m3u8
 
-#EXTINF:-1 group-title="" tvg-language="" tvg-logo="", PIE Channel
+#EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/yv1YLrSzdYaMA8Rj6InWWHJKe_FjA4VOKxMgztz8FxgxgUEma_rv4sj7zVUPjILHUAUUwvLC", PIE Channel
 https://ythls.onrender.com/channel/UCAxAaFQnH5IK_ZTwiQWV-9A.m3u8
 
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/ytc/AL5GRJXO_ZejAs3ASZnyVD4x-cPxIVqeqaJ4TC9gMWMzxJQ", Polimer News
@@ -857,6 +860,9 @@ https://ythls.onrender.com/channel/UC0MRoMlktQ0OJmh3jubsz4g.m3u8
 
 #EXTINF:-1 group-title="News" tvg-language="English" tvg-logo="https://yt3.ggpht.com/E96qzkAoX81DQs7wqRHR4rNk1esa4quBPzda2QRzImlhoHOVgRdAN8o-S0Rb_hpygo_n4LdhwTE", Sky News
 https://ythls.onrender.com/video/9Auq9mYxFEE.m3u8
+
+#EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/IWppfcIrGe7KHQnidX74tXnF6QV57S9abMEWj46QSiiBBUzYadcBDWidsR7gQ3lOlaUHlf5m", SMNI News 
+https://ythls.onrender.com/channel/UCNaQMcnWvx95j7OG3217IMg.m3u8
 
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/ytc/AL5GRJVeOzZdk2SXNDWMQ3hLW_70YoQOTNHsBU5JMZSlnA", SODANEチャンネル
 https://ythls.onrender.com/video/kfIQBC0hrII.m3u8
