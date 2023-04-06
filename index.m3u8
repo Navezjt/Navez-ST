@@ -639,7 +639,7 @@ https://ythls.onrender.com/channel/UCT67YOMntJxfRnO_9bXDpvw.m3u8
 #EXTINF:-1 group-title="Music" tvg-language="English" tvg-logo="https://yt3.ggpht.com/KNYElmLFGAOSZoBmxYGKKXhGHrT2e7Hmz3WsBerbam5uaDXFADAmT7htj3OcC-uK1O88lC9fQg", Lofi Girl
 https://ythls.onrender.com/channel/UCSJ4gkVC6NrvII8umztf0Ow.m3u8
 
-#EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/ytc/AL5GRJUwArmRdtyCRZQGTOkEswt7FDZzrZ7GwKlcuURGZw", MAD TV GREECE
+#EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/kuTJ-7n0iwUZSLftUpZcWZ9eL9-eRwopMM-EWkSChxzxfODxVVRDUz9S4BycUt3QfEsne0g8yQ", MAD TV GREECE
 https://ythls.onrender.com/channel/UCs3cho4vcDuCze0tk3W9iVQ.m3u8
 
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/G28Bz81fbRr-tn1cOHsYczzLtrtztKZ9crp2aGK_UkkSnJdpAqXewcitRufK1RZ2XHiJUhPuLQ", Maria Tv Romania
@@ -857,6 +857,9 @@ https://ythls.onrender.com/video/lNEBOOL4sgs.m3u8
 
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/BpvJkenJLjYymIKZgrZ9DTwGillxZ_eLvGW4VAcUAqSqMAMUplZiPlctn3ASTZRs0ZIyG-tYgA", Radyo Dinle
 https://ythls.onrender.com/video/mt_0DsCEC5I.m3u8
+
+#EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/3b55G0c1iTv7OEy0HhJSCCLHg9JNfJFkNVFPz2HuPshtGayc5N7RG-XN8pwC0dC62uyaM0lBBQ", Radyo Madyo
+https://ythls.onrender.com/video/Oy7R1dfzJbQ.m3u8
 
 #EXTINF:-1 group-title="Hobby" tvg-language="English" tvg-logo="https://yt3.ggpht.com/w7ypnC99hE2BTYOC9k2g5Ud1_gYmY6V0QsaeeRO0hsdeAvxzK4-S7Hb0NcAT63EaK73uvFkylw", Rail Cow Girl
 https://ythls.onrender.com/channel/UCj-Xm8j6WBgKY8OG7s9r2vQ.m3u8
