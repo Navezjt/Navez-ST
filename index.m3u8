@@ -1,5 +1,8 @@
 #EXTM3U x-tvg-url="https://github.com/botallen/epg/releases/download/latest/epg.xml"
 
+#EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/6gyGAs07jVehm4ZPfwataPfOk7eJC5o6g7yWFHmLtw6YZ9RzszwOfLngQqrobb1hOMMpiz7XWg",  Xalazi Tv Weather Channel
+https://ythls.onrender.com/channel/UCl8TS16xV5Xz21V2owXV96A.m3u8
+
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/ytc/AL5GRJWgZH5X5cXAjs-mJGfT3gLlxiNdAG6mLhKxNK7qxg", 1062madradio
 https://ythls.onrender.com/channel/UCzPB5j0mU-0TORZ-7-u8y0w.m3u8
 
@@ -468,6 +471,9 @@ https://ythls.onrender.com/channel/UC9xLSF0SZDbVa70iTpghQBw.m3u8
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/frxv-YONCV8jG9eRLvSXDIXyy-a33Pfu0Ce8xPMleEAY7PXf58Fm81AR9R5-lsy8leEO0h1liw", Fly TV
 https://ythls.onrender.com/channel/UCEpTWSFqICafylnJ0tdQpeA.m3u8
 
+#EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/97sLhCzI_E89ZkqUzcJiB5qwaurcB0o7XYP979p34w82R2r_7ZtQZhxKAV8POPFq3IMDrxbaXBk", FMVale975
+https://ythls.onrender.com/channel/UC1Oa7gHuqzGHB90FPb0ssPA.m3u8
+
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/AYrmh-j1AdF02hLCTH2hQtCmq2fEwXTDy40eiD5mXt6WhVd4vjtKw87D8ObEU5yJENVPZ9BL", FOX
 https://ythls.onrender.com/channel/UCJe13zu6MyE6Oueac41KAqg.m3u8
 
@@ -476,6 +482,9 @@ https://ythls.onrender.com/channel/UCCCPCZNChQdGa9EkATeye4g.m3u8
 
 #EXTINF:-1 group-title="News" tvg-language="English" tvg-logo="https://yt3.ggpht.com/ytc/AL5GRJXuNPbGePOdLA5iCxY9BNgPCChLaG7kQ8xcFDVt0w", France 24 English
 https://ythls.onrender.com/channel/UCQfwfsi5VrQ8yKZ-UWmAEFg.m3u8
+
+#EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/NKBwBuB77YSmzYPL__oVDnjyQZucZMtRD_0EhvxpOM41BnYffaNdQtY5KYy9VmH43BIrI3lRBsw", Frecuencia Zero Podcast FM 92.5 MHz
+https://ythls.onrender.com/channel/UCWeum91XCJ0RmTG8R4d8TFg.m3u8
 
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/xJhEbsa7M3wxdHoRkwCsZgO5Ip1CIlrr3vuehBHY7qdmu9GQAYJjFGdLCSDLeoMm8LPcVM6Q7JA", FREEДOM
 https://ythls.onrender.com/channel/UCt3igz3aIXfS108KV_jZsMA.m3u8
@@ -977,6 +986,9 @@ https://ythls.onrender.com/channel/UCpDJl2EmP7Oh90Vylx0dZtA.m3u8
 
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/ytc/AL5GRJXyFmUAW-loySOR_160UZxe3FnF_Q0OGjaPhcUl", STAR TV
 https://ythls.onrender.com/channel/UCsFINj3y7SjBaeUxiSdRjlA.m3u8
+
+#EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/ytc/AL5GRJWOPqX7TwHS8JXJV2IZV-0rqQ7igLDQ0btS7Cva4w", Steadycamline
+https://ythls.onrender.com/video/LAla0n9Wymg.m3u8
 
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/ytc/AL5GRJUJs4IUxNQ8lcT7g263ZMRLhJx-H2XcX5vy6EtO", STVニュース北海道
 https://ythls.onrender.com/video/lut3eG59HJQ.m3u8
