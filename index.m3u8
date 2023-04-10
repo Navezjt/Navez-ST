@@ -78,7 +78,7 @@ https://ythls.onrender.com/video/lxlkEEipGe8.m3u8
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/L8irqEmpi37buYveRShxDoYvBTtJs4UboF4yo7sPY86uzdIy_oJ06A3VsP-TGjzFpEewg_iV1Cw", africanews
 https://ythls.onrender.com/channel/UC1_E8NeF5QHY2dtdLRBCCLA.m3u8
 
-#EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/ytc/AL5GRJU1V0nmt-goBhec3WQth6_nrEoHFSnalCxt905RQA", Al Hiwar TV قناة الحوار
+#EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/ytc/AGIKgqNPjiV4nCOus4SsWlIF--8em_THsgw-dtyWDvazoA", Al Hiwar TV قناة الحوار
 https://ythls.onrender.com/channel/UC_fNP2ettM5ius4BZ6G7MOg.m3u8
 
 #EXTINF:-1 group-title="News" tvg-language="English" tvg-logo="https://yt3.ggpht.com/YKrh5sIYpesEIHbjfgqwFjFx3ZgIjM_zak2z0LO8QENSgrmgKBes1m65POj9jkmzm0qoKwgl", Al Jazeera English
@@ -1083,7 +1083,7 @@ https://ythls.onrender.com/channel/UCxK8C1E8UZ5RipNXIBYEvTA.m3u8
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/8cAEw5K-QzndPACluQd9EXDk-deYXs-SHJ7MF3Fb9B6qeMm34GhVsZB2KN_c9WV9wsFXIIFp", TELEVISA SAN LUIS POTOSI OFICIAL
 https://ythls.onrender.com/channel/UCaRuyaHshLdq462E9_pLzdA.m3u8
 
-#EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/ytc/AL5GRJXMKVUXzn8bvHcWpQnQaBboPo3JEdJV63UO-Fx5qA", Televisa Tijuana Oficial
+#EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/ytc/AGIKgqN9CnPTTXD8UrUoHk-Jl_gFF3ZfsL51UV4P3Cjiog", Televisa Tijuana Oficial
 https://ythls.onrender.com/channel/UCjwXjnO3BGePtB7gSKEpoqA.m3u8
 
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/WMFUH76Iz25xMcEi4nkMRLLfSS4GSotYScDX8st1D2IswLm0dE5EqiFeQVj_QmZCrVk_0Ui9", Televisa Veracruz Oficial
@@ -1299,7 +1299,7 @@ https://ythls.onrender.com/channel/UC-NrL-C9NpTC_pDhg6LIbTQ.m3u8
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/vSd05YIZNp4XYjKpsc4wFZFH1FHSfCJRcoDSFyrNE1ROIKSbRziHJhlb3mx2P7dmltuMdGIH", آيات 
 https://ythls.onrender.com/channel/UC89SSMnCKzXdZsIs_GB6QBg.m3u8
 
-#EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/ytc/AL5GRJXQEiqXU61u52svNq0tcswx6NqrYrvHavNQQLBX", القاهرة والناس
+#EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/ytc/AGIKgqPd0xAraSY8Vhhgq60wjOEIiEzI1yyBcb5gnGqR", القاهرة والناس
 https://ythls.onrender.com/channel/UCzWdc0aUo0IDk5ysLrt04hw.m3u8
 
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/48X2oJKBz_V2qAvUB8I-opeoeUlfoNqWQk_J-9W_HFloJGuVv9FSEpCnfjbAeUZGUgZVKYd93w", المؤسسة العمومية للتلفزيون الجزائري
@@ -1373,3 +1373,6 @@ https://ythls.onrender.com/video/WwGyKlXdUvw.m3u8
 
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/ytc/AL5GRJUBVIibNKuCLKVY3qV_aBArOZ_cmO63a2I656OKAA", 이데일리TV
 https://ythls.onrender.com/channel/UC8Sv6O3Ux8ePVqorx8aOBMg.m3u8
+
+#EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/ta4WXjr-BBKfkZvX4Bh_JazfSao9MOs_SPAj5BFusDNuTilEpysuh8GapMPGmF4xIKl7DPNx4A", 🔴Live Z101
+https://ythls.onrender.com/channel/UCucu9XccNzF4BPOweW0RD5w.m3u8
