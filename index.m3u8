@@ -510,7 +510,7 @@ https://ythls.onrender.com/channel/UCJe13zu6MyE6Oueac41KAqg.m3u8
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/ytc/AGIKgqMKSXZrNZje6psD47Xbkj3KRqiiTHRjufyCZvMUEQ", FRANCE 24
 https://ythls.onrender.com/channel/UCCCPCZNChQdGa9EkATeye4g.m3u8
 
-#EXTINF:-1 group-title="News" tvg-language="English" tvg-logo="https://yt3.ggpht.com/ytc/AL5GRJXuNPbGePOdLA5iCxY9BNgPCChLaG7kQ8xcFDVt0w", France 24 English
+#EXTINF:-1 group-title="News" tvg-language="English" tvg-logo="https://yt3.ggpht.com/ytc/AGIKgqNNrxL3Bam46oeoN-tJlZBWkunod2b7AUNRasWbrA", France 24 English
 https://ythls.onrender.com/channel/UCQfwfsi5VrQ8yKZ-UWmAEFg.m3u8
 
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/a3JSTbtCxqvP67gtm-lIOrWFUvOPQWJIm9LOWmoG38v6as_OgjISVE5w0PsFA9My48CdnBXTKQ", France Inter
@@ -1172,6 +1172,9 @@ https://ythls.onrender.com/channel/UCx7b66RpQRLuOXvItxy0Wxg.m3u8
 
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/ytc/AL5GRJXEbNX7VonixZbHRN5qB9EeLJX6oWM70hQDPzmY8Q", TRINITAS TV
 https://ythls.onrender.com/channel/UCcqFHIDYfKsaJ5KXZjzW7ZQ.m3u8
+
+#EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/ytc/AGIKgqNXHJI6XbtlMNANzChW3idNm-_oCtbKfKe-cSAcIQ", Tripotay Lakay
+https://ythls.onrender.com/channel/UCmimWvZbHUEBMoZu7agHniA.m3u8
 
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/ytc/AL5GRJUFinJzQL1C8NASuCdXeWszUIyxxr1eVXM2BVuoOg", trmh24
 https://ythls.onrender.com/video/bz6YtSDW02M.m3u8
