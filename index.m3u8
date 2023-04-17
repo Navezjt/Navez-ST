@@ -324,6 +324,9 @@ https://ythls.onrender.com/channel/UCRsUoZYC1ULUspipMRnMhwg.m3u8
 #EXTINF:-1 group-title="News" tvg-language="English" tvg-logo="https://yt3.ggpht.com/ytc/AL5GRJWTudQ148W6NfKgx_lNGR9JQLaj1OYLFZgGJPhOUQ", CNA
 https://ythls.onrender.com/channel/UC83jt4dlz1Gjl58fzQrrKZg.m3u8
 
+#EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/ytc/AGIKgqNfrHG5_8VsdyVQhO0v3-VUbnJfpJq-ERS4Y8_5Ur4", CNBC
+https://ythls.onrender.com/channel/UCvJJ_dzjViJCoLf5uKUTwoA.m3u8
+
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/qEaMh3qe5aECjp6bsfKqzlOYRAXfoIH0z1k0pAtlYoyX4BMUyB4YXA1YLvhafG-EgQJjnOltig", CNBC Arabia TV
 https://ythls.onrender.com/channel/UCsHdPPJXT-yKVTLGkn3DSvQ.m3u8
 
@@ -893,6 +896,9 @@ https://ythls.onrender.com/channel/UCiJnBO_XuDsi1SSRAmt4n5g.m3u8
 
 #EXTINF:-1 group-title="News" tvg-language="English" tvg-logo="https://yt3.ggpht.com/ytc/AGIKgqM9PMk88naG4_4iRbdKUKVkt4tWf6aOKGqfaGx7wxA", NDTV
 https://ythls.onrender.com/channel/UCZFMm1mMw0F81Z37aaEzTUA.m3u8
+
+#EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/5tkc5QWIleZrzeOPkQRCU8E6_Vvct0hHRZWkbVuBcWdgI7xsyUsx00cilWuQQNOueH9qwcdQDw", Negocios TV
+https://ythls.onrender.com/channel/UCwd8Byi93KbnsYmCcKLExvQ.m3u8
 
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/U8iPa_VMaAhXEjsZY620S17nq9HlALc8GY4gU9WH54AwFrRJl9suGysa-DUKB7D_Y37PMCiTTg", NET25
 https://ythls.onrender.com/channel/UC5IF8NlxMW1GkEUUqWJJBIw.m3u8
