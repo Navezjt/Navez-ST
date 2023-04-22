@@ -1173,6 +1173,9 @@ https://ythls.onrender.com/channel/UCnqKf9_wLjDXyhW9EZvodpw.m3u8
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/ytc/AGIKgqNE6heOUyE2xZfK9O13AIp9VWQt6dnr1M9VcDIkYA", RTVE Noticias
 https://ythls.onrender.com/video/xR-4NDFsYNk.m3u8
 
+#EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/ytc/AGIKgqNE6heOUyE2xZfK9O13AIp9VWQt6dnr1M9VcDIkYA", RTVE Noticias
+https://ythls.onrender.com/channel/UC7QZIf0dta-XPXsp9Hv4dTw.m3u8
+
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/ytc/AGIKgqMGnNuZFeiVUlfMrH_rtqbHZOcnMXt03WsMZs28", RTVSLON
 https://ythls.onrender.com/channel/UCX0QrFrUrE3Vu7wUcvwQKSw.m3u8
 
@@ -1365,7 +1368,7 @@ https://ythls.onrender.com/video/6hWHWGJ1Gbw.m3u8
 #EXTINF:-1 group-title="Music" tvg-language="English" tvg-logo="https://yt3.ggpht.com/5C8e_VL2fvl8tEDcnW5K_TsocwiNxbhuXCpdV2t8DhJO-dz8cWIYq6nT3Mf4F9yBnQmIWZUe", Tomorrowland
 https://ythls.onrender.com/channel/UCsN8M73DMWa8SPp5o_0IAQQ.m3u8
 
-#EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/ytc/AL5GRJXprcb5ptOHNpbtdURM6BCIFDrdZTsXhFC_8H1a", toyorlive
+#EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/ytc/AGIKgqNNt_oQV1OWL_YHcHnNgb0N-26m-vBn4IJ3xchJ", toyorlive
 https://ythls.onrender.com/channel/UCZbpK_Lgctew3YNELlG2ecw.m3u8
 
 #EXTINF:-1 group-title="Kids" tvg-language="English" tvg-logo="https://yt3.ggpht.com/ytc/AMLnZu_IX4cW3hPoiNEHyRQWmQ4iG9CGKvfrONpQFgV-HQ", Transformers
