@@ -51,6 +51,9 @@ https://ythls.onrender.com/channel/UCBi2mrWuNuyYy4gbM6fU18Q.m3u8
 #EXTINF:-1 group-title="News" tvg-language="English" tvg-logo="https://yt3.ggpht.com/ytc/AGIKgqM7NZfeKN0CUY5GmqT4fqzLd0CDSHB7SoIt9-6pPQ", ABC News (Australia)
 https://ythls.onrender.com/channel/UCVgO39Bk5sMo66-6o6Spn6Q.m3u8
 
+#EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/w2NiF7_f5mGJuBF8iXg3zQBvbPcmijlKAzqliYIzgRWv7tmfjFWnVe_AfQQCN56g2fUL53n2", ABC News Albania | Live
+https://ythls.onrender.com/channel/UCBvv5xYXNHa5XjecBC2-odA.m3u8
+
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/pdmhb8Gtl4gvB8HdC8Na3mChnujTTMl5ghy41wx7Olhn00qgeIJOl7FjF9RQ9hJNyQ5b9PU0", ABCテレビニュース
 https://ythls.onrender.com/video/EqdxY34Y6LA.m3u8
 
@@ -197,6 +200,9 @@ https://ythls.onrender.com/video/ZB3ajciqprQ.m3u8
 
 #EXTINF:-1 group-title="Music" tvg-language="English" tvg-logo="https://yt3.ggpht.com/YYWRn-y53j31cox8XT1G2dNxDRTI9E0o9f2QntSXr_2DKjgr_4pLQNMpiN4NM1CR988qdcklgA", Art of Minimal Techno Trip
 https://ythls.onrender.com/channel/UCrcfRtdHb11YJEloTSaOYvw.m3u8
+
+#EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/e6sHArcplVbagHoclJwzo6GcLq2wTKnxEaJAQQuMZyMy-ku7uZ14LpqL5GpErNJ04x5Hkq0nSw", Artı TV
+https://ythls.onrender.com/channel/UCxVicskgBc8OD66iLKc7Uaw.m3u8
 
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/dIvTxk9G7TFJovDZPEjjPGh27dlx-kr1fi1CKM3T5KTSYVjZhoW3vFZ5wY4dKn22CMBPwtog-Ko", ARY News
 https://ythls.onrender.com/channel/UCMmpLL2ucRHAXbNHiCPyIyg.m3u8
@@ -602,6 +608,9 @@ https://ythls.onrender.com/channel/UCJe13zu6MyE6Oueac41KAqg.m3u8
 
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/ytc/AGIKgqMKSXZrNZje6psD47Xbkj3KRqiiTHRjufyCZvMUEQ", FRANCE 24
 https://ythls.onrender.com/channel/UCCCPCZNChQdGa9EkATeye4g.m3u8
+
+#EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/ytc/AGIKgqMKSXZrNZje6psD47Xbkj3KRqiiTHRjufyCZvMUEQ", FRANCE 24
+https://ythls.onrender.com/video/gxG3pdKvlIs.m3u8
 
 #EXTINF:-1 group-title="News" tvg-language="English" tvg-logo="https://yt3.ggpht.com/ytc/AGIKgqNNrxL3Bam46oeoN-tJlZBWkunod2b7AUNRasWbrA", France 24 English
 https://ythls.onrender.com/channel/UCQfwfsi5VrQ8yKZ-UWmAEFg.m3u8
@@ -1595,6 +1604,9 @@ https://ythls.onrender.com/channel/UC9trsD1jCTXXtN3xIOIU8gg.m3u8
 
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/imhb27FnbFRB3e5iS2Z7Okj91czXuvkMKUfMGXbmzkLArIlPRGINfWMKW8okNaHOEh36WRuaY38", Weathercam
 https://ythls.onrender.com/video/wEeJfBE8ecM.m3u8
+
+#EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/imhb27FnbFRB3e5iS2Z7Okj91czXuvkMKUfMGXbmzkLArIlPRGINfWMKW8okNaHOEh36WRuaY38", Weathercam
+https://ythls.onrender.com/video/ThVtj7egCKY.m3u8
 
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/b0e6w0EkpdFx180wqDbgvGtRrKpVa1hsaFdVJW_ZzEsVHB0kUIcZlqN69z1HbWbWPfEzlGtLiw", Web Sport - الرياضية ويب
 https://ythls.onrender.com/channel/UChI2qxXw006CbgYPCmsAx_g.m3u8
