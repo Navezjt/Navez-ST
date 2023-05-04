@@ -852,6 +852,9 @@ https://ythls.onrender.com/channel/UCn0XfLqmjYOUgpNM1K03R1A.m3u8
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/vasjWRYKwMet892lYs3mAacH2r5n6CVRDXnjOfl_76ULRT2J_DSZjy2B5HmmiCPLyaABtym_Sk0", Kartavya TV Channel
 https://ythls.onrender.com/video/FxfMP03XI0M.m3u8
 
+#EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/I-inqNyQ31_VAtzoeR0HHvVML_AFOdfB2-8WPasiBjl8KNndiMFOz4ig3aA1MCOVVPh9GosaGeM", KBC Channel 1
+https://ythls.onrender.com/channel/UCypNjM5hP1qcUqQZe57jNfg.m3u8
+
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/gsNDSfvzKpZT0OEjTBFH5PxokZ7WeZQU5PcsMWD8vJyBI6ts4uUDic_KsipnVbIUhtToblLaig", KBS News
 https://ythls.onrender.com/video/4f-TCEH-GI0.m3u8
 
@@ -1592,6 +1595,9 @@ https://ythls.onrender.com/channel/UCqNYK5QArQRZSIR8v6_FCfA.m3u8
 
 #EXTINF:-1 group-title="Kids" tvg-language="English" tvg-logo="https://yt3.ggpht.com/ytc/AMLnZu_IX4cW3hPoiNEHyRQWmQ4iG9CGKvfrONpQFgV-HQ", Transformers
 https://ythls.onrender.com/channel/UCx7b66RpQRLuOXvItxy0Wxg.m3u8
+
+#EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/ytc/AGIKgqOuk1j7c06LdizsQtCe7dJhfHWYvH5Bk3cWFJfPcC0", Travel Channel
+https://ythls.onrender.com/channel/UCJUAqHnkDX15IvFoXIGTm2A.m3u8
 
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/ytc/AGIKgqPagI6vCW7llxxoES1DmtESDMEHo2LHwjd9eE3STg", TRINITAS TV
 https://ythls.onrender.com/channel/UCcqFHIDYfKsaJ5KXZjzW7ZQ.m3u8
