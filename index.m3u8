@@ -15,6 +15,9 @@ https://ythls.onrender.com/video/pDYtaHtHY28.m3u8
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/Kry6_WnfdJJD6Hrsp0HxRpoSq4oj4h39oRW2klUNb7-DX3Q8YKJ2EWmYf0vxX6OHMKfQ4iZJZw", 24 Horas - TVN Chile
 https://ythls.onrender.com/channel/UCTXNz3gjAypWp3EhlIATEJQ.m3u8
 
+#EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/iii--yRY_qTPIGFBgEL4CbVzUThr_Heoo7jUxfTzyl2P_P0X9qr4zsmFwyqaOixJva9NZiBx7g", 24 News HD
+https://ythls.onrender.com/channel/UCcmpeVbSSQlZRvHfdC-CRwg.m3u8
+
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/AwsdiCh9vPY13Ar44-U-5ocTcBqYlCPxrixNq8j3UgyrOc-SzI6GDAlMWL5PzmNXMQO77EQiV-I", 24 TV
 https://ythls.onrender.com/channel/UCN7VYCsI4Lx1-J4_BtjoWUA.m3u8
 
@@ -693,7 +696,7 @@ https://ythls.onrender.com/channel/UCqYw-CTd1dU2yGI71sEyqNw.m3u8
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.googleusercontent.com/854F5U1nuLmECr0OHClX5-Eyj8JpI8YQuBWudm4H4-KhE4kTX5clshDlYQgnOB0iBeEc2C2wpw", GMANetwork
 https://ythls.onrender.com/channel/UCKL5hAuzgFQsyrsQKgU0Qng.m3u8
 
-#EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/ytc/AL5GRJVh-fafv1NRqKvjN7QqvCWy28GPq_aAULDJZIx3MA", GNN
+#EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/ytc/AGIKgqPMAq_FVAyUw8g_dlSL-wRTp7NmJOiuexEctaC7KQ", GNN
 https://ythls.onrender.com/channel/UC35KuZBNIj4S5Ls0yjY-UHQ.m3u8
 
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/ytc/AL5GRJVt7ttj47U2us5ofPCEvUu7si5JCanHYfEARNiHFg", Golf Oscar Romeo
