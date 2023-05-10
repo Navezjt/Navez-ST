@@ -1563,6 +1563,9 @@ https://ythls.onrender.com/channel/UC0MRoMlktQ0OJmh3jubsz4g.m3u8
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/-54_uF6PMa0JKvx6qnpTCR0awvRDXRyRVjpkd_pB5_S7L0Y1_sHIfIb66jQIGAdWJi71sDBafw", SINAR
 https://ythls.onrender.com/channel/UCt4ZHf2zhAzkq3iI5tG0yFg.m3u8
 
+#EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/k851QTuFDV6M7woyq1mNSgw6dcwZ0ntTonR-NR8gvs_EXMB1HK45vDJTcvnP_Nbz_QHaQyYr", SINDOnews
+https://ythls.onrender.com/channel/UCGfXjFgIUUTUUlzdG6BenXA.m3u8
+
 #EXTINF:-1 group-title="News" tvg-language="English" tvg-logo="https://yt3.ggpht.com/E96qzkAoX81DQs7wqRHR4rNk1esa4quBPzda2QRzImlhoHOVgRdAN8o-S0Rb_hpygo_n4LdhwTE", Sky News
 https://ythls.onrender.com/video/9Auq9mYxFEE.m3u8
 
@@ -1679,6 +1682,9 @@ https://ythls.onrender.com/channel/UC6yPLxBTg8TodC2KPrGDTjA.m3u8
 
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/Sqms_hCPQrz5cTRXIOcFgZtWJqSRA736B7ex3jSJ2teefrAVLYkxn4oli2O1yzVDbkc-mB3HGCA", teeFive
 https://ythls.onrender.com/channel/UCUVWoy_rGPdZeUp7jjRHOaQ.m3u8
+
+#EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/ytc/AGIKgqNqrrlQDVHUJwOvQ7f-qcVkzTb6vCoHEyu0J2zTKQ", Tele1
+https://ythls.onrender.com/channel/UCoHnRpOS5rL62jTmSDO5Npw.m3u8
 
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/ytc/AGIKgqOllQ_aZR1vV28dVztOqEbNes6BwHGEnyF2lDGo9g", Telefe Córdoba
 https://ythls.onrender.com/channel/UC3OQ66wEJaOPHK25IBdWR_g.m3u8
