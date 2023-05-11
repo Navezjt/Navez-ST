@@ -915,7 +915,7 @@ https://ythls.onrender.com/channel/UChd1DEecCRlxaa0-hvPACCw.m3u8
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/lV4PzR1T1heXdzbeg2xqWi3JgHhyoZaK_TKxGpUQ8GTH4vKyFmA-EV_M7cuHpwv9m1Foj_YoTDM", JP Collection
 https://ythls.onrender.com/channel/UCN1LixKrxmH_R7zQ20hJy_Q.m3u8
 
-#EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/ytc/AGIKgqOfDjJujJT7r_gKHJcd3fsAoDwn3PwzshwNkBYtrw", JTBC News
+#EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/ytc/AGIKgqMPyckxVGpN8YL-FGYxECrrdtrHTH2dKsm9Xk5fKw", JTBC News
 https://ythls.onrender.com/channel/UCsU-I-vHLiaMfV_ceaYz5rQ.m3u8
 
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/jLtUBolohoXYmDNg8HHjTjOXTph9YNZ1OJlz_I3_9P15fY9jGrVjg3wFX_v2fTCP6BLrV_r9dQ", Kairali News Live
@@ -1073,6 +1073,9 @@ https://ythls.onrender.com/video/l4WRxZUCCO8.m3u8
 
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/HNW0-u0RXluL5LonUhsoqHcgYpFLdR_CHmiHxgBU1G9JmxU74zojJGX3d-QHQjh_qH_qjkkL", MAX OAZO
 https://ythls.onrender.com/video/As96HhiUwXo.m3u8
+
+#EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/GxM6a9gZC3VP9l-kHeyfvAknHRL5npuPFWMWJcbPC7vl32jfMwmjAcuzxWdxYOeL72Xu3Z_7", MBC every1
+https://ythls.onrender.com/channel/UC-VbFgagk6GJGDJgRQIMpZw.m3u8
 
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/ytc/AL5GRJVwa-5kILRBDFuJWgzRn_DvgcrszBFyICoVmSoRIA", MBCNEWS
 https://ythls.onrender.com/video/q-Wv4Pvt-5A.m3u8
@@ -1884,6 +1887,9 @@ https://ythls.onrender.com/channel/UC5nwNW4KdC0SzrhF9BXEYOQ.m3u8
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/ytc/AGIKgqNHI64XJOiA3nXv1HYbzUDD3fmUZx-kFzr--dwnKA", TVBS NEWS
 https://ythls.onrender.com/video/2mCSYvcfhtc.m3u8
 
+#EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/67lNnmpWgtSDt3NblQNTV9mOmAvlibVMbOZQLl22j6TFGEogPc_2TIJ8XWhZvHWRHmLkOZH2XA", tvN D ENT
+https://ythls.onrender.com/channel/UCsRIHt5FkbGc6cQtCxt-ufA.m3u8
+
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/2pTh-_aDGfNQ-6eQ2qPP2FoN7NGe4dznAXK6AEplRFhZ_SbfZPwduGpeZIze-IA3UuTDkLM-3A", TVNET
 https://ythls.onrender.com/channel/UC8rh34IlJTN0lDZlTwzWzjg.m3u8
 
@@ -2234,6 +2240,9 @@ https://ythls.onrender.com/channel/UCWlV3Lz_55UaX4JsMj-z__Q.m3u8
 
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/anT2TJY_rss5WExUZ8QFW-G4z-3paeISZx5urUY_MRuX7OWNFPgd8tmT0xfJugn6utufJvegJA", 삼프로TV_경제의신과함께
 https://ythls.onrender.com/channel/UChlv4GSd7OQl3js-jkLOnFA.m3u8
+
+#EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/V46jWPfCZXwVBPNc1n7xPklvBHn2eX4WLsPH4cy-DGaAV9kOD0p2otpgGFwS_NXGZgaEehJv3g", 어서와 한국은 처음이지
+https://ythls.onrender.com/channel/UC4i1qf8CUH93DLSbD9efqig.m3u8
 
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/ytc/AGIKgqPYFFMW56rT2JSou92M1YlcnE_xuT1-XaFC7YdZTg", 연합뉴스TV
 https://ythls.onrender.com/channel/UCTHCOPwqNfZ0uiKOvFyhGwg.m3u8
