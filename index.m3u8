@@ -417,6 +417,9 @@ https://ythls.onrender.com/channel/UC83jt4dlz1Gjl58fzQrrKZg.m3u8
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/ytc/AGIKgqNfrHG5_8VsdyVQhO0v3-VUbnJfpJq-ERS4Y8_5Ur4", CNBC
 https://ythls.onrender.com/channel/UCvJJ_dzjViJCoLf5uKUTwoA.m3u8
 
+#EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/ytc/AGIKgqNfrHG5_8VsdyVQhO0v3-VUbnJfpJq-ERS4Y8_5Ur4", CNBC
+https://ythls.onrender.com/video/9NyxcX3rhQs.m3u8
+
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/qEaMh3qe5aECjp6bsfKqzlOYRAXfoIH0z1k0pAtlYoyX4BMUyB4YXA1YLvhafG-EgQJjnOltig", CNBC Arabia TV
 https://ythls.onrender.com/channel/UCsHdPPJXT-yKVTLGkn3DSvQ.m3u8
 
@@ -626,6 +629,9 @@ https://ythls.onrender.com/video/IN9OA5VmvTo.m3u8
 
 #EXTINF:-1 group-title="News" tvg-language="English" tvg-logo="https://yt3.ggpht.com/t3slq37NYJRuP2UoEZDoPKyMClKyQULG8-j2DEfzL1XXcBvFpR6z6HD7rtc0wDn8Mqt0OtpU", Euro News
 https://ythls.onrender.com/channel/UCSrZ3UV4jOidv8ppoVuvW9Q.m3u8
+
+#EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/t3slq37NYJRuP2UoEZDoPKyMClKyQULG8-j2DEfzL1XXcBvFpR6z6HD7rtc0wDn8Mqt0OtpU", euronews
+https://ythls.onrender.com/video/pykpO5kQJ98.m3u8
 
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/qFkd6lZgU09CvQP-6pJggpIlXwW4h0TLM8DvtHGTsOteRWmFYstP8OyypJvtOekV2bHXikxBRg", euronews (en español)
 https://ythls.onrender.com/channel/UCyoGb3SMlTlB8CLGVH4c8Rw.m3u8
@@ -1205,6 +1211,9 @@ https://ythls.onrender.com/video/rw7bxTqkYYs.m3u8
 
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/ytc/AGIKgqMy71pibr8qQnFlrFK1hq5U4BZQKVOSxOL49_IcWso", NBC News
 https://ythls.onrender.com/channel/UCeY0bbntWzzVIaj2z3QigXg.m3u8
+
+#EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/ytc/AGIKgqMIvqJ7dC7L2jd1emyyj_uBFQV-V09kGbt_Be9jMw", NBC2 News
+https://ythls.onrender.com/video/MJB6CUxvZcU.m3u8
 
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/HcmAtRWJJ7Uuhm8nqi_Vmr1UlBQCO6O5CjVFkxPmI5RpGzZlCvjmnlZhhMkd67cAyouu2Zm_gCs", NCS Arcade
 https://ythls.onrender.com/channel/UCiJnBO_XuDsi1SSRAmt4n5g.m3u8
@@ -2084,6 +2093,9 @@ https://ythls.onrender.com/channel/UCY3_KU8qXQeNnPQ_YHI00mw.m3u8
 
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/1oC4KdDRIGLnCllQ0DjqSxk6CN7ZTwnORbqw4IiLdX2D9szwSKFXAXL_NY3s0VYOm3o8tvxHWuE", Антена ТК
 https://ythls.onrender.com/channel/UC071G63l55wNjG5BlV56lLA.m3u8
+
+#EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/ytc/AGIKgqPsjDpo2oKSk5ydNsGDoefh_jKr4HMw7ez1kZifJw", Апостроф TV
+https://ythls.onrender.com/channel/UC0lnIB2qcArjFJPtq79WGZA.m3u8
 
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/4rRUz0pf1oV3YlfpqfK6QUTJsC90nifV1Y9iCfpxZ5D5wj9Yh8BlwKB1FRK_LSuzZeOqUdPWrA", БЕЛСАТ NEWS
 https://ythls.onrender.com/channel/UCRokSp8CGOuQO4R0F1RxRGg.m3u8
