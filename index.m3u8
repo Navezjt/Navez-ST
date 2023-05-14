@@ -2175,6 +2175,9 @@ https://ythls.onrender.com/channel/UCvJZyAfWreTF1eFGA3qpdLQ.m3u8
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/tNuyTK2uEqFyqgzlf6idH2ExJQtEbPLfMru9UY6kKMAAFzwj0SvlWj3r9dACRcljad7tqe1w", Телеканал 1+1
 https://ythls.onrender.com/channel/UCVEaAWKfv7fE1c-ZuBs7TKQ.m3u8
 
+#EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/ytc/AGIKgqNpzQQSi-PJsZrer95OJRbVuS2MSXBYnnxURszsj5w", Телеканал ICTV
+https://ythls.onrender.com/channel/UCa85JIfBxZgcrsd8Ar7Z9nw.m3u8
+
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/1Hca9OVXYbeCWMDsrEE7I6XIlO7b5bqm71aZFVhejIrc3-8yBqnMC4H2Re_oX7KgvH8i32-X5SY", Телеканал ЕДА
 https://ythls.onrender.com/video/47k36yRqqD0.m3u8
 
@@ -2186,6 +2189,9 @@ https://ythls.onrender.com/channel/UCH9H_b9oJtSHBovh94yB5HA.m3u8
 
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/hFc01pqtCtAbOHOo0Zr7aHyQDGAyegEMcpLwDC26-QdcPu3743ZUXMU0kUUFOMfv_gkNSS3K", Телеканал Рада
 https://ythls.onrender.com/video/CwQl49tDPTk.m3u8
+
+#EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/hFc01pqtCtAbOHOo0Zr7aHyQDGAyegEMcpLwDC26-QdcPu3743ZUXMU0kUUFOMfv_gkNSS3K", Телеканал Рада
+https://ythls.onrender.com/channel/UC5V8mErVFOpcQXEb3y9IMZw.m3u8
 
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/fM1btUiu4ekVPGOZ04TJZPDgmsCjJNKdFz3Y2Tg76DH-17eizrrvru60SgQ7Y29wn06_yl2j", Телеканал Хабар 24
 https://ythls.onrender.com/channel/UCnAFKvDuqBGkIfV8Vn0J_CQ.m3u8
@@ -2330,6 +2336,9 @@ https://ythls.onrender.com/video/WwGyKlXdUvw.m3u8
 
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/ytc/AGIKgqOuJ8021gUVWWPl-22fDEIy3jkA7MPHyVTDxDkDiQ", 飢餓遊戲Hunger Games
 https://ythls.onrender.com/channel/UCriy3vlLtiBov3nLdPLadUg.m3u8
+
+#EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/s_lzqGVgwZxW9MLnVJeuTBb0OwsIxpZGyJI0jrrOLbFBPZMDMNyhxrjBsxVuYb76no9jX5e9ngI", 鳳凰資訊 PhoenixTVNews
+https://ythls.onrender.com/video/sUISafvOieY.m3u8
 
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/gtQSx9jIZk45taCqDMEIGxVaNDLRZnEkMnAbHx0K5PSXWQyFGGBdEjQ7FMYJ2y7WeHC5EKFbng4", 뉴스TVCHOSUN
 https://ythls.onrender.com/channel/UCWlV3Lz_55UaX4JsMj-z__Q.m3u8
