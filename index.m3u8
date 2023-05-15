@@ -21,6 +21,9 @@ https://ythls.onrender.com/video/pDYtaHtHY28.m3u8
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/Kry6_WnfdJJD6Hrsp0HxRpoSq4oj4h39oRW2klUNb7-DX3Q8YKJ2EWmYf0vxX6OHMKfQ4iZJZw", 24 Horas - TVN Chile
 https://ythls.onrender.com/channel/UCTXNz3gjAypWp3EhlIATEJQ.m3u8
 
+#EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/dDCDSSJvkP839wIKiXvtKbrEqigSyhTYENsmSDUfECBH4s_eAeziUBW8etws8_g4cuesZyap", 24 News
+https://ythls.onrender.com/channel/UCup3etEdjyF1L3sRbU-rKLw.m3u8
+
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/iii--yRY_qTPIGFBgEL4CbVzUThr_Heoo7jUxfTzyl2P_P0X9qr4zsmFwyqaOixJva9NZiBx7g", 24 News HD
 https://ythls.onrender.com/channel/UCcmpeVbSSQlZRvHfdC-CRwg.m3u8
 
@@ -248,6 +251,9 @@ https://ythls.onrender.com/channel/UCE2oY4S4wOu6WofU2YbfWsw.m3u8
 
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/ytc/AGIKgqPOpBTkByj49uxBU7bCvrRhb_e6xdMx15EaRivk", Asharq News - الشرق للأخبار
 https://ythls.onrender.com/channel/UCRJUVYt9gjg8MnlGacySUdg.m3u8
+
+#EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/ytc/AGIKgqMMo6Wth5YOh7_muLIvQ5ORrRgSj27gkDenQ3t57FA", asianetnews
+https://ythls.onrender.com/channel/UCf8w5m0YsRa8MHQ5bwSGmbw.m3u8
 
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/ytc/AGIKgqMSlmDbykHBbxPCBbGpiKv_bVtZuV6ojNz_30Le", AsiaRoadRacing
 https://ythls.onrender.com/video/uccSi8UBAao.m3u8
