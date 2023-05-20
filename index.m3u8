@@ -69,7 +69,7 @@ https://ythls.onrender.com/channel/UCyV2zNyxCIdUHFd5L0_dcFA.m3u8
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/UUDeuubaQlPaVvvMJhseVjpR0n3g3bk1kBdyN8iTmbbvK371YcZqYDzzBxqbmerAnWRl21Lp", A24com
 https://ythls.onrender.com/channel/UCR9120YBAqMfntqgRTKmkjQ.m3u8
 
-#EXTINF:-1 group-title="News" tvg-language="Hindi" tvg-logo="https://yt3.ggpht.com/ytc/AGIKgqOs4vrH4bdpJaRKVI7_lrfXKn4q7H02NIpfsWfiLrM", Aaj Tak
+#EXTINF:-1 group-title="News" tvg-language="Hindi" tvg-logo="https://yt3.ggpht.com/ytc/AGIKgqNbx0p5xfi4CA7ob_cLc0jesDKPjqXVoyPWaxWxTQE", Aaj Tak
 https://ythls.onrender.com/video/Nq2wYlWFucg.m3u8
 
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/ytc/AGIKgqOs4vrH4bdpJaRKVI7_lrfXKn4q7H02NIpfsWfiLrM", Aaj Tak
@@ -230,6 +230,9 @@ https://ythls.onrender.com/channel/UCwBK7Cdk0wq8rCjxcvaoHzg.m3u8
 
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/NIXyUN63VNSJNVCopAKnZsHOgCDSksQo7815Lx7Bo2WTKxYaFOz7LHHUheF6FW4OlN4-whby", Arirang TV
 https://ythls.onrender.com/channel/UC-PHIZjV-oX8H7zD1cCN2NQ.m3u8
+
+#EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/NIXyUN63VNSJNVCopAKnZsHOgCDSksQo7815Lx7Bo2WTKxYaFOz7LHHUheF6FW4OlN4-whby", Arirang TV
+https://ythls.onrender.com/video/APlvA2wtdKk.m3u8
 
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/WBWbxJNVdgthzG3A7MQjwzRH3PDxUhoiRqz0IgyAelBWNyp5yalb4a5q_HAfzR99WpeHpxusxg", Arryadia TV
 https://ythls.onrender.com/channel/UCRN5ho3UGhUi7ZCBe2G2f2w.m3u8
@@ -488,6 +491,9 @@ https://ythls.onrender.com/channel/UCB-8E662xOk1I3-wdhTMNiw.m3u8
 
 #EXTINF:-1 group-title="News" tvg-language="English" tvg-logo="https://yt3.ggpht.com/ytc/AGIKgqOjDFTVNu4dabeYOP-WsrNN2LXCSXRivGpIswrlaw", CNA
 https://ythls.onrender.com/channel/UC83jt4dlz1Gjl58fzQrrKZg.m3u8
+
+#EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/ytc/AGIKgqOjDFTVNu4dabeYOP-WsrNN2LXCSXRivGpIswrlaw", CNA
+https://ythls.onrender.com/video/XWq5kBlakcQ.m3u8
 
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/ytc/AGIKgqNfrHG5_8VsdyVQhO0v3-VUbnJfpJq-ERS4Y8_5Ur4", CNBC
 https://ythls.onrender.com/channel/UCvJJ_dzjViJCoLf5uKUTwoA.m3u8
@@ -1667,6 +1673,9 @@ https://ythls.onrender.com/channel/UCU7uwCYami150L_lydp2OHQ.m3u8
 
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/-goDHmhDD-yCYHp2ZE8Hj5kVar5irqzzZA35UDmJur3RHi_giPQFOENoJQVPmGB1FEaAlMKH2QA", REDE BRASIL OFICIAL
 https://ythls.onrender.com/channel/UCubxEhRi56_V4_eTzzcFwkA.m3u8
+
+#EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/YcC9g_A_ifHYxGFjDPZzcrY3lRzYR4DthUQ6dBn8gDZre4yZrwvWvrylxx6p8Kj2EUbuaQ6kZA", REDEVIDA AO VIVO
+https://ythls.onrender.com/channel/UC-imeT_wWRmrpeYnhVX4r_g.m3u8
 
 #EXTINF:-1 group-title="Music" tvg-language="English" tvg-logo="https://yt3.ggpht.com/ytc/AMLnZu9d1O338iPDejQIv8NA0a7xQwqt7mziK0aB581k-g", Relaxation Ambient Music
 https://ythls.onrender.com/video/tNkZsRW7h2c.m3u8
