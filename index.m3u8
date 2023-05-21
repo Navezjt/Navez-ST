@@ -87,6 +87,9 @@ https://ythls.onrender.com/channel/UCPqrEgBEHVj4vDITrClNQIw.m3u8
 #EXTINF:-1 group-title="News" tvg-language="English" tvg-logo="https://yt3.ggpht.com/OOT0eq8LoW8V3PMURGYuk0kRSgRGP7EsuGZoODhHBcg1jCB1qkuIAxS-XGnjKX9Q6rf-WKTvkQ", ABC News
 https://ythls.onrender.com/channel/UCBi2mrWuNuyYy4gbM6fU18Q.m3u8
 
+#EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/OOT0eq8LoW8V3PMURGYuk0kRSgRGP7EsuGZoODhHBcg1jCB1qkuIAxS-XGnjKX9Q6rf-WKTvkQ", ABC News
+https://ythls.onrender.com/video/w_Ma8oQLmSM.m3u8
+
 #EXTINF:-1 group-title="News" tvg-language="English" tvg-logo="https://yt3.ggpht.com/ytc/AGIKgqM7NZfeKN0CUY5GmqT4fqzLd0CDSHB7SoIt9-6pPQ", ABC News (Australia)
 https://ythls.onrender.com/channel/UCVgO39Bk5sMo66-6o6Spn6Q.m3u8
 
@@ -1473,6 +1476,9 @@ https://ythls.onrender.com/channel/UC9TDTjbOjFB9jADmPhSAPsw.m3u8
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/ytc/AGIKgqNgSIoSNVERSUXCVOfZD-f7MUCbAzaECLbc-BAoaQ", NTV Telugu
 https://ythls.onrender.com/video/_kPE2uUR8SI.m3u8
 
+#EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/ytc/AGIKgqNgSIoSNVERSUXCVOfZD-f7MUCbAzaECLbc-BAoaQ", NTV Telugu
+https://ythls.onrender.com/video/L0RktSIM980.m3u8
+
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/ytc/AGIKgqOz8DWaFGxJuQwmvagwQ7463qeYxlefp9UKwaerd-w", NTVUganda
 https://ythls.onrender.com/channel/UCwga1dPCqBddbtq5KYRii2g.m3u8
 
@@ -2126,6 +2132,9 @@ https://ythls.onrender.com/video/y_b7HXCxbjE.m3u8
 
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/Hz0ZWAZq64ouDXsGnGv9h1cG6wezsPuYowayytoEVchaYErA8k08WWfA5ox35jJ0hRgn4oBkHg", TV5 News 
 https://ythls.onrender.com/channel/UCAR3h_9fLV82N2FH4cE4RKw.m3u8
+
+#EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/Hz0ZWAZq64ouDXsGnGv9h1cG6wezsPuYowayytoEVchaYErA8k08WWfA5ox35jJ0hRgn4oBkHg", TV5 News 
+https://ythls.onrender.com/video/ox2rT1KRkFI.m3u8
 
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/ytc/AGIKgqM2I0eLd5Dc0AQKzXR301cSTHKSae7iFKvlOKWPWA", TV5 Television
 https://ythls.onrender.com/channel/UCP-0oW3M7DpjmPDutckOjiA.m3u8
