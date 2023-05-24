@@ -114,6 +114,9 @@ https://ythls.onrender.com/video/EqdxY34Y6LA.m3u8
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/pdmhb8Gtl4gvB8HdC8Na3mChnujTTMl5ghy41wx7Olhn00qgeIJOl7FjF9RQ9hJNyQ5b9PU0", ABCテレビニュース
 https://ythls.onrender.com/channel/UCPW-5qfYGNR8XYrvESrqJKA.m3u8
 
+#EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/ytc/AGIKgqNNS69IsbfgCqhaCoFoU2EAFuiDuEbOvH5H3qjpOw", ABP ANANDA
+https://ythls.onrender.com/channel/UCv3rFzn-GHGtqzXiaq3sWNg.m3u8
+
 #EXTINF:-1 group-title="News" tvg-language="Hindi" tvg-logo="https://yt3.ggpht.com/ytc/AGIKgqNuyFrKI-EDssXU5CNWEG-ag4rpRI5rc6uhNQlJYeg", ABP News
 https://ythls.onrender.com/channel/UCRWFSbif-RFENbBrSiez1DA.m3u8
 
@@ -152,6 +155,9 @@ https://ythls.onrender.com/channel/UC1_E8NeF5QHY2dtdLRBCCLA.m3u8
 
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/ytc/AGIKgqPUrc1w6HsBcyPL_R4nNl-YLsNiuJbChi380kXrSw", africanews (en français)
 https://ythls.onrender.com/channel/UC25EuGAePOPvPrUA5cmu3dQ.m3u8
+
+#EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/br5hSP6UEgV1krPwTVD_HTg0Ukb9mIIZzYSzIa7NYaf4s_McEnCdFB0UlhsyTcEJyi4UrXnd", Agamvani Channel
+https://ythls.onrender.com/channel/UClOK2dPmq8k8Xwii_4TjRnQ.m3u8
 
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/VfY0KuyPJYVvX7-Yfc5yHCajeOc1eL1Gaw43gUvq0Hc9J7oRiDrdGY-P2NCp7nTweDbNRM9Bnw", AGENCIA EFE
 https://ythls.onrender.com/channel/UCvJS-YNyaWyOucx8bGrHVvw.m3u8
@@ -1466,6 +1472,9 @@ https://ythls.onrender.com/channel/UCbf0XHULBkTfv2hBjaaDw9Q.m3u8
 
 #EXTINF:-1 group-title="News" tvg-language="Hindi" tvg-logo="https://yt3.ggpht.com/9x1CpNu2C2IzCSmlDhE6XbcfBy5EWC5ojzENpekXQ5dqWna0hW938h0z0C8sCU-9-CHB_hNarw", News18 Bihar
 https://ythls.onrender.com/channel/UC531MlZA5LUbeGwEN_zcppw.m3u8
+
+#EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/dt_7th6zZPzSIeMfBgvkJBgu3NZ4YRZlqFuxLAKsHY7SljR0yLkcXZE-izL_Ds0NY5v1N7eW", News18 India
+https://ythls.onrender.com/channel/UCPP3etACgdUWvizcES1dJ8Q.m3u8
 
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/ytc/AGIKgqN8vGNMoYdzkWUGRC9EluLb08JFFBOLJ0PzLYnF", News18 Kerala
 https://ythls.onrender.com/channel/UC-mMi78WJST4N5o8_i1FoXw.m3u8
