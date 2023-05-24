@@ -60,6 +60,9 @@ https://ythls.onrender.com/video/WHEPzbFA3hw.m3u8
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/f-dQzTnkyRbC_znNPbvUv9XpJYqJZf_NTeujXEr_8ttjOdcwuEktPBMaMcWYsxQM-69jiOTRbA", 7ALimoges
 https://ythls.onrender.com/channel/UCdFv_ZWQ3Xk_NfRiaK-ryGg.m3u8
 
+#EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/ytc/AGIKgqP9sU370PvPDfBW_VAGtIVqIaxt8D8sEoYx8ngvGQ", 99TV Telugu
+https://ythls.onrender.com/channel/UCl5YgCiwSRVOiC2Nd1P9v1A.m3u8
+
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/198n-WMQ4cLozV_HUuhk5wKEU7HSvvV9aIwHeqKOAvkGrWiwIsQB5_DrP-1u__fGaNI-N_mbJg", A Haber
 https://ythls.onrender.com/channel/UCKQhfw-lzz0uKnE1fY1PsAA.m3u8
 
@@ -1458,6 +1461,9 @@ https://ythls.onrender.com/channel/UCjHWKUbljF4hp3s5PbgK9uA.m3u8
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/xH6D-fO-n0qjvDn1-uMt_ZM_nYkrHc0xDko_2E2Rg3-k3BUh9zdFUVGzCUbcgcRcp_5eAXiocPk", News State Maharashtra Goa
 https://ythls.onrender.com/channel/UCz6sfaICYbi4LEXC-022qpg.m3u8
 
+#EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/aC3FG7bi2xMMHLCVfrK-8E2DwdiW9xQX-qfeu7WVvqgb43CQ2349b9peG52vhWA6RquUao7emco", News18 Bangla
+https://ythls.onrender.com/channel/UCbf0XHULBkTfv2hBjaaDw9Q.m3u8
+
 #EXTINF:-1 group-title="News" tvg-language="Hindi" tvg-logo="https://yt3.ggpht.com/9x1CpNu2C2IzCSmlDhE6XbcfBy5EWC5ojzENpekXQ5dqWna0hW938h0z0C8sCU-9-CHB_hNarw", News18 Bihar
 https://ythls.onrender.com/channel/UC531MlZA5LUbeGwEN_zcppw.m3u8
 
@@ -1467,11 +1473,20 @@ https://ythls.onrender.com/channel/UC-mMi78WJST4N5o8_i1FoXw.m3u8
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/ytc/AGIKgqP2Me8CUuxfwaP3I5S6B2DSyo9aeDD-NWpcuSZT1Q", News18 Lokmat
 https://ythls.onrender.com/channel/UCrcpw88HvKJ0skdsHniCJtQ.m3u8
 
+#EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/_nPRYbak_EiuHDW42FckbmnS2LxCkzBthvRrcahzhnA99-0ogNVGonFt-ieqGZgAqGmd66ERDKA", News18 MP Chhattisgarh
+https://ythls.onrender.com/channel/UCBwc2cbPpvxNCNEI2-8YrqQ.m3u8
+
 #EXTINF:-1 group-title="News" tvg-language="Odia" tvg-logo="https://yt3.ggpht.com/ytc/AGIKgqM1Eff6-fbb-bguL3kEzeTN1Wti2yfPVOMUgRjl4Q", News18 Odia
 https://ythls.onrender.com/channel/UCUK49UvmYWYLiB7_bZFuFZQ.m3u8
 
+#EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/ytc/AGIKgqOVFSPUU37EWKBu38RS6sHnCMdbwwf61TGFOZE0rQ", News18 Rajasthan
+https://ythls.onrender.com/channel/UC7FlLbNo66YsCEAPuJITiNg.m3u8
+
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/ytc/AGIKgqPn2HlgN5hI1-Rm6pPmFmgH8KvO9f81IR5NEY394A", News18 Tamil Nadu
 https://ythls.onrender.com/channel/UCat88i6_rELqI_prwvjspRA.m3u8
+
+#EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/ytc/AGIKgqMN8uGboddUeSPXqYlP-QYZGvu75fDwDNgj7Zfgjw", News18 UP Uttarakhand
+https://ythls.onrender.com/channel/UCafYgzpyw7aIUYOLjjADu7w.m3u8
 
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/ytc/AGIKgqOiEbXGBy6-IRvILUhgQRDlfevGD5MiLgs6u9ShIw", News24 Nepal
 https://ythls.onrender.com/channel/UCjG2HX7jfwqIjzTlaF1CPGA.m3u8
