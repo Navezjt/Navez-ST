@@ -60,6 +60,9 @@ https://ythls.onrender.com/video/WHEPzbFA3hw.m3u8
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/f-dQzTnkyRbC_znNPbvUv9XpJYqJZf_NTeujXEr_8ttjOdcwuEktPBMaMcWYsxQM-69jiOTRbA", 7ALimoges
 https://ythls.onrender.com/channel/UCdFv_ZWQ3Xk_NfRiaK-ryGg.m3u8
 
+#EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/sJ8nMAbzs2lreEaBW2viL9VCvud_FkkDmFRa4es3Y5zOht6PpBNM56pNIAoh395B6FhYaxTFiVM", 92 News HD
+https://ythls.onrender.com/channel/UCsgC5cbz3DE2Shh34gNKiog.m3u8
+
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/ytc/AGIKgqP9sU370PvPDfBW_VAGtIVqIaxt8D8sEoYx8ngvGQ", 99TV Telugu
 https://ythls.onrender.com/channel/UCl5YgCiwSRVOiC2Nd1P9v1A.m3u8
 
@@ -1047,6 +1050,9 @@ https://ythls.onrender.com/video/lyeyoqwXm5o.m3u8
 #EXTINF:-1 group-title="News" tvg-language="Hindi" tvg-logo="https://yt3.ggpht.com/xvSPpZd-kEa6T3KgnlWv5YYkzLxf9UjWwnjlVBhtJR67qcipOq0sBjrgOd5_46mdoCE3cglT_w", India TV
 https://ythls.onrender.com/channel/UCttspZesZIDEwwpVIgoZtWQ.m3u8
 
+#EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/lIbWG9jWEsjHMvOgZBR2dWIaguZay932Zu-T3vasUcF1--T_nBJfSsXillAgMoDeIb6CpYn1", iNEWS
+https://ythls.onrender.com/channel/UC4jYxQXFqB5q6INV6WEQC2A.m3u8
+
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/AzJatRVFUL-5Fpk4M-SP-gx9qWhX8A8qWThdCKsCPU6AYlMs8r-WELO9btQXq9lO97S7IhDp-Q", iNews Live
 https://ythls.onrender.com/video/xtNvq36LIgc.m3u8
 
@@ -1520,6 +1526,9 @@ https://ythls.onrender.com/channel/UCat88i6_rELqI_prwvjspRA.m3u8
 
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/ytc/AGIKgqMN8uGboddUeSPXqYlP-QYZGvu75fDwDNgj7Zfgjw", News18 UP Uttarakhand
 https://ythls.onrender.com/channel/UCafYgzpyw7aIUYOLjjADu7w.m3u8
+
+#EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/ytc/AGIKgqPQlp1CmFr6VQTGZLpnEZ7Dp-toqDewjMI5wQJ0", News18 Urdu
+https://ythls.onrender.com/channel/UC9IQhNgS43lmUdU-KdGyb0A.m3u8
 
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/ytc/AGIKgqOiEbXGBy6-IRvILUhgQRDlfevGD5MiLgs6u9ShIw", News24 Nepal
 https://ythls.onrender.com/channel/UCjG2HX7jfwqIjzTlaF1CPGA.m3u8
@@ -2484,11 +2493,17 @@ https://ythls.onrender.com/channel/UCkNL_TQio--h85-14lUVY3A.m3u8
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/8RWTnNmhpghFXB3QE6iQZFly4r9gBdfk8938GmRk5jBnu6g_kFa8UateVnAJZ846mXcDJIqRZI8", Zee 24 Taas
 https://ythls.onrender.com/channel/UCVbsFo8aCgvIRIO9RYwsQMA.m3u8
 
+#EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/BnCKYkjh804cA6ZtbTjfWw3jbbc7P_yBdGlhZ86aePNu_JMrTvkWxmgBn4knG7BZAzEbjCq2cw", Zee Delhi-NCR Haryana 
+https://ythls.onrender.com/channel/UCG6L5cIg2XZvXVksq5B9edw.m3u8
+
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/VwrnbeHaYpvHajycajszW9BS1Wtg13wFADeZuHrUMcmWWzV_eqhfj4ON3xc6K55SKNLj-21uVg4", Zee Kannada News
 https://ythls.onrender.com/channel/UCUSY2EZK7_2_1-wsZVbdzsQ.m3u8
 
 #EXTINF:-1 group-title="News" tvg-language="Hindi" tvg-logo="https://yt3.ggpht.com/vZFILuFswtjUIU5oRCc79rxRdML5A_c-D_6AdvgAAd0hqSrJihyJFkT_CTSjYwSrHgiPAAozebY", Zee News
 https://ythls.onrender.com/channel/UCIvaYmXn910QMdemBG3v1pQ.m3u8
+
+#EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/ytc/AGIKgqMqD-fLNKrUclcRoziXfeO5mEui0OuB7qaVSE9T", Zee Punjab Haryana Himachal
+https://ythls.onrender.com/channel/UCmhe0p2-m_KURZYQNchK-QQ.m3u8
 
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/93tHmOkT1G1qrPxtoASRHz8rmbBPXMkYTBPfQP2lI04QAr5FdQme5yZEl66L4ytnBDwfkmY26g", Zee Telugu News
 https://ythls.onrender.com/channel/UCfWo0Z5PKYd86JfQ5ZE5cWg.m3u8
