@@ -651,8 +651,14 @@ https://ythls.onrender.com/channel/UCyu8StPfZWapR6rfW_JgqcA.m3u8
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/ytc/AGIKgqPO33y7idZ0gado36HOxAhEur_2FKw1KQ1dYv1B", DD Bharati
 https://ythls.onrender.com/channel/UCIAnlTV3O9NYWMI-DwYZaWg.m3u8
 
+#EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/ytc/AGIKgqPO33y7idZ0gado36HOxAhEur_2FKw1KQ1dYv1B", DD Bharati
+https://ythls.onrender.com/video/YxlIe48KtVw.m3u8
+
 #EXTINF:-1 group-title="News" tvg-language="English" tvg-logo="https://yt3.ggpht.com/ytc/AGIKgqOQeI3-sqJ_iIL2bOSBPMfHL6vttl-1cq59Llt1sA", DD India
 https://ythls.onrender.com/channel/UCGDQNvybfDDeGTf4GtigXaw.m3u8
+
+#EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/ytc/AGIKgqOQeI3-sqJ_iIL2bOSBPMfHL6vttl-1cq59Llt1sA", DD INDIA
+https://ythls.onrender.com/video/fXNx2vgIqs8.m3u8
 
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/ytc/AGIKgqMn9VsUn4hlcsqSAyQ_sRnI0UdgaEDjStnyXUbV_w", DD Kisan
 https://ythls.onrender.com/channel/UCnDfmcUyhgJp6xC1LmBLfUg.m3u8
@@ -1997,6 +2003,9 @@ https://ythls.onrender.com/channel/UCHtYUfPnQci6GoUpPlWfrOg.m3u8
 
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/ytc/AGIKgqO50nWyfvSgjZaIdTSu-EfgZOdj4ZTr2R5v3AVx7A", Shekinah. fm
 https://ythls.onrender.com/channel/UCJWJu_Vts7EUBbmsa1gO0Yw.m3u8
+
+#EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/MRKTOizzV3GgqtXjs5C1qSB3XMSwLl9cxOrbiSe1LNkPnelpWe1-WSv8RbNUDBlrKtbLLD38", Shemaroo Bhakti Dham
+https://ythls.onrender.com/video/scQrjl-ZhNI.m3u8
 
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/M27Sah4hW442TdIsxG6AgjWh3CVlar8gSW0fkXO3gScX5I9K0sKGyyBHWkgC1f_L2DydZPlT", Shoptime
 https://ythls.onrender.com/channel/UCCuYi5AP3gya6C5mdWYS6CQ.m3u8
