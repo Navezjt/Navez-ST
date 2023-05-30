@@ -807,6 +807,9 @@ https://ythls.onrender.com/channel/UCzMxEa-lDX2AfgotszScOFg.m3u8
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/I8VYjxezqbEfkhHMpsLSlyH7izR8s8DVqXLNYWzKPPskbzZGXvsHHSXcG2O_lYoTgVFNqIeZ", EQUIPE ESQUADRÃO 
 https://ythls.onrender.com/video/NW1r3IFNXuU.m3u8
 
+#EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/64wFbtX2aVEp6Un--1dNn64lBwIsmKWQCbBoPeEexcVqoxJcMH_cOD45dI3AdbOgXK1EeuhF4g", ERA
+https://ythls.onrender.com/channel/UCNq5APn4lVabRaYCnTxiNIg.m3u8
+
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/lAj6l3ybiOj0CQw8zOYnJ18R8BzhwscKTjPOm96SzZrt20qfyYRWC-ZysjlKXaLoKZbtxk6PIWo", Espreso.TV
 https://ythls.onrender.com/channel/UCMEiyV8N2J93GdPNltPYM6w.m3u8
 
@@ -1091,6 +1094,12 @@ https://ythls.onrender.com/channel/UCzmgV3CveQKcT2xLyZYS7ew.m3u8
 
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/ytc/AGIKgqMu5Qqd087o8blv66VQrsbEBFt-Sdod61BXVaUlDQ", ImagenTV
 https://ythls.onrender.com/channel/UCl5JKSQsl-_WSU1rz7_BCJA.m3u8
+
+#EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/yMFPfoqy7V_IF-2xal17Ubfl1jWKdam5aJotS81VXZnzbdKVKQuxdPaBaZXwVA5ZWPDAzMnS", India News Haryana
+https://ythls.onrender.com/channel/UCISKj2--Nxrs5s60T3wq5Pg.m3u8
+
+#EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/ZhpppatvbXoLem66h2eUynk0m_KWRmak_SOfhPQ6Po0rq6Ki1B0278j9PSDZw_lfRPVlktBuJkU", India News Madhya Pradesh
+https://ythls.onrender.com/channel/UCrDfc0F8U1QN3u82Qq_6fjA.m3u8
 
 #EXTINF:-1 group-title="News" tvg-language="English" tvg-logo="https://yt3.ggpht.com/5Zr4bV9iJRa6zNS_-VSbZ7j5S8JhQc2Aez7b9y923AnYqJnltvI2iGdOFnWBcW-34ioPZlxzzLE", India Today
 https://ythls.onrender.com/video/lyeyoqwXm5o.m3u8
