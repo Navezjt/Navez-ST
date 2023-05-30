@@ -60,6 +60,9 @@ https://ythls.onrender.com/video/WHEPzbFA3hw.m3u8
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/f-dQzTnkyRbC_znNPbvUv9XpJYqJZf_NTeujXEr_8ttjOdcwuEktPBMaMcWYsxQM-69jiOTRbA", 7ALimoges
 https://ythls.onrender.com/channel/UCdFv_ZWQ3Xk_NfRiaK-ryGg.m3u8
 
+#EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/k7JG9Z64DM01OZWKxnxQjd69ado-Nm1-0x9-5s8RSoGn7sbSBcb9AL6xxzoCc1KIW175KHQCqg", 8FM881
+https://ythls.onrender.com/channel/UCXKqVoc7khb8cg3ugfrih4g.m3u8
+
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/sJ8nMAbzs2lreEaBW2viL9VCvud_FkkDmFRa4es3Y5zOht6PpBNM56pNIAoh395B6FhYaxTFiVM", 92 News HD
 https://ythls.onrender.com/channel/UCsgC5cbz3DE2Shh34gNKiog.m3u8
 
@@ -1095,7 +1098,7 @@ https://ythls.onrender.com/video/lyeyoqwXm5o.m3u8
 #EXTINF:-1 group-title="News" tvg-language="Hindi" tvg-logo="https://yt3.ggpht.com/xvSPpZd-kEa6T3KgnlWv5YYkzLxf9UjWwnjlVBhtJR67qcipOq0sBjrgOd5_46mdoCE3cglT_w", India TV
 https://ythls.onrender.com/channel/UCttspZesZIDEwwpVIgoZtWQ.m3u8
 
-#EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/lIbWG9jWEsjHMvOgZBR2dWIaguZay932Zu-T3vasUcF1--T_nBJfSsXillAgMoDeIb6CpYn1", iNEWS
+#EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/IMjGmXpVVGPVFOzkJZxLUl3S5r0Spk3XAfu1gRnXIaJd9bmQTDvRwpLEBTKf2-O27BRXsgNvFA", iNEWS
 https://ythls.onrender.com/channel/UC4jYxQXFqB5q6INV6WEQC2A.m3u8
 
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/AzJatRVFUL-5Fpk4M-SP-gx9qWhX8A8qWThdCKsCPU6AYlMs8r-WELO9btQXq9lO97S7IhDp-Q", iNews Live
@@ -1517,6 +1520,9 @@ https://ythls.onrender.com/channel/UCW3CLjm-lNO9_RtZudI4Rgg.m3u8
 
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/nQjbGJXBgeDeIFHuhHNLPLYNLJ2FWMne0X7MqDcG_5jU8PbqU2Piz-BL317k6EzpByjJMJD73Q", NAGASWARA RADIOTEMEN
 https://ythls.onrender.com/channel/UCw9QaspFztufNcEBFlwb5iw.m3u8
+
+#EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/nQjbGJXBgeDeIFHuhHNLPLYNLJ2FWMne0X7MqDcG_5jU8PbqU2Piz-BL317k6EzpByjJMJD73Q", NAGASWARA RADIOTEMEN
+https://ythls.onrender.com/video/Gvfr_OoTp1E.m3u8
 
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/yQSsRuHFP9IWtOUwzXbcf7gNiz66oNga8set1TYy7jq6UnG_GMWbd3ZWIQPZkaRKbSqvk5gmPTc", Nagoya TV News
 https://ythls.onrender.com/video/-C6FE2m7kX8.m3u8
