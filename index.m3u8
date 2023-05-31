@@ -1215,6 +1215,9 @@ https://ythls.onrender.com/video/z--rbRvXOSs.m3u8
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/ytc/AGIKgqMPyckxVGpN8YL-FGYxECrrdtrHTH2dKsm9Xk5fKw", JTBC News
 https://ythls.onrender.com/channel/UCsU-I-vHLiaMfV_ceaYz5rQ.m3u8
 
+#EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/N1ji3BGuGGMVdVZYYU9e5sR-C0M3ZR9s5lWzD5OYdK1Gd0tcGRUurGN-k9xcvDIA8GJkQGZa9Q", K21 News Official
+https://ythls.onrender.com/channel/UConNt7VZRP-w8hwTRPZ6WeQ.m3u8
+
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/jLtUBolohoXYmDNg8HHjTjOXTph9YNZ1OJlz_I3_9P15fY9jGrVjg3wFX_v2fTCP6BLrV_r9dQ", Kairali News Live
 https://ythls.onrender.com/channel/UCkCWitaToNG1_lR-Si1oMrg.m3u8
 
@@ -2447,6 +2450,9 @@ https://ythls.onrender.com/channel/UCjoAMfyUFKLL_yopUQbd3Fg.m3u8
 
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/6QdyAy4WlScqOZ6_1qLcuhMTQQmTnARVE1f-JX17Jk7ckjNIz5zW42DM16jw6I1wFBo0HiUCrg", TV Senado
 https://ythls.onrender.com/channel/UCLgti7NuK0RuW9wty-fxPjQ.m3u8
+
+#EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/nJHhdyAgIRqZoLn0IBIjzxArTc2mzPI9TB23phmurT94uS-1jwaGIWgkvWqwFYLoNt5yR-7Ne0I", TV Serra Dourada SBT
+https://ythls.onrender.com/channel/UCuODGS_c39psNvI8f3bYN_g.m3u8
 
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/4CNJm0pUovHYqJWisZeJc98Gx9_lUcThNNM9ejwWpm_XE6Kq1XQWemmp8Y-ww96jBJeBlm-_qw", TV100
 https://ythls.onrender.com/channel/UCndsdUW_oPLqpQJY9J8oIRg.m3u8
