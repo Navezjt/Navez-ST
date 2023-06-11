@@ -1200,7 +1200,7 @@ https://ythls.onrender.com/channel/UCTgORvzgyWjxLUHhWQgALdg.m3u8
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/ytc/AGIKgqMeBfZ3BjFgp-UH8Z-DRmgRowlJYXaTs3E06DEy", hitfm
 https://ythls.onrender.com/channel/UCTTq-Hhcb_eUq0-dWpdlvpg.m3u8
 
-#EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/M20aFD6KgapPDObiR-8oG_CBRZvXOpednx7OvKXHbc8iMGszop6vTEbJesPwN-Ah8viI4SM_BdY", hmtv News
+#EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/UTRQE2BLwtLV8Z86Bn1YgOGACFne0YiyYNrQHP2gnO7cGb95aqG0OYo6Z4rMMFm9YzC9pTHIttM", hmtv News
 https://ythls.onrender.com/video/2fvNaWiBUPU.m3u8
 
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/UTRQE2BLwtLV8Z86Bn1YgOGACFne0YiyYNrQHP2gnO7cGb95aqG0OYo6Z4rMMFm9YzC9pTHIttM", hmtv News
@@ -1577,6 +1577,9 @@ https://ythls.onrender.com/video/2V_06K6AuyA.m3u8
 
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/ytc/AGIKgqMLCvv-U-WanXrDeuOW_sPILvvxv8j3u7_qHH88gA", Mahaa News
 https://ythls.onrender.com/channel/UCDKjhgRoPF1CQk7HluMz23A.m3u8
+
+#EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/ytc/AGIKgqMLCvv-U-WanXrDeuOW_sPILvvxv8j3u7_qHH88gA", Mahaa News
+https://ythls.onrender.com/video/7tgMQWza3Ug.m3u8
 
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/ytc/AGIKgqNLdCvrPtrJKmL1B-LBw9NxkqHadoWkbm2qm_Aw", Mahall Bomonti İzmir
 https://ythls.onrender.com/channel/UCPh1PAAIs9V6LQUNDJw4eGg.m3u8
