@@ -34,17 +34,19 @@ const getCache = async () => {
 
       if (channel) {
         if (item.logo && item.logo !== '' && channel.logo !== item.logo) {
-          console.log('Updating logo:', item.name)
+          // console.log('Updating logo:', item.name)
           channel.logo = item.logo
+          channel.updated = (new Date()).toISOString()
         }
       } else {
-        console.log('Adding channel:', item.name)
+        // console.log('Adding channel:', item.name)
         channels.push({
           name: item.name,
           group: '',
           language: '',
           youtube,
-          logo: item.logo
+          logo: item.logo,
+          updated: (new Date()).toISOString()
         })
       }
     }
