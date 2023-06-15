@@ -55,11 +55,7 @@ const getCache = async () => {
   // console.log(channels)
 
   // sort channels alphabetically by their name
-  channels.sort((a, b) => {
-    if (a.name.toLowerCase() > b.name.toLowerCase()) return 1
-    if (a.name.toLowerCase() < b.name.toLowerCase()) return -1
-    return 0
-  })
+  channels.sort((a, b) => a.name.toLowerCase().trim().localeCompare(b.name.toLowerCase().trim()))
 
   const output = stringify(channels, { header: true })
 
