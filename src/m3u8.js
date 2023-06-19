@@ -28,7 +28,7 @@ for (const channel of channels) {
   playlist.write(`
 
 #EXTINF:-1 group-title="${channel.group}" tvg-language="${channel.language}" tvg-logo="${channel.logo}", ${channel.name}
-https://ythls.onrender.com/${channel.youtube}.m3u8`)
+https://ythlsgo.onrender.com/${channel.youtube}.m3u8`)
 }
 
 playlist.end()
