@@ -1317,11 +1317,14 @@ https://ythlsgo.onrender.com/channel/UCQRXrVsyfREvMMHzkMZb9yw.m3u8
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/ytc/AL5GRJWKO1OXqvUH3a41J4ZL2j3CH1DtF7z3deILwhLE", Helios Deep
 https://ythlsgo.onrender.com/channel/UCw527CsYYlcRVR3W2ywMV0A.m3u8
 
-#EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/S1MJDu54BngNN71bC07THSOCLYbUYrTmIyEJ_HPoQEWrd2X5gB6ls77q_XVsEiE7v6m0ynaM6A", HGTV
+#EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/pirlUORCknV4k8e94Ht4MUz3pw2nuOIqDyokR_R1KDgdggm8q5WfQ7Nonx-EI5RMTm7KuKeJSQ", HGTV
 https://ythlsgo.onrender.com/channel/UCBiuljj5uaUVHbnTAzfvutg.m3u8
 
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/S1MJDu54BngNN71bC07THSOCLYbUYrTmIyEJ_HPoQEWrd2X5gB6ls77q_XVsEiE7v6m0ynaM6A", HGTV
 https://ythlsgo.onrender.com/video/aIixDf3j2YQ.m3u8
+
+#EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/pirlUORCknV4k8e94Ht4MUz3pw2nuOIqDyokR_R1KDgdggm8q5WfQ7Nonx-EI5RMTm7KuKeJSQ", HGTV
+https://ythlsgo.onrender.com/video/vczMdQVWxaw.m3u8
 
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/PJeYBNpy8c6kvW_f_qU_oobUbKcfFIEOd8kYeKl0Cb4-QWLLvPs2y1V7sCFBmI3DXIvm58X0", Hipica TV
 https://ythlsgo.onrender.com/channel/UCTgORvzgyWjxLUHhWQgALdg.m3u8
@@ -2360,6 +2363,9 @@ https://ythlsgo.onrender.com/video/0E5HgBROi78.m3u8
 
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/ytc/AGIKgqN7SEBji2_3QNSwis8kciAnrcgcJ5fEbyugVT-ZXA", Radio Nationale
 https://ythlsgo.onrender.com/video/CYTkf-LHx8A.m3u8
+
+#EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/ytc/AGIKgqN7SEBji2_3QNSwis8kciAnrcgcJ5fEbyugVT-ZXA", Radio Nationale
+https://ythlsgo.onrender.com/video/8p7OEuorwEA.m3u8
 
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/Ph7cwkIc-kOD29JxD6Y6JNotUDTnHLBgulrJAkw_wNQz3QSevz9SF3zqxpHfudNzrpdYgEKsYyY", Radio One 103.7 🎧
 https://ythlsgo.onrender.com/channel/UC8XExQXrgutNTcwfACp1Miw.m3u8
