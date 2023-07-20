@@ -38,6 +38,11 @@ const getCache = async () => {
           channel.logo = item.logo
           channel.updated = (new Date()).toISOString()
         }
+
+        if (item.name !== '' && channel.name !== item.name) {
+          channel.name = item.name
+          channel.updated = (new Date()).toISOString()
+        }
       } else {
         // console.log('Adding channel:', item.name)
         channels.push({
