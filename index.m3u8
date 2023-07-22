@@ -1,5 +1,8 @@
 #EXTM3U x-tvg-url="https://github.com/botallen/epg/releases/download/latest/epg.xml"
 
+#EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/f8cxB7SCcnvaVnbbnerU8eGDraoAShr9NK3_gy8WDglSqjmi2BlY_x0lPlQjUYF_yjrRsR7g",  4K Scenic Relaxation
+https://ythlsgo.onrender.com/video/QNjYwCiJBIk.m3u8
+
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/ulAilvvglLOwTsYl5eNisuTgiGX5oQ9_8PI1_z-4UvOCPQCq1iUwz_RxjvLrMtWWGhaB1jWA6j0",  TV THATHI SBT
 https://ythlsgo.onrender.com/channel/UCyXRmWbmyB7TSJekXsPCZKQ.m3u8
 
@@ -1236,6 +1239,9 @@ https://ythlsgo.onrender.com/video/edxO47Fwi6M.m3u8
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/ytc/AGIKgqMRc3o-BdHPydKyYUEScxgh0JsgO9_v4xzP_QqA", DonMoenTV
 https://ythlsgo.onrender.com/channel/UCcKxZzWKezUfFMsAUSiMY8A.m3u8
 
+#EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/ytc/AOPolaTC3iIj5dj26fRNsuGE24PG3hEFbK9a0BAhTLtpq3p7aELqAzmOSDTncTlCyDD9", Doordarshan Girnar
+https://ythlsgo.onrender.com/channel/UCneBFse451PgKgXJTDqikYA.m3u8
+
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/Qeb1VB8pX8DcPQBU7ZonMG51D2gzMLkof-Wi98IlkYzAiF-p_EXrsZdDJsR2s_zYSPllesRPdg", Doordarshan Podhigai
 https://ythlsgo.onrender.com/channel/UC5-_zkjKabYd7tsLucKsriw.m3u8
 
@@ -2121,6 +2127,9 @@ https://ythlsgo.onrender.com/video/U9uRXgn4bbg.m3u8
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/ytc/AOPolaQmJqEwoXmT7oRUmIMrA0zn1XN7act0pUC7EKdzNA", Karnaval
 https://ythlsgo.onrender.com/video/qo87YWe2qJM.m3u8
 
+#EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/ytc/AOPolaQmJqEwoXmT7oRUmIMrA0zn1XN7act0pUC7EKdzNA", Karnaval
+https://ythlsgo.onrender.com/video/mOd6_kkWgvs.m3u8
+
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/vasjWRYKwMet892lYs3mAacH2r5n6CVRDXnjOfl_76ULRT2J_DSZjy2B5HmmiCPLyaABtym_Sk0", Kartavya TV Channel
 https://ythlsgo.onrender.com/video/FxfMP03XI0M.m3u8
 
@@ -2775,7 +2784,7 @@ https://ythlsgo.onrender.com/channel/UCKpFgDhnwRvUauqsd5h98fw.m3u8
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/q1BIFDktcjy8Wc8oPJcqhTeXKuwZU7E-RYmbEnbpyao3B17PfeCvMRTj8edsgsb20bALGXCw", NethraTV
 https://ythlsgo.onrender.com/channel/UC6b6XrsNOxQiS-FdfE8-Avw.m3u8
 
-#EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/KwpgaK5k4fop64RuDpSwROHrstRZXSftzwtENr690QsabvoXnssmob9ZzsqPlAyUTYm0JVIwRQ", NevoMusic
+#EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/KwpgaK5k4fop64RuDpSwROHrstRZXSftzwtENr690QsabvoXnssmob9ZzsqPlAyUTYm0JVIwRQ", NevoMusic | Uzbek Music Videos
 https://ythlsgo.onrender.com/channel/UCkaUg9b9LplVoJdx1JwwyOg.m3u8
 
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/VzHCL2OA1aC8awpoCpQuYcpOdvWojbEi92ezfWuEDs7iE0kv90URc4SJne25ajioZhD_f07CgQ", NevoMusicTj
