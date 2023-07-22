@@ -2955,9 +2955,6 @@ https://ythlsgo.onrender.com/channel/UCLLWAXn5F415g2kNAcE_T1g.m3u8
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/c0_jy3lFxgDOA8Y5LwcRMNVruOX_eYntzHgTMnhSBalzNyFodysYkTGiYY0KoG4H2G7SOXc8", NTA TV  channel
 https://ythlsgo.onrender.com/video/JPyKS97KiP4.m3u8
 
-#EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/c0_jy3lFxgDOA8Y5LwcRMNVruOX_eYntzHgTMnhSBalzNyFodysYkTGiYY0KoG4H2G7SOXc8", NTA TV  channel
-https://ythlsgo.onrender.com/channel/UCQdSS9GSBbtSqW3oNB39KTw.m3u8
-
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/0bDxnNTKTfKFg3GYmcsrNYqtGE7n4Gx2jTEVlpF97BcOpXBUGNfe-CxUqjkc1hK36hI3RlvQyw", NTV
 https://ythlsgo.onrender.com/channel/UC9TDTjbOjFB9jADmPhSAPsw.m3u8
 
@@ -4095,6 +4092,9 @@ https://ythlsgo.onrender.com/channel/UCPiu4CZlknkTworskK79CPg.m3u8
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/ytc/AOPolaR1ztjvu1E_zSw-93P0ZzCpRBayv0B9DUHHq9sIgQ", Telewizja Zabrze
 https://ythlsgo.onrender.com/channel/UCyQL0IjtptnQ9PxmAfH3fKQ.m3u8
 
+#EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/XAUpBIvKijEOfP0N17LXzpkvsG12JXrsEVeYj9m-7OICczl_s2R8odGDhc1_4yQtIBV13f7XJQ", Telkomsel
+https://ythlsgo.onrender.com/video/K9ngQ-8Ame4.m3u8
+
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/1mIBND_KFRQdx62w2vBMputGKpjbqHxwzkW4h4rkNIpVZPtX8X6H7YiextCgfrOQyMIUWZDx9g", Templo de Salomão
 https://ythlsgo.onrender.com/channel/UCq_5nc8bc273-g9GnKxB7Ig.m3u8
 
@@ -4839,6 +4839,9 @@ https://ythlsgo.onrender.com/video/HohWBIO-FLE.m3u8
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/SiMNRgCMWUja4NtlVlhj4wA-_qrFG15NMzsP5UHl7yBlog_EjPUHiujQ8hoZBpGdmwF02oYJpg", Église de la Victoire
 https://ythlsgo.onrender.com/channel/UCY3_KU8qXQeNnPQ_YHI00mw.m3u8
 
+#EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/Iac0KF69PApzDNQN9Yk72uNbMARvfDcLTgWLLFjsQZBa5mvsBgoVi_khSdB7bnUypXSMtDvaOg", Świebodzin TV. Telewizja Świebodzin
+https://ythlsgo.onrender.com/channel/UCEQZDk3FFLNM67Hx4jQaXVw.m3u8
+
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/1oC4KdDRIGLnCllQ0DjqSxk6CN7ZTwnORbqw4IiLdX2D9szwSKFXAXL_NY3s0VYOm3o8tvxHWuE", Антена ТК
 https://ythlsgo.onrender.com/channel/UC071G63l55wNjG5BlV56lLA.m3u8
 
@@ -4898,6 +4901,9 @@ https://ythlsgo.onrender.com/video/47k36yRqqD0.m3u8
 
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/DQ608hy7KentuCIhC2ZMgXeBwaiH-gyP9nfdB9bArL2kJNfEfn9WICG90r_CZWGOk6ihHU3fm1s", Телеканал Конкурент TV - новини Луцька та Волині
 https://ythlsgo.onrender.com/channel/UC7eTa1b57wOoboFKH2hVdMQ.m3u8
+
+#EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/c0_jy3lFxgDOA8Y5LwcRMNVruOX_eYntzHgTMnhSBalzNyFodysYkTGiYY0KoG4H2G7SOXc8", Телеканал НТА
+https://ythlsgo.onrender.com/channel/UCQdSS9GSBbtSqW3oNB39KTw.m3u8
 
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/LOAjtAl31lDNGQ92qqk9RYUR9H3Xj-EGr7pxRTUsOclP94brCKaiFcQLB7fMxFQJTcFVLEtXBQ", Телеканал Прямий
 https://ythlsgo.onrender.com/channel/UCH9H_b9oJtSHBovh94yB5HA.m3u8
