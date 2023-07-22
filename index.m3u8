@@ -2976,9 +2976,6 @@ https://ythlsgo.onrender.com/channel/UCLLWAXn5F415g2kNAcE_T1g.m3u8
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/c0_jy3lFxgDOA8Y5LwcRMNVruOX_eYntzHgTMnhSBalzNyFodysYkTGiYY0KoG4H2G7SOXc8", NTA TV  channel
 https://ythlsgo.onrender.com/video/JPyKS97KiP4.m3u8
 
-#EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/c0_jy3lFxgDOA8Y5LwcRMNVruOX_eYntzHgTMnhSBalzNyFodysYkTGiYY0KoG4H2G7SOXc8", NTA TV  channel
-https://ythlsgo.onrender.com/channel/UCQdSS9GSBbtSqW3oNB39KTw.m3u8
-
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/0bDxnNTKTfKFg3GYmcsrNYqtGE7n4Gx2jTEVlpF97BcOpXBUGNfe-CxUqjkc1hK36hI3RlvQyw", NTV
 https://ythlsgo.onrender.com/channel/UC9TDTjbOjFB9jADmPhSAPsw.m3u8
 
@@ -3872,6 +3869,9 @@ https://ythlsgo.onrender.com/channel/UCJ33TxiuEEYWLZ4ahILb0zQ.m3u8
 
 #EXTINF:-1 group-title="Kids" tvg-language="English" tvg-logo="https://yt3.googleusercontent.com/y5Tzb0pMxPPLanirclqZbasYEfmkMB3LAZkbvYGPHLpcZcbiwLXnXBC9UxLx36H7f-dfhUa_=s100-c-k-c0x00ffffff-no-rj", Super JoJo
 https://ythlsgo.onrender.com/channel/UCJzcBX9R38KVkH7sWUn5apA.m3u8
+
+#EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/ytc/AOPolaQFGVB-vvjizJodOWIzZEnhFVCAKIJlLc5eocuJ4w", Super Toons TV
+https://ythlsgo.onrender.com/video/WZ6ghrSkMyU.m3u8
 
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/6df9aUis0r9kuRzwnlBLMApe9p8t8CzslcgRH_KmxOAyJLKaV-rzvoHRdv5e9OneyKFoiJQwOQ", Super Truck - Français
 https://ythlsgo.onrender.com/channel/UC4u2o6tyE4vTrErXY9AN6Rw.m3u8
@@ -4928,6 +4928,9 @@ https://ythlsgo.onrender.com/video/47k36yRqqD0.m3u8
 
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/DQ608hy7KentuCIhC2ZMgXeBwaiH-gyP9nfdB9bArL2kJNfEfn9WICG90r_CZWGOk6ihHU3fm1s", Телеканал Конкурент TV - новини Луцька та Волині
 https://ythlsgo.onrender.com/channel/UC7eTa1b57wOoboFKH2hVdMQ.m3u8
+
+#EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/c0_jy3lFxgDOA8Y5LwcRMNVruOX_eYntzHgTMnhSBalzNyFodysYkTGiYY0KoG4H2G7SOXc8", Телеканал НТА
+https://ythlsgo.onrender.com/channel/UCQdSS9GSBbtSqW3oNB39KTw.m3u8
 
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/LOAjtAl31lDNGQ92qqk9RYUR9H3Xj-EGr7pxRTUsOclP94brCKaiFcQLB7fMxFQJTcFVLEtXBQ", Телеканал Прямий
 https://ythlsgo.onrender.com/channel/UCH9H_b9oJtSHBovh94yB5HA.m3u8
