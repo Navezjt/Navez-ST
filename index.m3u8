@@ -1080,9 +1080,6 @@ https://ythlsgo.onrender.com/channel/UCu7IDy0y-ZA0qaG51wrQY6w.m3u8
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/DaV-yEdy-cBqcyEHcrjzkYbJxUBuLGJgFD1v6DSkX-FI8gclofHf4HtJ0pv_nCVol0jut4_UPw", Current Time
 https://ythlsgo.onrender.com/channel/UCBG57608Hukev3d0d-gvLhQ.m3u8
 
-#EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/DaV-yEdy-cBqcyEHcrjzkYbJxUBuLGJgFD1v6DSkX-FI8gclofHf4HtJ0pv_nCVol0jut4_UPw", Current Time
-https://ythlsgo.onrender.com/video/HHgksyoQxAs.m3u8
-
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/-Kqka83PrVfDGsxZf3QNm73x10NNff8N_B1fMJV0rozpkLV1Onma1HGfIkDgzbaZClDDFsneXA", CVR News Telugu
 https://ythlsgo.onrender.com/channel/UCixD-KrpjXtMupkzkdFFlFg.m3u8
 
@@ -3411,6 +3408,9 @@ https://ythlsgo.onrender.com/video/2uQJ5ZRNApo.m3u8
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/BpvJkenJLjYymIKZgrZ9DTwGillxZ_eLvGW4VAcUAqSqMAMUplZiPlctn3ASTZRs0ZIyG-tYgA", Radyo Dinle
 https://ythlsgo.onrender.com/video/jfpCFwmE2tQ.m3u8
 
+#EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/FFHIvTJXdqJDtF4hqWtLuXpeVRdOnUtIdwjCrrA3WCBdcO6IjfXgtMluy_p2WNNVIZQs77IQcg", Radyo Dinle
+https://ythlsgo.onrender.com/video/4ovpORJ_tu8.m3u8
+
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/3b55G0c1iTv7OEy0HhJSCCLHg9JNfJFkNVFPz2HuPshtGayc5N7RG-XN8pwC0dC62uyaM0lBBQ", Radyo Madyo
 https://ythlsgo.onrender.com/video/Oy7R1dfzJbQ.m3u8
 
@@ -4919,6 +4919,9 @@ https://ythlsgo.onrender.com/video/1HhXn2GmXeM.m3u8
 
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/BxocD7R_wvfiAXPaXCQiRGnXdoBKKbm1FrkeBh-H0m7cW-8r0BVGpjMuOM3_AHrN1KKem3MIlg", Ми - Україна
 https://ythlsgo.onrender.com/channel/UCEduOt4TK8TtOaznB45TrhA.m3u8
+
+#EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/DaV-yEdy-cBqcyEHcrjzkYbJxUBuLGJgFD1v6DSkX-FI8gclofHf4HtJ0pv_nCVol0jut4_UPw", Настоящее Время
+https://ythlsgo.onrender.com/video/HHgksyoQxAs.m3u8
 
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/ytc/AGIKgqNp9tcQVBpqwDwgQiNPNp6Z-3jK7atOCWpIZWDAFw", Охотник и рыболов
 https://ythlsgo.onrender.com/video/Lj80uY066BA.m3u8
