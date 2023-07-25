@@ -213,6 +213,9 @@ https://ythlsgo.onrender.com/channel/UC3C6_1ETXfE807LltDbKYxg.m3u8
 #EXTINF:-1 group-title="News" tvg-language="Hindi" tvg-logo="https://yt3.ggpht.com/ytc/AOPolaTvZ8l5UMxJZCUKcqghA7HWbJlGBgB0MuBaVJQIhxA", ABP News
 https://ythlsgo.onrender.com/channel/UCRWFSbif-RFENbBrSiez1DA.m3u8
 
+#EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/yMWaW5afHyQA0S9CaYjO92POlHWnGaCF3kQtxlbfmBfX3NM9yrHERUlf16qoTzuY-9bML_qgEQ", ABP Sanjha
+https://ythlsgo.onrender.com/channel/UCYGZ0qW3w_dWExE3QzMkwZA.m3u8
+
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/ytc/AOPolaQJADusJQWyCyFmjQHzUkBYjvbdxvOvfpS0HWxT2w", ABS-CBN Entertainment
 https://ythlsgo.onrender.com/channel/UCstEtN0pgOmCf02EdXsGChw.m3u8
 
@@ -3162,9 +3165,6 @@ https://ythlsgo.onrender.com/channel/UCLLWAXn5F415g2kNAcE_T1g.m3u8
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/c0_jy3lFxgDOA8Y5LwcRMNVruOX_eYntzHgTMnhSBalzNyFodysYkTGiYY0KoG4H2G7SOXc8", NTA TV  channel
 https://ythlsgo.onrender.com/video/JPyKS97KiP4.m3u8
 
-#EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/c0_jy3lFxgDOA8Y5LwcRMNVruOX_eYntzHgTMnhSBalzNyFodysYkTGiYY0KoG4H2G7SOXc8", NTA TV  channel
-https://ythlsgo.onrender.com/channel/UCQdSS9GSBbtSqW3oNB39KTw.m3u8
-
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/0bDxnNTKTfKFg3GYmcsrNYqtGE7n4Gx2jTEVlpF97BcOpXBUGNfe-CxUqjkc1hK36hI3RlvQyw", NTV
 https://ythlsgo.onrender.com/channel/UC9TDTjbOjFB9jADmPhSAPsw.m3u8
 
@@ -5273,6 +5273,9 @@ https://ythlsgo.onrender.com/video/47k36yRqqD0.m3u8
 
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/DQ608hy7KentuCIhC2ZMgXeBwaiH-gyP9nfdB9bArL2kJNfEfn9WICG90r_CZWGOk6ihHU3fm1s", Телеканал Конкурент TV - новини Луцька та Волині
 https://ythlsgo.onrender.com/channel/UC7eTa1b57wOoboFKH2hVdMQ.m3u8
+
+#EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/c0_jy3lFxgDOA8Y5LwcRMNVruOX_eYntzHgTMnhSBalzNyFodysYkTGiYY0KoG4H2G7SOXc8", Телеканал НТА
+https://ythlsgo.onrender.com/channel/UCQdSS9GSBbtSqW3oNB39KTw.m3u8
 
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/LOAjtAl31lDNGQ92qqk9RYUR9H3Xj-EGr7pxRTUsOclP94brCKaiFcQLB7fMxFQJTcFVLEtXBQ", Телеканал Прямий
 https://ythlsgo.onrender.com/channel/UCH9H_b9oJtSHBovh94yB5HA.m3u8
