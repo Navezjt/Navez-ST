@@ -861,6 +861,9 @@ https://ythls.onrender.com/video/Dx5qFachd3A.m3u8
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/ytc/AOPolaS3Ejlub1h7CfbDuUFKvPz0FgzjmIoRxizhJLxjaw", Cafe Music BGM channel
 https://ythls.onrender.com/video/6uddGul0oAc.m3u8
 
+#EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/6FD4zpq1bWSUdfF5_Oxzk6NuNsgRAOl1czFczbwGtzx7jmIdAC1t_3y1qBgdSr1OInCtABlp", Café del Mar
+https://ythls.onrender.com/video/Ni25MOqwHNs.m3u8
+
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/lE2N0oyx39a-_TZYlkaW4A1kMySqmxvu5VolBNCv4LxqE8QrzDkx8IUtZxY27WRIdhiU-LvSIMc", Calcutta News
 https://ythls.onrender.com/channel/UCJ3I6MHOz5exARlTW_meOGQ.m3u8
 
@@ -1163,9 +1166,6 @@ https://ythls.onrender.com/channel/UCu7IDy0y-ZA0qaG51wrQY6w.m3u8
 
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/DaV-yEdy-cBqcyEHcrjzkYbJxUBuLGJgFD1v6DSkX-FI8gclofHf4HtJ0pv_nCVol0jut4_UPw", Current Time
 https://ythls.onrender.com/channel/UCBG57608Hukev3d0d-gvLhQ.m3u8
-
-#EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/DaV-yEdy-cBqcyEHcrjzkYbJxUBuLGJgFD1v6DSkX-FI8gclofHf4HtJ0pv_nCVol0jut4_UPw", Current Time
-https://ythls.onrender.com/video/HHgksyoQxAs.m3u8
 
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/-Kqka83PrVfDGsxZf3QNm73x10NNff8N_B1fMJV0rozpkLV1Onma1HGfIkDgzbaZClDDFsneXA", CVR News Telugu
 https://ythls.onrender.com/channel/UCixD-KrpjXtMupkzkdFFlFg.m3u8
@@ -5366,6 +5366,9 @@ https://ythls.onrender.com/video/Km9rQm1BRkQU.m3u8
 
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/BxocD7R_wvfiAXPaXCQiRGnXdoBKKbm1FrkeBh-H0m7cW-8r0BVGpjMuOM3_AHrN1KKem3MIlg", Ми - Україна
 https://ythls.onrender.com/channel/UCEduOt4TK8TtOaznB45TrhA.m3u8
+
+#EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/DaV-yEdy-cBqcyEHcrjzkYbJxUBuLGJgFD1v6DSkX-FI8gclofHf4HtJ0pv_nCVol0jut4_UPw", Настоящее Время
+https://ythls.onrender.com/video/HHgksyoQxAs.m3u8
 
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/ytc/AGIKgqNp9tcQVBpqwDwgQiNPNp6Z-3jK7atOCWpIZWDAFw", Охотник и рыболов
 https://ythls.onrender.com/video/Lj80uY066BA.m3u8
