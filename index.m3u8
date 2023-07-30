@@ -54,7 +54,7 @@ https://ythls.onrender.com/channel/UCTXNz3gjAypWp3EhlIATEJQ.m3u8
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/dDCDSSJvkP839wIKiXvtKbrEqigSyhTYENsmSDUfECBH4s_eAeziUBW8etws8_g4cuesZyap", 24 News
 https://ythls.onrender.com/channel/UCup3etEdjyF1L3sRbU-rKLw.m3u8
 
-#EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/9ZnctlAm8HecNK-d89c3j_VFv_ViSHFzy8-bGcQkjtIVC3DDSWZ5Q6-wp2gKIZYIWpUZehZa", 24 News HD
+#EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/TjEqoLmzr809WuUC9EWO-m4X0qXc0pgK8bSVJCBN4bF1xTx7xJjsM-86YgnvDNdEjvEQLkI1Cg", 24 News HD
 https://ythls.onrender.com/channel/UCcmpeVbSSQlZRvHfdC-CRwg.m3u8
 
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/AwsdiCh9vPY13Ar44-U-5ocTcBqYlCPxrixNq8j3UgyrOc-SzI6GDAlMWL5PzmNXMQO77EQiV-I", 24 TV
@@ -5558,6 +5558,9 @@ https://ythls.onrender.com/channel/UCY3_KU8qXQeNnPQ_YHI00mw.m3u8
 
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/ytc/AOPolaRIAmfTOMIhrAUqA6Fv_jr9yhQo3ctpscUsLND4Pg", ÜLKE TV
 https://ythls.onrender.com/channel/UCi65FGbYYj-OzJm2luB_fNQ.m3u8
+
+#EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/ytc/AOPolaRIAmfTOMIhrAUqA6Fv_jr9yhQo3ctpscUsLND4Pg", ÜLKE TV
+https://ythls.onrender.com/video/cN6Utx8xHyQ.m3u8
 
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/Iac0KF69PApzDNQN9Yk72uNbMARvfDcLTgWLLFjsQZBa5mvsBgoVi_khSdB7bnUypXSMtDvaOg", Świebodzin TV. Telewizja Świebodzin
 https://ythls.onrender.com/channel/UCEQZDk3FFLNM67Hx4jQaXVw.m3u8
