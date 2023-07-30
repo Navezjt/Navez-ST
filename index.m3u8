@@ -1110,7 +1110,7 @@ https://ythls.onrender.com/channel/UChBQgieUidXV1CmDxSdRm3g.m3u8
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/GD_rvA7357ni-AI2EjFFzrm2rhchyAQImQa5wajc1i3JIQLvlcLKhKcr8RI-Ool7bhbvpm_g", City 21
 https://ythls.onrender.com/channel/UCB-8E662xOk1I3-wdhTMNiw.m3u8
 
-#EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/hwne2rA1f0LkV4D4s8FwWBmi2IMYZ3XcIkHhgcMjq7N8BP-vyiokGb_ajcfzGcUZJhCd6c-y1g", City 41
+#EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/3kZQHjTvrCouTzzf72fo4LX4Qow7DJIAgZiEydSJsZ6xdmStncrOg2EATuITK4EwJeYWrphB", City 41
 https://ythls.onrender.com/channel/UC6UW8OOQQBGdwmnaYLh-qdw.m3u8
 
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/xnjStXHLmn_E_gDILPtB6BDFd7zj675cVIlKLKUTmRb7xDnqdE-fHcHJpNDcyqeB89u22mtO", City 42
@@ -2616,6 +2616,9 @@ https://ythls.onrender.com/channel/UC1VGGT9RfunvCdvZf_gqVBg.m3u8
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/F2hA7YbkFov2qAieNkVcWWil-4N4Js0tuLJoMg_1onq9Vm09a7KRZ3HidGDcFhRbUYiRuWQCUA", Ladány TV
 https://ythls.onrender.com/channel/UCnG322MGBA4q5QWwDzUTh0Q.m3u8
 
+#EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/tq02VkIAM4cE0-G69CjVY6rGDm1WR4MmyesHyopahXVtZqSj_fNNVPkF31V0SD0oOnRwTplQGYs", Lagoinha TV
+https://ythls.onrender.com/channel/UCEIY49fs3lX_xh35b0PBmuw.m3u8
+
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/qSKGNMbnBiCQvGOZEUk88vL7ad2kitaItDS2cvMnUqcO9f6ozoD3NmdEe_pQyEu0kEQ9-qPAFJw", Lagu Terbaru
 https://ythls.onrender.com/video/94jNXxH8U8c.m3u8
 
@@ -3210,7 +3213,7 @@ https://ythls.onrender.com/channel/UC6b6XrsNOxQiS-FdfE8-Avw.m3u8
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/ytc/AOPolaSAHWGsBJ3kEkX_p-zjgDi5swFnbtKJ-ZER5akjyA", NetInsight
 https://ythls.onrender.com/channel/UC1-ATnDVEwKT6-0aEeJ2ibA.m3u8
 
-#EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/KwpgaK5k4fop64RuDpSwROHrstRZXSftzwtENr690QsabvoXnssmob9ZzsqPlAyUTYm0JVIwRQ", NevoMusic
+#EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/KwpgaK5k4fop64RuDpSwROHrstRZXSftzwtENr690QsabvoXnssmob9ZzsqPlAyUTYm0JVIwRQ", NevoMusic | Uzbek Music Videos
 https://ythls.onrender.com/channel/UCkaUg9b9LplVoJdx1JwwyOg.m3u8
 
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/VzHCL2OA1aC8awpoCpQuYcpOdvWojbEi92ezfWuEDs7iE0kv90URc4SJne25ajioZhD_f07CgQ", NevoMusicTj
@@ -3494,6 +3497,9 @@ https://ythls.onrender.com/video/nOKUFs6RklI.m3u8
 
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/ytc/AOPolaTIoDf81Z3GbpPsLGrMt5_-Tylz8KnnK7VoWAmP", PanoCloud
 https://ythls.onrender.com/video/wj1uDmYAJLI.m3u8
+
+#EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/ytc/AOPolaTIoDf81Z3GbpPsLGrMt5_-Tylz8KnnK7VoWAmP", PanoCloud
+https://ythls.onrender.com/video/sGUbInnoD6s.m3u8
 
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/ytc/AOPolaRRfjmiVsK6T3uhknNfUtdJ8yVHobe9nopvwQ-9", Parafia pw. Świętej Rodziny w Poznaniu
 https://ythls.onrender.com/channel/UCic4dADMVcQJWSYDbSUgaaQ.m3u8
