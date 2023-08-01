@@ -1182,6 +1182,9 @@ https://ythls.onrender.com/video/4nNqFV68Kuo.m3u8
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/ytc/AOPolaTJI-1SsFxbZm8Zs_nI68FD3MLMpZSsopE9JLjk5Q", Cocomelon - Nursery Rhymes
 https://ythls.onrender.com/channel/UCbCmjCuTUZos6Inko4u57UQ.m3u8
 
+#EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/2VbY6fJqppC8l1S_tDv8uP4DDZjXQsnpZ-SNQMosiTuJywNKl2bzQljUo_lSaslq6-3yBlRM0lg", Cody's Playtime - CoComelon Nursery Rhymes
+https://ythls.onrender.com/video/OTKTC9vdoWE.m3u8
+
 #EXTINF:-1 group-title="Crime" tvg-language="English" tvg-logo="https://yt3.ggpht.com/ytc/AMLnZu91uKoppQJdRBlpEMFQSaXd_I4CIJ3T7MNxl1Cz", Cold Case Detective
 https://ythls.onrender.com/channel/UCdjslyNQupPSFxK_mSPcG-g.m3u8
 
@@ -3474,6 +3477,9 @@ https://ythls.onrender.com/channel/UCLLWAXn5F415g2kNAcE_T1g.m3u8
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/c0_jy3lFxgDOA8Y5LwcRMNVruOX_eYntzHgTMnhSBalzNyFodysYkTGiYY0KoG4H2G7SOXc8", NTA TV  channel
 https://ythls.onrender.com/video/JPyKS97KiP4.m3u8
 
+#EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/c0_jy3lFxgDOA8Y5LwcRMNVruOX_eYntzHgTMnhSBalzNyFodysYkTGiYY0KoG4H2G7SOXc8", NTA TV  channel
+https://ythls.onrender.com/channel/UCQdSS9GSBbtSqW3oNB39KTw.m3u8
+
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/0bDxnNTKTfKFg3GYmcsrNYqtGE7n4Gx2jTEVlpF97BcOpXBUGNfe-CxUqjkc1hK36hI3RlvQyw", NTV
 https://ythls.onrender.com/channel/UC9TDTjbOjFB9jADmPhSAPsw.m3u8
 
@@ -4463,6 +4469,9 @@ https://ythls.onrender.com/video/QGYPscSj7mE.m3u8
 
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/VzpDd362KZfDi-ISzI0rtdwlfkcfYYj-707Pwsyf1jufdLH-vn2w_cIHcZTMxEhbePSqsLug5Hc", Starry Sky
 https://ythls.onrender.com/channel/UC5YPvina0jntpfIkiHNIi6w.m3u8
+
+#EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/VzpDd362KZfDi-ISzI0rtdwlfkcfYYj-707Pwsyf1jufdLH-vn2w_cIHcZTMxEhbePSqsLug5Hc", Starry Sky
+https://ythls.onrender.com/video/dM4GXQ0dB1M.m3u8
 
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/ytc/AGIKgqMDit685jgNNHvVGoDdQ8fBS0oSPoLo8YTojuaz", starysacz.info
 https://ythls.onrender.com/channel/UCTNGa--cA5K2q-RTXa7-LUw.m3u8
@@ -5765,9 +5774,6 @@ https://ythls.onrender.com/video/47k36yRqqD0.m3u8
 
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/DQ608hy7KentuCIhC2ZMgXeBwaiH-gyP9nfdB9bArL2kJNfEfn9WICG90r_CZWGOk6ihHU3fm1s", Телеканал Конкурент TV - новини Луцька та Волині
 https://ythls.onrender.com/channel/UC7eTa1b57wOoboFKH2hVdMQ.m3u8
-
-#EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/c0_jy3lFxgDOA8Y5LwcRMNVruOX_eYntzHgTMnhSBalzNyFodysYkTGiYY0KoG4H2G7SOXc8", Телеканал НТА
-https://ythls.onrender.com/channel/UCQdSS9GSBbtSqW3oNB39KTw.m3u8
 
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/LOAjtAl31lDNGQ92qqk9RYUR9H3Xj-EGr7pxRTUsOclP94brCKaiFcQLB7fMxFQJTcFVLEtXBQ", Телеканал Прямий
 https://ythls.onrender.com/channel/UCH9H_b9oJtSHBovh94yB5HA.m3u8
