@@ -12,6 +12,9 @@ https://ythls.onrender.com/channel/UCl8TS16xV5Xz21V2owXV96A.m3u8
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/ezG7fZAoI4puqxZvEHRY0Xfwl6CcR3bWRadwh-lg_-JSuBw9aK6hpJuR5wIlu1WHhsvseAWzfyA",  YTN
 https://ythls.onrender.com/channel/UChlgI3UHCOnwUGzWzbJ3H5w.m3u8
 
+#EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/ezG7fZAoI4puqxZvEHRY0Xfwl6CcR3bWRadwh-lg_-JSuBw9aK6hpJuR5wIlu1WHhsvseAWzfyA",  YTN
+https://ythls.onrender.com/video/5mQGSZ-BBRw.m3u8
+
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/AhLi8c7oK7EZvAxwmy_j-UW6kPG4u65-eqn2HyinF_ikTFRQjuG80fp3ZYuqJflHRlkRYtm0oA",  Zee Tamil News
 https://ythls.onrender.com/channel/UCxRRfF6qIoYntp3zNOozonQ.m3u8
 
@@ -1587,7 +1590,7 @@ https://ythls.onrender.com/video/d0BFOFLmBcE.m3u8
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/kL6QNb5i1Wq3APx0nVEd01UF2TAbzl8y99Nts6DBoyM9WPdZuduOOuIOxQZYp-bUN9xkvPfB3w", El Siete TV
 https://ythls.onrender.com/channel/UC64ZNqX0FQHabP8iIkmnR3A.m3u8
 
-#EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/kg5vrdz7shjKha3N3I7ed5MhzGv3_LwVfNj1vtZfW9OFSGDArcvMD0wmtYhq9yLkkVuRCcuK6g", El Siete TV
+#EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/kL6QNb5i1Wq3APx0nVEd01UF2TAbzl8y99Nts6DBoyM9WPdZuduOOuIOxQZYp-bUN9xkvPfB3w", El Siete TV
 https://ythls.onrender.com/video/Vh8xmLBJtR8.m3u8
 
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/xKMZMCQNeuNoC2uUU5LoaTwcCjbse-OzyxKgaONn_NAzSUM2ZSH7npSWhZ7b_idaP9qB2jMubQ", El Super Meridiano
@@ -3306,7 +3309,7 @@ https://ythls.onrender.com/channel/UC6b6XrsNOxQiS-FdfE8-Avw.m3u8
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/ytc/AOPolaSAHWGsBJ3kEkX_p-zjgDi5swFnbtKJ-ZER5akjyA", NetInsight
 https://ythls.onrender.com/channel/UC1-ATnDVEwKT6-0aEeJ2ibA.m3u8
 
-#EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/KwpgaK5k4fop64RuDpSwROHrstRZXSftzwtENr690QsabvoXnssmob9ZzsqPlAyUTYm0JVIwRQ", NevoMusic
+#EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/KwpgaK5k4fop64RuDpSwROHrstRZXSftzwtENr690QsabvoXnssmob9ZzsqPlAyUTYm0JVIwRQ", NevoMusic | Uzbek Music Videos
 https://ythls.onrender.com/channel/UCkaUg9b9LplVoJdx1JwwyOg.m3u8
 
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/VzHCL2OA1aC8awpoCpQuYcpOdvWojbEi92ezfWuEDs7iE0kv90URc4SJne25ajioZhD_f07CgQ", NevoMusicTj
@@ -5624,6 +5627,9 @@ https://ythls.onrender.com/channel/UCizGMtU0Lt-O9X0tLJzyZ2Q.m3u8
 
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/ytc/AOPolaRSWVTOCc9Ev3QXMTn9nG35XuzCnMnHp0kwC_GTZA", YTN korean
 https://ythls.onrender.com/video/vEO6wO0QsX8.m3u8
+
+#EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/ytc/AOPolaT7iUAntCisCs68ppU3bXO7T6BzSrClKNjJvmGqLg", YTN 라디오
+https://ythls.onrender.com/channel/UCwRljhjVWtLqAKbsWGPU_OA.m3u8
 
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/ytc/AOPolaQwJCUOw0M-raBcWc4loQtYr3fDumEsOE834Z3HLw", YTN 사이언스
 https://ythls.onrender.com/channel/UCZdBJIbJz0P9xyFipgOj1fA.m3u8
