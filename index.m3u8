@@ -981,6 +981,9 @@ https://ythls.onrender.com/channel/UChXVCKn5sa-e-bNXjX47lJw.m3u8
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/MsSE7_YC2suB5UJz5e4z5jUCHQ6hg0AtbCVyNAVeFITK1-QDcSGatBtFJUHl6LvPzq7a1oMa6A", Canal 66 Mexicali en vivo
 https://ythls.onrender.com/channel/UCgu4v4HAioB0N5K6aq_H-WQ.m3u8
 
+#EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/YbQiMhJJqEXtgBCu7S-AnpYn2jlK8kGHHJ23i5aUAfep71WWTBGb8DbUmkUUnRX4D-oDatdzTA", Canal 7 Neuquén
+https://ythls.onrender.com/channel/UCMaLdICu-EY8yALEM1B9pJg.m3u8
+
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/ytc/AOPolaSrF8NjvriIhPFRpNKU0P_YjadxpTOBxoLQ1qWveQ", Canal 8 (San Juan)
 https://ythls.onrender.com/channel/UC5UKMEIoqvNDMSDz2_6Sn9g.m3u8
 
@@ -1064,6 +1067,9 @@ https://ythls.onrender.com/video/Qlk9HhuM0ZU.m3u8
 
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/ytc/AGIKgqNxCCncRf6ZzK7vYQWqo4jghOKzVEc78Vg8F3mwQA", Cat Trumpet
 https://ythls.onrender.com/channel/UCI-Ho-GaKYbtMzXJWmWAsrg.m3u8
+
+#EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/ytc/AOPolaRMmBPvbbAVugkBP1orkPNUM83jgExWyi3aB0qo", Cats Family en Français
+https://ythls.onrender.com/channel/UCil6uAMf2IXD1SkiwZq3xhw.m3u8
 
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/wmFCOPqJzzG0Ps59wMM6iOvbJ7doRg5iRS45C0hs90KiTEanv13INZvNTevcMD2BD7iqjo4IDA", CazéTV
 https://ythls.onrender.com/video/bliiF4crUNU.m3u8
@@ -1194,14 +1200,14 @@ https://ythls.onrender.com/channel/UCvdwhh_fDyWccR42-rReZLw.m3u8
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/ytc/AOPolaQ5Ht5a1jLaCuhyij-KADXKdULF9UW0mv8SFfLLhg", CNN Brasil
 https://ythls.onrender.com/video/nLbbd2ehNzY.m3u8
 
-#EXTINF:-1 group-title="News" tvg-language="English" tvg-logo="https://yt3.ggpht.com/4m7yvjIhOhtCXb905kcNQl6EXt5AzDXvmx6pN5WxbMtd1hylOZDESw6lvV77UjPWtQ--JizW8w", CNN News18
-https://ythls.onrender.com/channel/UCef1-8eOpJgud7szVPlZQAQ.m3u8
-
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/ShuHogS_oo3tsc3tCTX38tSKoFHUzCYgnQ-Vrun8QiFgWAQoaBE5ZRld8vZkZU40gAVibg2WRw", CNN TÜRK
 https://ythls.onrender.com/channel/UCV6zcRug6Hqp1UX_FdyUeBg.m3u8
 
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/ShuHogS_oo3tsc3tCTX38tSKoFHUzCYgnQ-Vrun8QiFgWAQoaBE5ZRld8vZkZU40gAVibg2WRw", CNN TÜRK
 https://ythls.onrender.com/video/X_EWYemclKA.m3u8
+
+#EXTINF:-1 group-title="News" tvg-language="English" tvg-logo="https://yt3.ggpht.com/4m7yvjIhOhtCXb905kcNQl6EXt5AzDXvmx6pN5WxbMtd1hylOZDESw6lvV77UjPWtQ--JizW8w", CNN-News18
+https://ythls.onrender.com/channel/UCef1-8eOpJgud7szVPlZQAQ.m3u8
 
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/4m7yvjIhOhtCXb905kcNQl6EXt5AzDXvmx6pN5WxbMtd1hylOZDESw6lvV77UjPWtQ--JizW8w", CNN-News18
 https://ythls.onrender.com/video/4nNqFV68Kuo.m3u8
@@ -1674,7 +1680,7 @@ https://ythls.onrender.com/channel/UCNq5APn4lVabRaYCnTxiNIg.m3u8
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/ytc/AOPolaTuPGluhx0V49RqTBYiEk9R1f4oMgmkQKaR85Efsw", Espace TV Guinée
 https://ythls.onrender.com/channel/UCMsFKwxfosayYR73hhFyf2Q.m3u8
 
-#EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/kR01XImRexdf-09F2P2XwmAQt4JtLrMDop9Un3zx1QPSUFmVnSjIUmMgWmCZJ7e-wDu3XWfhLw", Espreso.TV
+#EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/kR01XImRexdf-09F2P2XwmAQt4JtLrMDop9Un3zx1QPSUFmVnSjIUmMgWmCZJ7e-wDu3XWfhLw", Espreso
 https://ythls.onrender.com/channel/UCMEiyV8N2J93GdPNltPYM6w.m3u8
 
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/kR01XImRexdf-09F2P2XwmAQt4JtLrMDop9Un3zx1QPSUFmVnSjIUmMgWmCZJ7e-wDu3XWfhLw", Espreso.TV
@@ -1832,6 +1838,9 @@ https://ythls.onrender.com/video/NIuO6hrFTrg.m3u8
 
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/raF-D3nN_kRBQAFOp4YhBTp5ap8CZKf1fhdZBPJVpnMnWRj6Mxl1YitDTmEdmXvr8cBFlkUT4A", FIBA - The Basketball Channel
 https://ythls.onrender.com/video/JIfOgf75byU.m3u8
+
+#EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/raF-D3nN_kRBQAFOp4YhBTp5ap8CZKf1fhdZBPJVpnMnWRj6Mxl1YitDTmEdmXvr8cBFlkUT4A", FIBA - The Basketball Channel
+https://ythls.onrender.com/channel/UCtInrnU3QbWqFGsdKT1GZtg.m3u8
 
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/umL9swq6oRswMSTWr7wstl6Bt0w48AR1KDkGtY66fD26xaKkF0zyhrI2qiTmJKkchSV5XQr-3w", Firanda Andirja
 https://ythls.onrender.com/channel/UCm44PmruoSbuNbZn7jFeXUw.m3u8
@@ -3314,6 +3323,9 @@ https://ythls.onrender.com/video/ytg83jyE8lU.m3u8
 
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/U8iPa_VMaAhXEjsZY620S17nq9HlALc8GY4gU9WH54AwFrRJl9suGysa-DUKB7D_Y37PMCiTTg", NET25
 https://ythls.onrender.com/channel/UC5IF8NlxMW1GkEUUqWJJBIw.m3u8
+
+#EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/U8iPa_VMaAhXEjsZY620S17nq9HlALc8GY4gU9WH54AwFrRJl9suGysa-DUKB7D_Y37PMCiTTg", NET25
+https://ythls.onrender.com/video/NMi4pw_iqLA.m3u8
 
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/S3DGGuhFw7yTwubLSy6uoH2DyQ_7cvbpt24-2KDf00IID8jvP3WkPzihk7AknMjSgUvn_N-mvQ", Net2TV Gh
 https://ythls.onrender.com/channel/UCKpFgDhnwRvUauqsd5h98fw.m3u8
