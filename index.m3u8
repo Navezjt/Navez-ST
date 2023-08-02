@@ -1701,7 +1701,7 @@ https://ythls.onrender.com/channel/UCNq5APn4lVabRaYCnTxiNIg.m3u8
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/ytc/AOPolaTuPGluhx0V49RqTBYiEk9R1f4oMgmkQKaR85Efsw", Espace TV Guinée
 https://ythls.onrender.com/channel/UCMsFKwxfosayYR73hhFyf2Q.m3u8
 
-#EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/kR01XImRexdf-09F2P2XwmAQt4JtLrMDop9Un3zx1QPSUFmVnSjIUmMgWmCZJ7e-wDu3XWfhLw", Espreso.TV
+#EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/kR01XImRexdf-09F2P2XwmAQt4JtLrMDop9Un3zx1QPSUFmVnSjIUmMgWmCZJ7e-wDu3XWfhLw", Espreso
 https://ythls.onrender.com/channel/UCMEiyV8N2J93GdPNltPYM6w.m3u8
 
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/kR01XImRexdf-09F2P2XwmAQt4JtLrMDop9Un3zx1QPSUFmVnSjIUmMgWmCZJ7e-wDu3XWfhLw", Espreso.TV
@@ -3597,6 +3597,9 @@ https://ythls.onrender.com/channel/UCoxg3Kml41wE3IPq-PC-LQw.m3u8
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/umqykqqWuJKf8LZ304qUZI8RscIlltR026jOJwHu-wCJDQvhWD1644SgSgFxJdBCM4pKqSbB", Nuclear Blast Records
 https://ythls.onrender.com/video/lCjVa1c5zKw.m3u8
 
+#EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/ytc/AOPolaTi9mrjlenycjDTADjqrWVpGelt26vYRfFXrF26", NYTV Live
+https://ythls.onrender.com/channel/UCx7cFh63AWsK3cbfgX3GaaQ.m3u8
+
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/ytc/AOPolaRZdXEFSsVx_u5UysMJqbe0exKmV-gJ72GVAlvY", NZ Music
 https://ythls.onrender.com/channel/UCi0UQziRcKI6hHjLaV8_bOg.m3u8
 
@@ -4460,6 +4463,9 @@ https://ythls.onrender.com/video/YybjLmDRgl4.m3u8
 
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/ytc/AOPolaQ4UFpifUrduIVqiVR8uYaHE_ihFLhD5R1XAhJPlQ", Shree Siddhivinayak
 https://ythls.onrender.com/channel/UCNH47WOVuA2zkP2cP1sEynw.m3u8
+
+#EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/ytc/AOPolaQ4UFpifUrduIVqiVR8uYaHE_ihFLhD5R1XAhJPlQ", Shree Siddhivinayak
+https://ythls.onrender.com/video/6GFwLahrvkY.m3u8
 
 #EXTINF:-1 group-title="Spiritual" tvg-language="Hindi" tvg-logo="https://yt3.ggpht.com/ytc/AGIKgqMoBFYkxxMtNIq1wNcZcuAcEefKw4DD-VbmGP7j", Shri Krishna Bhakti Geet
 https://ythls.onrender.com/channel/UC0MRoMlktQ0OJmh3jubsz4g.m3u8
