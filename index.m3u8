@@ -1200,6 +1200,9 @@ https://ythls.onrender.com/video/XY9A9MtVsbg.m3u8
 #EXTINF:-1 group-title="News" tvg-language="Hindi" tvg-logo="https://yt3.ggpht.com/ZWBVhVeY1UFL3q-nLo2XSzh1R90DXI0V8PNK125pZFooVwQxS543UdhfcBX_0fThMebyhAfnw20", CNBC Awaaz.
 https://ythls.onrender.com/channel/UCQIycDaLsBpMKjOCeaKUYVg.m3u8
 
+#EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/JySEhLOv8Llm0VZBxo5iCttTVg80ttt90xTxhBGm7XSXiEuPA_0liFIiBpokEonD8pvdKy0r", CNBC-TV18
+https://ythls.onrender.com/channel/UCmRbHAgG2k2vDUvb3xsEunQ.m3u8
+
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/ytc/AOPolaRcGnx5yNwdoDbhlPkWZ0AVdffUQ6WmLxK8tFpGQw", CNBCAfrica
 https://ythls.onrender.com/channel/UCsba91UGiQLFOb5DN3Z_AdQ.m3u8
 
@@ -1695,7 +1698,7 @@ https://ythls.onrender.com/channel/UCNq5APn4lVabRaYCnTxiNIg.m3u8
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/ytc/AOPolaTuPGluhx0V49RqTBYiEk9R1f4oMgmkQKaR85Efsw", Espace TV Guinée
 https://ythls.onrender.com/channel/UCMsFKwxfosayYR73hhFyf2Q.m3u8
 
-#EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/kR01XImRexdf-09F2P2XwmAQt4JtLrMDop9Un3zx1QPSUFmVnSjIUmMgWmCZJ7e-wDu3XWfhLw", Espreso.TV
+#EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/kR01XImRexdf-09F2P2XwmAQt4JtLrMDop9Un3zx1QPSUFmVnSjIUmMgWmCZJ7e-wDu3XWfhLw", Espreso
 https://ythls.onrender.com/channel/UCMEiyV8N2J93GdPNltPYM6w.m3u8
 
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/kR01XImRexdf-09F2P2XwmAQt4JtLrMDop9Un3zx1QPSUFmVnSjIUmMgWmCZJ7e-wDu3XWfhLw", Espreso.TV
@@ -3759,6 +3762,9 @@ https://ythls.onrender.com/channel/UCaSWrWpSCVT9pbKbHTdorZA.m3u8
 #EXTINF:-1 group-title="Kids" tvg-language="English" tvg-logo="https://yt3.ggpht.com/IepI9V2OjYmTKYKDiRBk_5WC6J2yjJR3RCgMUfbsJxbK9J5HufPZ4y0kobaDNO9MdUbighMmlA", Power Rangers
 https://ythls.onrender.com/channel/UCbIm2iqwql8bFqkO2bHv7Mw.m3u8
 
+#EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/ytc/AOPolaR3OSGvHyZw4Wf7a6Z0-G25QiagdeoDsgivjEKGGA", POWERVISION TV
+https://ythls.onrender.com/channel/UCzxfpzSF7mz8j7bNIXyZWmA.m3u8
+
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/1BqfqQkO_BwTkMjNLpK6TNtgmP5oGX-BPzqIh9nQfKIRprwZhuasN93mQaSf40vj2jP5aMVgDA", Pr Marcio Pinheiro Oficial
 https://ythls.onrender.com/channel/UCE4BLzIH4N7cNIjjVrvH9TQ.m3u8
 
@@ -4136,6 +4142,9 @@ https://ythls.onrender.com/video/WnQsXCPufyM.m3u8
 
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/2RdLJIfwsXZkrQhkcjxEcWKcSpBrpm7paFwBdK6v-GTFSEOGcykFIbcdwpen0eGtkJLKaeuK7x8", REPORTER LIVE
 https://ythls.onrender.com/channel/UCFx1nseXKTc1Culiu3neeSQ.m3u8
+
+#EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/ytc/AOPolaRLe23jlpHqcu0O0axr6bdADKVMGYFRo4wG0xd_", Republic Bangla
+https://ythls.onrender.com/channel/UCajVjEHDoVn_AHsunUZz_EQ.m3u8
 
 #EXTINF:-1 group-title="News" tvg-language="Hindi" tvg-logo="https://yt3.ggpht.com/zv_TrbiRA-GpTz7DyYGCX08_XUcPUuVD_lcApKXQU18y3FBilr7b6CAy4Y4fVyVeiXk_JcCrg3A", Republic Bharat
 https://ythls.onrender.com/video/qfrocHBy6RQ.m3u8
