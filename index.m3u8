@@ -1320,6 +1320,9 @@ https://ythls.onrender.com/channel/UCT7KFGv6s2a-rh2Jq8ZdM1g.m3u8
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/i213N_VQVyD9cIhh1zRP9OFW60ege6nchMkw4SzEiy6YznGacsKto8GKsFoye12LcV4pskI__w", Crónica TV
 https://ythls.onrender.com/video/avly0uwZzOE.m3u8
 
+#EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/ytc/AOPolaQmQEaRzOiIXNf1CEScdQrqMG8mC8pkgL8VAWTkUg", CTITV NEWS
+https://ythls.onrender.com/channel/UCpu3bemTQwAU8PqM4kJdoEQ.m3u8
+
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/gVPH10OJiEVByluEQ53pKohXpKbsi64Roi4sjM3u2miyUNuqYTAVzTYfkUv682Flh6UbPCgj", CTVN AKD PLUS
 https://ythls.onrender.com/channel/UC1UOne4B9wIrMe0KMwe-7_g.m3u8
 
@@ -6302,9 +6305,6 @@ https://ythls.onrender.com/channel/UCoNYj9OFHZn3ACmmeRCPwbA.m3u8
 
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/ytc/AGIKgqPfvWDJQIrLydgW9t3XoK5pc4Kl6-T692uOJ2JuHA", 三立華劇 SET Drama
 https://ythls.onrender.com/video/HRwAMooYM3w.m3u8
-
-#EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/ytc/AOPolaQmQEaRzOiIXNf1CEScdQrqMG8mC8pkgL8VAWTkUg", 中天新聞
-https://ythls.onrender.com/channel/UCpu3bemTQwAU8PqM4kJdoEQ.m3u8
 
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/ytc/AOPolaT8KzCnCTuLbJFeg-pwD2o3LSXq32fpDEHkL19Dkg", 中天電視
 https://ythls.onrender.com/channel/UC5l1Yto5oOIgRXlI4p4VKbw.m3u8
