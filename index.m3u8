@@ -684,9 +684,6 @@ https://ythls.onrender.com/channel/UCd0sEeyvD_K9YYw0yPTKDhw.m3u8
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/Rb6DaY2RGFSfmJktLU4Qk1-qcnHjw9Ah6pg94p4v-PH7Em3mZgBww-widRbXeZ7SM1YZu7uS6Q", AZM TV Canal9 de la Patagonia
 https://ythls.onrender.com/channel/UCf0t3JPPILv3Pt4GiWwU3Ew.m3u8
 
-#EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/iAq0ZBd-8F-Pq9V9cyi95Bge1UGsWjuLRF5Yx9-d0opKBxZMnEBqTgbM72hFVa_-ua7EVeXa", AzonTV – ilmiy-maʼrifiy, onlayn telekanal
-https://ythls.onrender.com/channel/UCneJYS2Xf_a2a1ealwZb7mQ.m3u8
-
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/JMvZzfwbr1WQPqBOWtRcCvd3gg24A1t8k_JWDbANUM_XNAx3P9cZBksl7DUmp8YE1KIegi-SXA", Baby Alive Français - Chaîne Officielle
 https://ythls.onrender.com/channel/UCj_YP8My20fYnXbe8B0ziUA.m3u8
 
@@ -1755,7 +1752,7 @@ https://ythls.onrender.com/channel/UCNq5APn4lVabRaYCnTxiNIg.m3u8
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/ytc/AOPolaTuPGluhx0V49RqTBYiEk9R1f4oMgmkQKaR85Efsw", Espace TV Guinée
 https://ythls.onrender.com/channel/UCMsFKwxfosayYR73hhFyf2Q.m3u8
 
-#EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/kR01XImRexdf-09F2P2XwmAQt4JtLrMDop9Un3zx1QPSUFmVnSjIUmMgWmCZJ7e-wDu3XWfhLw", Espreso.TV
+#EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/kR01XImRexdf-09F2P2XwmAQt4JtLrMDop9Un3zx1QPSUFmVnSjIUmMgWmCZJ7e-wDu3XWfhLw", Espreso
 https://ythls.onrender.com/channel/UCMEiyV8N2J93GdPNltPYM6w.m3u8
 
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/kR01XImRexdf-09F2P2XwmAQt4JtLrMDop9Un3zx1QPSUFmVnSjIUmMgWmCZJ7e-wDu3XWfhLw", Espreso.TV
@@ -1922,6 +1919,9 @@ https://ythls.onrender.com/video/JIfOgf75byU.m3u8
 
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/raF-D3nN_kRBQAFOp4YhBTp5ap8CZKf1fhdZBPJVpnMnWRj6Mxl1YitDTmEdmXvr8cBFlkUT4A", FIBA - The Basketball Channel
 https://ythls.onrender.com/channel/UCtInrnU3QbWqFGsdKT1GZtg.m3u8
+
+#EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/iAq0ZBd-8F-Pq9V9cyi95Bge1UGsWjuLRF5Yx9-d0opKBxZMnEBqTgbM72hFVa_-ua7EVeXa", Fikrat
+https://ythls.onrender.com/channel/UCneJYS2Xf_a2a1ealwZb7mQ.m3u8
 
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/umL9swq6oRswMSTWr7wstl6Bt0w48AR1KDkGtY66fD26xaKkF0zyhrI2qiTmJKkchSV5XQr-3w", Firanda Andirja
 https://ythls.onrender.com/channel/UCm44PmruoSbuNbZn7jFeXUw.m3u8
@@ -4808,6 +4808,9 @@ https://ythls.onrender.com/channel/UCPfph_rbeCPVLimHn6Py3HQ.m3u8
 
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/ytc/AOPolaSeGV_l2GAJCrwxJ559wacWowbnqj-55zKYuKZunw", T News Telugu
 https://ythls.onrender.com/video/nkq4s4k3--k.m3u8
+
+#EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/ytc/AOPolaSeGV_l2GAJCrwxJ559wacWowbnqj-55zKYuKZunw", T News Telugu
+https://ythls.onrender.com/video/fruCSo_YwHs.m3u8
 
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/ytc/AOPolaTrx-uRv4bvOSDOAcfZCXec7UnvKcUC-2h5ZIIE", T Sports
 https://ythls.onrender.com/video/k2quh6kHG8o.m3u8
