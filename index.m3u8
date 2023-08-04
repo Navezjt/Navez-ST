@@ -3480,7 +3480,7 @@ https://ythls.onrender.com/channel/UC6b6XrsNOxQiS-FdfE8-Avw.m3u8
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/ytc/AOPolaSAHWGsBJ3kEkX_p-zjgDi5swFnbtKJ-ZER5akjyA", NetInsight
 https://ythls.onrender.com/channel/UC1-ATnDVEwKT6-0aEeJ2ibA.m3u8
 
-#EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/KwpgaK5k4fop64RuDpSwROHrstRZXSftzwtENr690QsabvoXnssmob9ZzsqPlAyUTYm0JVIwRQ", NevoMusic | Uzbek Music Videos
+#EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/KwpgaK5k4fop64RuDpSwROHrstRZXSftzwtENr690QsabvoXnssmob9ZzsqPlAyUTYm0JVIwRQ", NevoMusic
 https://ythls.onrender.com/channel/UCkaUg9b9LplVoJdx1JwwyOg.m3u8
 
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/VzHCL2OA1aC8awpoCpQuYcpOdvWojbEi92ezfWuEDs7iE0kv90URc4SJne25ajioZhD_f07CgQ", NevoMusicTj
@@ -3677,9 +3677,6 @@ https://ythls.onrender.com/channel/UCLLWAXn5F415g2kNAcE_T1g.m3u8
 
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/c0_jy3lFxgDOA8Y5LwcRMNVruOX_eYntzHgTMnhSBalzNyFodysYkTGiYY0KoG4H2G7SOXc8", NTA TV  channel
 https://ythls.onrender.com/video/JPyKS97KiP4.m3u8
-
-#EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/c0_jy3lFxgDOA8Y5LwcRMNVruOX_eYntzHgTMnhSBalzNyFodysYkTGiYY0KoG4H2G7SOXc8", NTA TV  channel
-https://ythls.onrender.com/channel/UCQdSS9GSBbtSqW3oNB39KTw.m3u8
 
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/0bDxnNTKTfKFg3GYmcsrNYqtGE7n4Gx2jTEVlpF97BcOpXBUGNfe-CxUqjkc1hK36hI3RlvQyw", NTV
 https://ythls.onrender.com/channel/UC9TDTjbOjFB9jADmPhSAPsw.m3u8
@@ -5976,6 +5973,9 @@ https://ythls.onrender.com/channel/UCG6L5cIg2XZvXVksq5B9edw.m3u8
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/gHbaYfoIwjVRC-4cNIlEpsjl29aL1r5Tds1dltMUDg80CfeRyvJ4Ojfgc8Rfj3c1j3FWiOHCJ4U", Zee Kannada News
 https://ythls.onrender.com/channel/UCUSY2EZK7_2_1-wsZVbdzsQ.m3u8
 
+#EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/cmIOOd_9zU_l4dqzvg5qvjMGjNfxorCyEvqf9TeQfscNG50S10JO4NR43hjxMN8NyG72SfAwqA", Zee Malayalam News
+https://ythls.onrender.com/channel/UCka4WcizWM0WMKF-bMiYzWQ.m3u8
+
 #EXTINF:-1 group-title="News" tvg-language="Hindi" tvg-logo="https://yt3.ggpht.com/vZFILuFswtjUIU5oRCc79rxRdML5A_c-D_6AdvgAAd0hqSrJihyJFkT_CTSjYwSrHgiPAAozebY", Zee News
 https://ythls.onrender.com/channel/UCIvaYmXn910QMdemBG3v1pQ.m3u8
 
@@ -6110,6 +6110,9 @@ https://ythls.onrender.com/video/47k36yRqqD0.m3u8
 
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/DQ608hy7KentuCIhC2ZMgXeBwaiH-gyP9nfdB9bArL2kJNfEfn9WICG90r_CZWGOk6ihHU3fm1s", Телеканал Конкурент TV - новини Луцька та Волині
 https://ythls.onrender.com/channel/UC7eTa1b57wOoboFKH2hVdMQ.m3u8
+
+#EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/c0_jy3lFxgDOA8Y5LwcRMNVruOX_eYntzHgTMnhSBalzNyFodysYkTGiYY0KoG4H2G7SOXc8", Телеканал НТА
+https://ythls.onrender.com/channel/UCQdSS9GSBbtSqW3oNB39KTw.m3u8
 
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/LOAjtAl31lDNGQ92qqk9RYUR9H3Xj-EGr7pxRTUsOclP94brCKaiFcQLB7fMxFQJTcFVLEtXBQ", Телеканал Прямий
 https://ythls.onrender.com/channel/UCH9H_b9oJtSHBovh94yB5HA.m3u8
