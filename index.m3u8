@@ -1788,7 +1788,7 @@ https://ythls.onrender.com/channel/UCNq5APn4lVabRaYCnTxiNIg.m3u8
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/ytc/AOPolaTuPGluhx0V49RqTBYiEk9R1f4oMgmkQKaR85Efsw", Espace TV Guinée
 https://ythls.onrender.com/channel/UCMsFKwxfosayYR73hhFyf2Q.m3u8
 
-#EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/kR01XImRexdf-09F2P2XwmAQt4JtLrMDop9Un3zx1QPSUFmVnSjIUmMgWmCZJ7e-wDu3XWfhLw", Espreso
+#EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/kR01XImRexdf-09F2P2XwmAQt4JtLrMDop9Un3zx1QPSUFmVnSjIUmMgWmCZJ7e-wDu3XWfhLw", Espreso.TV
 https://ythls.onrender.com/channel/UCMEiyV8N2J93GdPNltPYM6w.m3u8
 
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/kR01XImRexdf-09F2P2XwmAQt4JtLrMDop9Un3zx1QPSUFmVnSjIUmMgWmCZJ7e-wDu3XWfhLw", Espreso.TV
@@ -1814,6 +1814,9 @@ https://ythls.onrender.com/video/IN9OA5VmvTo.m3u8
 
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/3eMz2ePLhVmre6X5oA_2Q6WOmYYW4xMaD2czPYtXC79JlK-sSAFJ7hiWp9Kx1cH7YMWmJi9Xw80", ETV Telangana
 https://ythls.onrender.com/channel/UC6ickpgDIsltU_-8CbZaksQ.m3u8
+
+#EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/ytc/AOPolaSyfB2WsZCgUxafGXRoT16DCMhJ0AMvEzlVxYsl", Eugen Ungureanu
+https://ythls.onrender.com/video/pD30yL5rdUs.1.m3u8
 
 #EXTINF:-1 group-title="News" tvg-language="English" tvg-logo="https://yt3.ggpht.com/t3slq37NYJRuP2UoEZDoPKyMClKyQULG8-j2DEfzL1XXcBvFpR6z6HD7rtc0wDn8Mqt0OtpU", euronews
 https://ythls.onrender.com/channel/UCSrZ3UV4jOidv8ppoVuvW9Q.m3u8
@@ -4497,7 +4500,7 @@ https://ythls.onrender.com/channel/UCkkqXUQYUT0pC8RjZpfTZCQ.m3u8
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/V_c5N2sfwnnGQbd8RQ8zyVvJJR-PSvzqLI4I49H4MOk6oWbOt48IF221wltQll4YMWzEpH_Lvw", SA Webcams
 https://ythls.onrender.com/video/HlimPykEcfU.m3u8
 
-#EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/fJzqC4rfW_QQQkMVo1c6kNp80xgqd-bI5rUE3U2SqcZmMDnEsTjRosVpxG1axnDHifcpWKSB", Saam TV
+#EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/fJzqC4rfW_QQQkMVo1c6kNp80xgqd-bI5rUE3U2SqcZmMDnEsTjRosVpxG1axnDHifcpWKSB", Saam TV News
 https://ythls.onrender.com/channel/UC6cxTsUnfSZrj96KNHhRTHQ.m3u8
 
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/OaVYLe4EtJPMjEqZYs9_2yioVZCOh6Zqk2s1zNxz8qELc-5UIQYo4rGuEBg9FrMGf_pe8TeYZw", SAB TV Pakistan
