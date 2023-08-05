@@ -3705,6 +3705,9 @@ https://ythls.onrender.com/channel/UCLLWAXn5F415g2kNAcE_T1g.m3u8
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/c0_jy3lFxgDOA8Y5LwcRMNVruOX_eYntzHgTMnhSBalzNyFodysYkTGiYY0KoG4H2G7SOXc8", NTA TV  channel
 https://ythls.onrender.com/video/JPyKS97KiP4.m3u8
 
+#EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/c0_jy3lFxgDOA8Y5LwcRMNVruOX_eYntzHgTMnhSBalzNyFodysYkTGiYY0KoG4H2G7SOXc8", NTA TV  channel
+https://ythls.onrender.com/channel/UCQdSS9GSBbtSqW3oNB39KTw.m3u8
+
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/0bDxnNTKTfKFg3GYmcsrNYqtGE7n4Gx2jTEVlpF97BcOpXBUGNfe-CxUqjkc1hK36hI3RlvQyw", NTV
 https://ythls.onrender.com/channel/UC9TDTjbOjFB9jADmPhSAPsw.m3u8
 
@@ -5191,9 +5194,6 @@ https://ythls.onrender.com/video/9PYFL6OsrZI.m3u8
 https://ythls.onrender.com/channel/UCxRmRUB3kX-X-_9YsNFhq3g.m3u8
 
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/ytc/AOPolaQVrNNdWQ0anRpT0A6H85mtuo7hXL3Dq4SeUZOe8A", The official channel of KSA Qur’an TV 
-https://ythls.onrender.com/channel/UCos52azQNBgW63_9uDJoPDA.m3u8
-
-#EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/ytc/AOPolaQVrNNdWQ0anRpT0A6H85mtuo7hXL3Dq4SeUZOe8A", The official channel of KSA Qur’an TV 
 https://ythls.onrender.com/video/3loPeQnJKk4.m3u8
 
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/ytc/AGIKgqMqrsXb4TFXOqj6bQI1dy5FfBIphhPGM5esa0uy", The Real Samui Webcam
@@ -6156,9 +6156,6 @@ https://ythls.onrender.com/video/47k36yRqqD0.m3u8
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/DQ608hy7KentuCIhC2ZMgXeBwaiH-gyP9nfdB9bArL2kJNfEfn9WICG90r_CZWGOk6ihHU3fm1s", Телеканал Конкурент TV - новини Луцька та Волині
 https://ythls.onrender.com/channel/UC7eTa1b57wOoboFKH2hVdMQ.m3u8
 
-#EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/c0_jy3lFxgDOA8Y5LwcRMNVruOX_eYntzHgTMnhSBalzNyFodysYkTGiYY0KoG4H2G7SOXc8", Телеканал НТА
-https://ythls.onrender.com/channel/UCQdSS9GSBbtSqW3oNB39KTw.m3u8
-
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/LOAjtAl31lDNGQ92qqk9RYUR9H3Xj-EGr7pxRTUsOclP94brCKaiFcQLB7fMxFQJTcFVLEtXBQ", Телеканал Прямий
 https://ythls.onrender.com/channel/UCH9H_b9oJtSHBovh94yB5HA.m3u8
 
@@ -6275,6 +6272,9 @@ https://ythls.onrender.com/video/EB0Y1ztWnic.m3u8
 
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/ytc/AOPolaTuv8Wa35Zhv7rSjILH7OZp9Hh8iNmpITx7oEmLNA", قناة العراقية الرياضية
 https://ythls.onrender.com/channel/UCZ8zJO04KF6RD2VqZaWFkxg.m3u8
+
+#EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/ytc/AOPolaQVrNNdWQ0anRpT0A6H85mtuo7hXL3Dq4SeUZOe8A", قناة القران الكريم
+https://ythls.onrender.com/channel/UCos52azQNBgW63_9uDJoPDA.m3u8
 
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/Lr4TgcA9J_-a6EhagyZtHYUuF9pspoo_OgFZvALPLBL987AUv_qtIKykimLnaQtQRnbhkVS81Vs", قناة الموريتانية Télévision de Mauritanie
 https://ythls.onrender.com/channel/UCK3909NQ9meg2KDYKF51Kmg.m3u8
