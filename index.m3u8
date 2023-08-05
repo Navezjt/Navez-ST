@@ -1326,6 +1326,9 @@ https://ythls.onrender.com/channel/UCT7KFGv6s2a-rh2Jq8ZdM1g.m3u8
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/i213N_VQVyD9cIhh1zRP9OFW60ege6nchMkw4SzEiy6YznGacsKto8GKsFoye12LcV4pskI__w", Crónica TV
 https://ythls.onrender.com/video/avly0uwZzOE.m3u8
 
+#EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/ytc/AOPolaQmQEaRzOiIXNf1CEScdQrqMG8mC8pkgL8VAWTkUg", CTITV NEWS
+https://ythls.onrender.com/channel/UCpu3bemTQwAU8PqM4kJdoEQ.m3u8
+
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/gVPH10OJiEVByluEQ53pKohXpKbsi64Roi4sjM3u2miyUNuqYTAVzTYfkUv682Flh6UbPCgj", CTVN AKD PLUS
 https://ythls.onrender.com/channel/UC1UOne4B9wIrMe0KMwe-7_g.m3u8
 
@@ -1782,7 +1785,7 @@ https://ythls.onrender.com/channel/UCNq5APn4lVabRaYCnTxiNIg.m3u8
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/ytc/AOPolaTuPGluhx0V49RqTBYiEk9R1f4oMgmkQKaR85Efsw", Espace TV Guinée
 https://ythls.onrender.com/channel/UCMsFKwxfosayYR73hhFyf2Q.m3u8
 
-#EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/kR01XImRexdf-09F2P2XwmAQt4JtLrMDop9Un3zx1QPSUFmVnSjIUmMgWmCZJ7e-wDu3XWfhLw", Espreso.TV
+#EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/kR01XImRexdf-09F2P2XwmAQt4JtLrMDop9Un3zx1QPSUFmVnSjIUmMgWmCZJ7e-wDu3XWfhLw", Espreso
 https://ythls.onrender.com/channel/UCMEiyV8N2J93GdPNltPYM6w.m3u8
 
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/kR01XImRexdf-09F2P2XwmAQt4JtLrMDop9Un3zx1QPSUFmVnSjIUmMgWmCZJ7e-wDu3XWfhLw", Espreso.TV
@@ -3510,7 +3513,7 @@ https://ythls.onrender.com/channel/UC6b6XrsNOxQiS-FdfE8-Avw.m3u8
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/ytc/AOPolaSAHWGsBJ3kEkX_p-zjgDi5swFnbtKJ-ZER5akjyA", NetInsight
 https://ythls.onrender.com/channel/UC1-ATnDVEwKT6-0aEeJ2ibA.m3u8
 
-#EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/KwpgaK5k4fop64RuDpSwROHrstRZXSftzwtENr690QsabvoXnssmob9ZzsqPlAyUTYm0JVIwRQ", NevoMusic
+#EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/KwpgaK5k4fop64RuDpSwROHrstRZXSftzwtENr690QsabvoXnssmob9ZzsqPlAyUTYm0JVIwRQ", NevoMusic | Uzbek Music Videos
 https://ythls.onrender.com/channel/UCkaUg9b9LplVoJdx1JwwyOg.m3u8
 
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/VzHCL2OA1aC8awpoCpQuYcpOdvWojbEi92ezfWuEDs7iE0kv90URc4SJne25ajioZhD_f07CgQ", NevoMusicTj
@@ -3843,11 +3846,11 @@ https://ythls.onrender.com/video/T4bKX9tChxY.m3u8
 #EXTINF:-1 group-title="Music" tvg-language="Hindi" tvg-logo="https://yt3.ggpht.com/ytc/AGIKgqNF_SEbYLXsyaAFiO00xcaA4zaPn3sLBNng5lSo", PartyMix
 https://ythls.onrender.com/channel/UC4zvcd2F0UebXfG4LfygTmQ.m3u8
 
-#EXTINF:-1 group-title="Kids" tvg-language="English" tvg-logo="https://yt3.ggpht.com/M4X3Lb_NoSlwZ4WeLA4ke1VuoVnlr1_B550AN-paj1zAByZ_6_mSfAW5ZISu1vomEKiVp36opA4", PAW Patrol
-https://ythls.onrender.com/channel/UCSVSJ1OCSv5ClFgKFTHIDew.m3u8
-
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/fXAnfbXdv7xQxCRYxuSpAsR1o2dvC3NCY22mftXtWhTZeYeJNuAlj01lnr71n4KknmXjg6Q-d4o", PAW Patrol en Español
 https://ythls.onrender.com/channel/UCJNBZaQWMIHACqvHT_k2cWw.m3u8
+
+#EXTINF:-1 group-title="Kids" tvg-language="English" tvg-logo="https://yt3.ggpht.com/d83FgJTp4AB_v1KAuNC_WXIrS2lAYslBLRKQSRB3zFW3QSzd1Pn2NMMlKW0I-0f2qL1HNsk0", PAW Patrol Official \u0026 Friends
+https://ythls.onrender.com/channel/UCSVSJ1OCSv5ClFgKFTHIDew.m3u8
 
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/o4-R578DS3IOc6CCuEe_DQwA3yW93Ir4DQhMZF1L6lzSB7RlDXL1nYnZmoBCA9LBdr1ZaBrNdw", PBO
 https://ythls.onrender.com/channel/UCgR0st4ZLABi-LQcWNu3wnQ.m3u8
@@ -3875,6 +3878,9 @@ https://ythls.onrender.com/channel/UCvpCjGQASCazC-Vxcp9tgPA.m3u8
 
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/_RDAsDFxbzjZGHo5CqFCjeJDu3JcIdsqr-3Csz0UJO9sCGshh1cj9dPSxLPD2qpssgmhXXIj", PEARL TV
 https://ythls.onrender.com/channel/UCp0urejlDaYz4G8xpTxdIvw.m3u8
+
+#EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/ytc/AOPolaQYezZtIp51jSy-dxXQWlykuVv_qvHVq_69KBGoaw", Peppa Pig em Português Brasil - Canal Oficial
+https://ythls.onrender.com/channel/UCvD9GB-E4q_TuMpwUtFBhLA.m3u8
 
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/ytc/AOPolaTuwlyNfW8NYq7_GTFy0uyO7bCyMKCM5NTJnITXkg", Peppa Pig Español Latino - Canal Oficial
 https://ythls.onrender.com/channel/UCrreHSUa5rnuCVDeO8dX4eA.m3u8
@@ -4482,7 +4488,7 @@ https://ythls.onrender.com/channel/UCkkqXUQYUT0pC8RjZpfTZCQ.m3u8
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/V_c5N2sfwnnGQbd8RQ8zyVvJJR-PSvzqLI4I49H4MOk6oWbOt48IF221wltQll4YMWzEpH_Lvw", SA Webcams
 https://ythls.onrender.com/video/HlimPykEcfU.m3u8
 
-#EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/fJzqC4rfW_QQQkMVo1c6kNp80xgqd-bI5rUE3U2SqcZmMDnEsTjRosVpxG1axnDHifcpWKSB", Saam TV
+#EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/fJzqC4rfW_QQQkMVo1c6kNp80xgqd-bI5rUE3U2SqcZmMDnEsTjRosVpxG1axnDHifcpWKSB", Saam TV News
 https://ythls.onrender.com/channel/UC6cxTsUnfSZrj96KNHhRTHQ.m3u8
 
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/OaVYLe4EtJPMjEqZYs9_2yioVZCOh6Zqk2s1zNxz8qELc-5UIQYo4rGuEBg9FrMGf_pe8TeYZw", SAB TV Pakistan
@@ -5087,6 +5093,9 @@ https://ythls.onrender.com/video/zBKcWIfGJZo.m3u8
 
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/ytc/AOPolaQ3ZRyEal9pCsl_cBZErwDAq1uI6NwqYylhqOuOsQ", Televisa Tijuana Oficial
 https://ythls.onrender.com/video/oBgzqbARnow.m3u8
+
+#EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/ytc/AOPolaQ3ZRyEal9pCsl_cBZErwDAq1uI6NwqYylhqOuOsQ", Televisa Tijuana Oficial
+https://ythls.onrender.com/video/M00f1DKbcoE.m3u8
 
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/WMFUH76Iz25xMcEi4nkMRLLfSS4GSotYScDX8st1D2IswLm0dE5EqiFeQVj_QmZCrVk_0Ui9", Televisa Veracruz Oficial
 https://ythls.onrender.com/channel/UC5EnLdE7ASjYzWt7wvT-QSg.m3u8
@@ -6362,9 +6371,6 @@ https://ythls.onrender.com/channel/UCoNYj9OFHZn3ACmmeRCPwbA.m3u8
 
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/ytc/AGIKgqPfvWDJQIrLydgW9t3XoK5pc4Kl6-T692uOJ2JuHA", 三立華劇 SET Drama
 https://ythls.onrender.com/video/HRwAMooYM3w.m3u8
-
-#EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/ytc/AOPolaQmQEaRzOiIXNf1CEScdQrqMG8mC8pkgL8VAWTkUg", 中天新聞
-https://ythls.onrender.com/channel/UCpu3bemTQwAU8PqM4kJdoEQ.m3u8
 
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/ytc/AOPolaT8KzCnCTuLbJFeg-pwD2o3LSXq32fpDEHkL19Dkg", 中天電視
 https://ythls.onrender.com/channel/UC5l1Yto5oOIgRXlI4p4VKbw.m3u8
