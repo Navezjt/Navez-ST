@@ -1872,7 +1872,7 @@ https://ythls.onrender.com/video/lFvCpvAI1Kw.m3u8
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/ytc/AOPolaTuPGluhx0V49RqTBYiEk9R1f4oMgmkQKaR85Efsw", Espace TV Guinée
 https://ythls.onrender.com/channel/UCMsFKwxfosayYR73hhFyf2Q.m3u8
 
-#EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/kR01XImRexdf-09F2P2XwmAQt4JtLrMDop9Un3zx1QPSUFmVnSjIUmMgWmCZJ7e-wDu3XWfhLw", Espreso.TV
+#EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/kR01XImRexdf-09F2P2XwmAQt4JtLrMDop9Un3zx1QPSUFmVnSjIUmMgWmCZJ7e-wDu3XWfhLw", Espreso
 https://ythls.onrender.com/channel/UCMEiyV8N2J93GdPNltPYM6w.m3u8
 
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/kR01XImRexdf-09F2P2XwmAQt4JtLrMDop9Un3zx1QPSUFmVnSjIUmMgWmCZJ7e-wDu3XWfhLw", Espreso.TV
@@ -1952,6 +1952,9 @@ https://ythls.onrender.com/video/Kcj-kWHiD8M.m3u8
 
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/VG-hWBSY602L8iSO2Q8_OVn5dhF1oU4BXxefzHt1LroWit79aJ8kEYqG6zGqf6UuUP3w8npd", Euronews по-русски
 https://ythls.onrender.com/channel/UCFzJjgVicCtFxJ5B0P_ei8A.m3u8
+
+#EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/VG-hWBSY602L8iSO2Q8_OVn5dhF1oU4BXxefzHt1LroWit79aJ8kEYqG6zGqf6UuUP3w8npd", Euronews по-русски
+https://ythls.onrender.com/video/lwYzwdBiaho.m3u8
 
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/gnGJqh7iQPl66irKn3xdT9BDv2K7LOPMFghqL0MHQKk5XjmK-nD9r7CrdYcIEWFmSC0rlr_a", European Space Agency, ESA
 https://ythls.onrender.com/channel/UCIBaDdAbGlFDeS33shmlD0A.m3u8
@@ -4706,6 +4709,9 @@ https://ythls.onrender.com/channel/UCEYLn1gbYN-Z1XKTXOGMcvA.m3u8
 
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/leAOreCRVc6ptdgaUGEzEF289qu1wP7XNQYLe5pcaQr-MUf8gZfaC7iuq3_N_0pIf2-L4vRI", Sagarmatha TV
 https://ythls.onrender.com/channel/UCR0sb6TDx2vY0DGsLlDr5BA.m3u8
+
+#EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/j7tlPXDP3VfsGJUBxY9Dh0BJDkr2n_eDUH_YW-ThHeYUEBnZT-m3gOKKWH0WO-dEEN-t0Q0DQw", Saint Lucia Government
+https://ythls.onrender.com/channel/UC4al3A_gysYEIzAM1L2qZbg.m3u8
 
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/nBmVaILJGh-_4VCJgjRpOSgciWTMgf3A2-xdR4ORzs4mHXXL5sa298IQA9vL-3pxsvZvsF67nQ", Sakshi TV Live
 https://ythls.onrender.com/channel/UCQ_FATLW83q-4xJ2fsi8qAw.m3u8
