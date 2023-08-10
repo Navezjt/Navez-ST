@@ -3687,7 +3687,7 @@ https://ythls.onrender.com/channel/UC6b6XrsNOxQiS-FdfE8-Avw.m3u8
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/ytc/AOPolaSAHWGsBJ3kEkX_p-zjgDi5swFnbtKJ-ZER5akjyA", NetInsight
 https://ythls.onrender.com/channel/UC1-ATnDVEwKT6-0aEeJ2ibA.m3u8
 
-#EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/KwpgaK5k4fop64RuDpSwROHrstRZXSftzwtENr690QsabvoXnssmob9ZzsqPlAyUTYm0JVIwRQ", NevoMusic
+#EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/KwpgaK5k4fop64RuDpSwROHrstRZXSftzwtENr690QsabvoXnssmob9ZzsqPlAyUTYm0JVIwRQ", NevoMusic | Uzbek Music Videos
 https://ythls.onrender.com/channel/UCkaUg9b9LplVoJdx1JwwyOg.m3u8
 
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/VzHCL2OA1aC8awpoCpQuYcpOdvWojbEi92ezfWuEDs7iE0kv90URc4SJne25ajioZhD_f07CgQ", NevoMusicTj
@@ -3896,6 +3896,9 @@ https://ythls.onrender.com/channel/UCLLWAXn5F415g2kNAcE_T1g.m3u8
 
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/c0_jy3lFxgDOA8Y5LwcRMNVruOX_eYntzHgTMnhSBalzNyFodysYkTGiYY0KoG4H2G7SOXc8", NTA TV  channel
 https://ythls.onrender.com/video/JPyKS97KiP4.m3u8
+
+#EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/c0_jy3lFxgDOA8Y5LwcRMNVruOX_eYntzHgTMnhSBalzNyFodysYkTGiYY0KoG4H2G7SOXc8", NTA TV  channel
+https://ythls.onrender.com/channel/UCQdSS9GSBbtSqW3oNB39KTw.m3u8
 
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/ytc/AOPolaTpRqLKgGj4mlgebl9M7v0vJRYcwpUrbRZw2oAr67E", NTN24
 https://ythls.onrender.com/channel/UCEJs1fTF3KszRJGxJY14VrA.m3u8
@@ -4187,6 +4190,9 @@ https://ythls.onrender.com/video/9muFp07DRhc.m3u8
 
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/W5cLN3UUH2bEHM8Q3t-h9G1vN5HY7J8fcqH0e-350RrMEtKF_vFNa4ZB4UJSQWZCFGz8OLKd-g", Prime9 News
 https://ythls.onrender.com/channel/UCLTZ5y21NnklrxpU5AfWd8w.m3u8
+
+#EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/W5cLN3UUH2bEHM8Q3t-h9G1vN5HY7J8fcqH0e-350RrMEtKF_vFNa4ZB4UJSQWZCFGz8OLKd-g", Prime9 News
+https://ythls.onrender.com/video/4PpS_RGUzfQ.m3u8
 
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/bnH4YA_eiPsuV9ydC6blOlXSPAXxNXgfPJzpESXv720Ce2182CneHFdjvjP2YM0F5ZwKt05XWk4", Prière Midi Pasteur Carlos
 https://ythls.onrender.com/channel/UCBxkIrtn2x0YkB72FAz3t5A.m3u8
@@ -6533,9 +6539,6 @@ https://ythls.onrender.com/video/47k36yRqqD0.m3u8
 
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/DQ608hy7KentuCIhC2ZMgXeBwaiH-gyP9nfdB9bArL2kJNfEfn9WICG90r_CZWGOk6ihHU3fm1s", Телеканал Конкурент TV - новини Луцька та Волині
 https://ythls.onrender.com/channel/UC7eTa1b57wOoboFKH2hVdMQ.m3u8
-
-#EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/c0_jy3lFxgDOA8Y5LwcRMNVruOX_eYntzHgTMnhSBalzNyFodysYkTGiYY0KoG4H2G7SOXc8", Телеканал НТА
-https://ythls.onrender.com/channel/UCQdSS9GSBbtSqW3oNB39KTw.m3u8
 
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/LOAjtAl31lDNGQ92qqk9RYUR9H3Xj-EGr7pxRTUsOclP94brCKaiFcQLB7fMxFQJTcFVLEtXBQ", Телеканал Прямий
 https://ythls.onrender.com/channel/UCH9H_b9oJtSHBovh94yB5HA.m3u8
