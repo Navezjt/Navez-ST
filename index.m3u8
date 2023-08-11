@@ -1185,9 +1185,6 @@ https://ythls.onrender.com/video/Qlk9HhuM0ZU.m3u8
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/ytc/AGIKgqNxCCncRf6ZzK7vYQWqo4jghOKzVEc78Vg8F3mwQA", Cat Trumpet
 https://ythls.onrender.com/channel/UCI-Ho-GaKYbtMzXJWmWAsrg.m3u8
 
-#EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/EAmRmQT4t4Rq0griNo4n8dxA1Q5ucvWDqaDj0QrbVmQh8Ceol6fJfi48zOJQR34zr_HnweMlfjI", Catholic Media Network
-https://ythls.onrender.com/channel/UCnPwQV0-W7S02i_omPEpJBg.m3u8
-
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/ytc/AOPolaRMmBPvbbAVugkBP1orkPNUM83jgExWyi3aB0qo", Cats Family en Français
 https://ythls.onrender.com/channel/UCil6uAMf2IXD1SkiwZq3xhw.m3u8
 
@@ -4575,6 +4572,9 @@ https://ythls.onrender.com/video/oIA8Z_IWm2E.m3u8
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/xoqgjnZ9Wd8-cPvKryCyTcfeaT7K3rZtQxCJHhcbICXoVvw7x3hYcQ0S02kzvdmsqwq-Fgnt", Record News
 https://ythls.onrender.com/video/G7yGdmojzEw.m3u8
 
+#EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/EAmRmQT4t4Rq0griNo4n8dxA1Q5ucvWDqaDj0QrbVmQh8Ceol6fJfi48zOJQR34zr_HnweMlfjI", RED CATÓLICA DE MEDIOS
+https://ythls.onrender.com/channel/UCnPwQV0-W7S02i_omPEpJBg.m3u8
+
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/ytc/AOPolaTVzElJK1SX0qRyxnw219HjEQRCMegQjUXd59qz-9w_rGdOJ0gUX9pkFWymr9KO", Redactie A7tv
 https://ythls.onrender.com/channel/UCWZxOfINa92_vDXXsHZygKA.m3u8
 
@@ -4704,7 +4704,7 @@ https://ythls.onrender.com/channel/UCi-aUVwZR5U8GBNOy0CC4ww.m3u8
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/v615TP1tq1S6p9tZim04BcoOpsBatarJcvrd_p6ojwRopexC6YYLzSBGU_WQAa520E-b0gFpwA", RTVCNEWS
 https://ythls.onrender.com/channel/UCnqKf9_wLjDXyhW9EZvodpw.m3u8
 
-#EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/ytc/AGIKgqNE6heOUyE2xZfK9O13AIp9VWQt6dnr1M9VcDIkYA", RTVE Noticias
+#EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/ytc/AOPolaQlgc9h88v2v8Z2RAVpH87z-woQuhoN5xAsFworAA", RTVE Noticias
 https://ythls.onrender.com/video/xR-4NDFsYNk.m3u8
 
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/ytc/AOPolaQlgc9h88v2v8Z2RAVpH87z-woQuhoN5xAsFworAA", RTVE Noticias
