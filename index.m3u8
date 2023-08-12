@@ -252,11 +252,11 @@ https://ythls.onrender.com/channel/UCBvv5xYXNHa5XjecBC2-odA.m3u8
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/ytc/AOPolaQq-gaALVS2IxKcgHTrXy1UHSRFNqJMkoKtbrgN", ABC7 SWFL
 https://ythls.onrender.com/channel/UCq9e_hCv2jvgck8WowW1NXg.m3u8
 
-#EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/pdmhb8Gtl4gvB8HdC8Na3mChnujTTMl5ghy41wx7Olhn00qgeIJOl7FjF9RQ9hJNyQ5b9PU0", ABCテレビニュース
-https://ythls.onrender.com/video/EqdxY34Y6LA.m3u8
+#EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/pdmhb8Gtl4gvB8HdC8Na3mChnujTTMl5ghy41wx7Olhn00qgeIJOl7FjF9RQ9hJNyQ5b9PU0", ABCTVnews
+https://ythls.onrender.com/channel/UCPW-5qfYGNR8XYrvESrqJKA.m3u8
 
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/pdmhb8Gtl4gvB8HdC8Na3mChnujTTMl5ghy41wx7Olhn00qgeIJOl7FjF9RQ9hJNyQ5b9PU0", ABCテレビニュース
-https://ythls.onrender.com/channel/UCPW-5qfYGNR8XYrvESrqJKA.m3u8
+https://ythls.onrender.com/video/EqdxY34Y6LA.m3u8
 
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/xLfD0MEsY-OM2Adud-KYaa3corga0dmHs2vahrBqCNFUPJq4pPYVO1W0xO_PQABCunuCxL6SJA", ABN Telugu 
 https://ythls.onrender.com/video/Q-nSNssz3p0.m3u8
@@ -957,7 +957,7 @@ https://ythls.onrender.com/video/6JQSpJjORvY.m3u8
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/2f1RU8ogcIDHFAe6UkIKCl-nQNOgLoNz0bAzBrFpfhAj2C3CVcFU3MRHrIKaqYmHeqLqdFeyxLg", Booba - Trickfilm für Kinder
 https://ythls.onrender.com/video/k3Tz3LsZ1bw.m3u8
 
-#EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/2f1RU8ogcIDHFAe6UkIKCl-nQNOgLoNz0bAzBrFpfhAj2C3CVcFU3MRHrIKaqYmHeqLqdFeyxLg", Booba – Cartoon for Kids
+#EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/2f1RU8ogcIDHFAe6UkIKCl-nQNOgLoNz0bAzBrFpfhAj2C3CVcFU3MRHrIKaqYmHeqLqdFeyxLg", Booba - Trickfilm für Kinder
 https://ythls.onrender.com/channel/UCKS1HX4moHCcDBZnM9k4giw.m3u8
 
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/2f1RU8ogcIDHFAe6UkIKCl-nQNOgLoNz0bAzBrFpfhAj2C3CVcFU3MRHrIKaqYmHeqLqdFeyxLg", Booba – Cartoon for Kids
@@ -1421,6 +1421,9 @@ https://ythls.onrender.com/channel/UCu7IDy0y-ZA0qaG51wrQY6w.m3u8
 
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/DaV-yEdy-cBqcyEHcrjzkYbJxUBuLGJgFD1v6DSkX-FI8gclofHf4HtJ0pv_nCVol0jut4_UPw", Current Time
 https://ythls.onrender.com/video/HHgksyoQxAs.m3u8
+
+#EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/DaV-yEdy-cBqcyEHcrjzkYbJxUBuLGJgFD1v6DSkX-FI8gclofHf4HtJ0pv_nCVol0jut4_UPw", Current Time
+https://ythls.onrender.com/video/t9Ilev-uk4w&ab.m3u8
 
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/ytc/AOPolaQTNjvP_JaFyZu0vvknaGGFD6TGQ_5DcXw4iW45fw", Cutlery Corner Network
 https://ythls.onrender.com/channel/UCj3dt20MAZcvDN8GKeT2FBg.m3u8
@@ -1917,7 +1920,7 @@ https://ythls.onrender.com/video/lFvCpvAI1Kw.m3u8
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/ytc/AOPolaTuPGluhx0V49RqTBYiEk9R1f4oMgmkQKaR85Efsw", Espace TV Guinée
 https://ythls.onrender.com/channel/UCMsFKwxfosayYR73hhFyf2Q.m3u8
 
-#EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/kR01XImRexdf-09F2P2XwmAQt4JtLrMDop9Un3zx1QPSUFmVnSjIUmMgWmCZJ7e-wDu3XWfhLw", Espreso
+#EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/kR01XImRexdf-09F2P2XwmAQt4JtLrMDop9Un3zx1QPSUFmVnSjIUmMgWmCZJ7e-wDu3XWfhLw", Espreso.TV
 https://ythls.onrender.com/channel/UCMEiyV8N2J93GdPNltPYM6w.m3u8
 
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/kR01XImRexdf-09F2P2XwmAQt4JtLrMDop9Un3zx1QPSUFmVnSjIUmMgWmCZJ7e-wDu3XWfhLw", Espreso.TV
@@ -2709,7 +2712,7 @@ https://ythls.onrender.com/video/cH7VBI4QQzA.m3u8
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/WN48s9Pyjafbyc4cLB8IkQg0mxmES5XMN4b6hRT3nw0eCPPeddYTPjZoincegM1ZLMUOQJaikPg", JAPAN 4K
 https://ythls.onrender.com/channel/UCZ0fkEaTm106vBdvd4PK_sA.m3u8
 
-#EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/IaU2imQggjQ1oAAGktL-8eRb0tqGq-8UZwixDl5nwO1EqUOSDjPOZr8ioQrabzvkcob0M3AXkHc", JAPAN NEWS NIIGATA
+#EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/uxFYyO107Bv7FK7fq9IXh9Marf_tqrXaTin1D8gGT1Z0ladRssiXm497wQh5Nr6KbdegwKO-9Q", JAPAN NEWS NIIGATA
 https://ythls.onrender.com/channel/UC8iN-WKPu820ve-4t9NxHRw.m3u8
 
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/ytc/AOPolaRiK4gSKl-URiGBg-6__iGb-irBIrkmyBz8fcmV", Jasna Góra Klasztor Ojców Paulinów
@@ -3081,6 +3084,9 @@ https://ythls.onrender.com/channel/UCUN9iEw-XPMO0jHurtX_cwA.m3u8
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/bO5UslDOm-gYoVZ9n1ZpfPPMmwyxSnyCAKY9b19JJR0Uh5E4BFJ14NsxqLG-u1VAGN3TZTfbIQ", Lakshya TV
 https://ythls.onrender.com/channel/UC3H3M6_W0RTNr-i2sjvr_aA.m3u8
 
+#EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/Tj9_C_kTrSvO9HgeNLOh_T0mU27uiuxRa8HTtgvnBhnyzMd0QoBd1ffRGPp26WpJJIRrQ-lA", LakshyaTV Live
+https://ythls.onrender.com/video/QV_zKukIDmU.m3u8
+
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/xlPDUyHlO9RHr9wqzgwQQnPSgjo4Lb8FzBORFnQBZi8-6V7a9SZCCyV08e73-FpRjBPnXQ1Q", LanzaroteWebcam
 https://ythls.onrender.com/channel/UCUaLy1_4rsLo4HyCLCPlD4g.m3u8
 
@@ -3347,6 +3353,9 @@ https://ythls.onrender.com/video/q-Wv4Pvt-5A.m3u8
 
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/ytc/AOPolaT5LWfEumJ4sdIxsGXGamIv4hyU1oIa2KkaLES3Ow", MBCNEWS
 https://ythls.onrender.com/channel/UCF4Wxdo3inmxP-Y59wXDsFw.m3u8
+
+#EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/BpY8Ub7K4qvUQjc-KmXuluH6vQzJssZDXWse0zesaSQeUDdPz4NqbltOws3zz5rUGOlyo1U6ew", MBS-NEWS
+https://ythls.onrender.com/channel/UCkKJhKO73xF1pK5h9R82ZGQ.m3u8
 
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/QM4UUCxg-_7_wOXirNp8s8HgHZVH1Y6sVFmewn5Icq-VEnBelif3v4qi4-KSIh6qqX-w-hPjMA", MCGI Channel
 https://ythls.onrender.com/video/pH668wDRADU.m3u8
@@ -4698,6 +4707,9 @@ https://ythls.onrender.com/video/3BScAGyCGi4.m3u8
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/F0Kp2u2IJBTmsqltRjB4PuEaRF0ARlB3FyFcnuW8Fg7rDXYSfI1e2MF2lZIJkM6RAGuUYIgmtw", RKB毎日放送NEWS
 https://ythls.onrender.com/video/l_iHnUKGkCk.m3u8
 
+#EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/F0Kp2u2IJBTmsqltRjB4PuEaRF0ARlB3FyFcnuW8Fg7rDXYSfI1e2MF2lZIJkM6RAGuUYIgmtw", RKB毎日放送NEWS
+https://ythls.onrender.com/channel/UCgrmHAblzN-QzMMgl2oNRog.m3u8
+
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/ytc/AOPolaQL6olHPh01cvQN71c3oysXpHyaVZQpx3jocfZ3Hw", Robbani TV
 https://ythls.onrender.com/video/Ry-vXigMQfI.m3u8
 
@@ -5142,6 +5154,9 @@ https://ythls.onrender.com/video/qZFzSuW6gOE.m3u8
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/ytc/AGIKgqNHnKvJ2ooE-5plFjl_sp-rhl1iSEztY1JBlCBx", STVニュース北海道
 https://ythls.onrender.com/video/lut3eG59HJQ.m3u8
 
+#EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/ytc/AOPolaRGBNJapeJoMsDJAPFbFsZ2JcZo-EDcwJlcv0q4", STVニュース北海道
+https://ythls.onrender.com/channel/UCOZv-6MiXqJdLpmYtR431Ow.m3u8
+
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/88tFkCliPQbnuSDQ2hsvvR6Bi7JI6JGjaftVaW1Zd_L5B9P41QqdLTTgpbNQkyayZKXngVj7EQ", Such News
 https://ythls.onrender.com/channel/UCyNUtOyKbLZaOgy3rhe_3lQ.m3u8
 
@@ -5549,6 +5564,9 @@ https://ythls.onrender.com/channel/UC-JFyL0zDFOsPMpuWu39rPA.m3u8
 
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/ytc/AOPolaQiZ1t723LEW4hdTh9nSugYAWVCdSIwIvKH4CmcLtU", Thanthi TV
 https://ythls.onrender.com/video/FeweQREkl44.m3u8
+
+#EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/ORToHzPUdRmSzWY7H4tjZ3LE913yVg09JejWYWHS-oNKboDrMglaJFrloYSgPVXZ0rqY1vQmXQ", The Asahi Shimbun Company
+https://ythls.onrender.com/channel/UCMKvT0YVLufHMdGLH89J1oA.m3u8
 
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/ytc/AGIKgqMxS219SXmMozxUfEWR9N7nE5c6__aG5wwdCuub", The Beach Channel
 https://ythls.onrender.com/channel/UC4DGdCCp03yi6AWp2sO_r1g.m3u8
@@ -6810,6 +6828,9 @@ https://ythls.onrender.com/channel/UCjeJcwvOUi4XZpM4J9bm74A.m3u8
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/qgEu_5bsC8PYrtd8fUyC2jFz5l5jPTo2vfsewNg-aQMqYAG1HeRfeDUKYFEo6FSKzTs32jlE", 【公式】HOME広島ニュース
 https://ythls.onrender.com/video/HCdknTdMfd8.m3u8
 
+#EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/qgEu_5bsC8PYrtd8fUyC2jFz5l5jPTo2vfsewNg-aQMqYAG1HeRfeDUKYFEo6FSKzTs32jlE", 【公式】HOME広島ニュース
+https://ythls.onrender.com/channel/UCRnFGOp_mjaCYEhMzsE2iHA.m3u8
+
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/ytc/AGIKgqPxZoCQ7xUtiU8-sjYI_YqHxTItaqCt9DXHoE4aeA", 【琉球放送】RBC NEWS
 https://ythls.onrender.com/channel/UCl27leged0PT2kIrRtrFYKA.m3u8
 
@@ -6831,6 +6852,9 @@ https://ythls.onrender.com/video/oZdzzvxTfUY.m3u8
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/ytc/AGIKgqPfvWDJQIrLydgW9t3XoK5pc4Kl6-T692uOJ2JuHA", 三立華劇 SET Drama
 https://ythls.onrender.com/video/HRwAMooYM3w.m3u8
 
+#EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/Qb7frcPv6WErITnMbe_iefNtf2olw4gcB4WNt99Y2ngPfpZkfXcP7lTwVQP2gQcTtY1IFKjkqg", 中京テレビNEWS
+https://ythls.onrender.com/channel/UCxiRdfyH0FtFCRZTRfRsdsA.m3u8
+
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/ytc/AOPolaT8KzCnCTuLbJFeg-pwD2o3LSXq32fpDEHkL19Dkg", 中天電視
 https://ythls.onrender.com/channel/UC5l1Yto5oOIgRXlI4p4VKbw.m3u8
 
@@ -6849,7 +6873,7 @@ https://ythls.onrender.com/video/ADDSmXoPDY8.m3u8
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/WXzOispxdJPZIyQmbjRJ3ufL6hEJV7kN0uKpYG_VchBBzNoyzQ_7fLJKMW6wejG0aJLIti6ui2s", 公視 網路直播頻道
 https://ythls.onrender.com/video/H-fLVglS8Z0.m3u8
 
-#EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/ytc/AGIKgqMlng4ko8nTsr6XlAWpvt2a8KDN343eW-lZ0uADSA", 北海道ニュースUHB
+#EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/ytc/AOPolaQSzSMo24GJNhGiEtcGOoqSxJAnwGGrQSIUnXclQA", 北海道ニュースUHB
 https://ythls.onrender.com/channel/UCpQs_warGhUzJhBdwLfF34g.m3u8
 
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/ytc/AGIKgqMlng4ko8nTsr6XlAWpvt2a8KDN343eW-lZ0uADSA", 北海道ニュースUHB
@@ -6963,6 +6987,9 @@ https://ythls.onrender.com/video/bHRaXxyvgU0.m3u8
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/ytc/AGIKgqPszbFyhr23XnhHIr0Rj2ks-YIeUAR8fy7tUYHK", 福岡・佐賀 KBC NEWS
 https://ythls.onrender.com/video/EdHeJBkwGno.m3u8
 
+#EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/ytc/AOPolaTCTOu9HL_RPFVBxXY0a966moeSmKuklTCRcdNy", 福岡・佐賀 KBC NEWS
+https://ythls.onrender.com/channel/UCS8ZQejq2CL-nZcnRWZCA5Q.m3u8
+
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/HgZlu9XZj2JplRPXdCHL8tI3BSQyyUCBAgiTH1gNEV-6kjIBFXbjxhJVLds7Y644p_kBVbgzEw", 綜藝玩很大 Mr.Player
 https://ythls.onrender.com/channel/UCQU5uVTG8h9LToACKrm1LMA.m3u8
 
@@ -6977,6 +7004,9 @@ https://ythls.onrender.com/channel/UC4LjkybVKXCDlneVXlKAbmw.m3u8
 
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/_qz_00bTo1niT5u4ZYSk2Mp6xL6kMFnat6DxfG845KoZx4BdKoqXDvKJx0YT68IqCGe6S15qt-o", 静岡朝日テレビニュース
 https://ythls.onrender.com/video/WwGyKlXdUvw.m3u8
+
+#EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/_qz_00bTo1niT5u4ZYSk2Mp6xL6kMFnat6DxfG845KoZx4BdKoqXDvKJx0YT68IqCGe6S15qt-o", 静岡朝日テレビニュース
+https://ythls.onrender.com/channel/UCvF5vIejmf-H_XSluaBldfg.m3u8
 
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/ytc/AGIKgqOuJ8021gUVWWPl-22fDEIy3jkA7MPHyVTDxDkDiQ", 飢餓遊戲Hunger Games
 https://ythls.onrender.com/channel/UCriy3vlLtiBov3nLdPLadUg.m3u8
