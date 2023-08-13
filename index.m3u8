@@ -1926,7 +1926,7 @@ https://ythls.onrender.com/video/lFvCpvAI1Kw.m3u8
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/ytc/AOPolaTuPGluhx0V49RqTBYiEk9R1f4oMgmkQKaR85Efsw", Espace TV Guinée
 https://ythls.onrender.com/channel/UCMsFKwxfosayYR73hhFyf2Q.m3u8
 
-#EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/kR01XImRexdf-09F2P2XwmAQt4JtLrMDop9Un3zx1QPSUFmVnSjIUmMgWmCZJ7e-wDu3XWfhLw", Espreso.TV
+#EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/kR01XImRexdf-09F2P2XwmAQt4JtLrMDop9Un3zx1QPSUFmVnSjIUmMgWmCZJ7e-wDu3XWfhLw", Espreso
 https://ythls.onrender.com/channel/UCMEiyV8N2J93GdPNltPYM6w.m3u8
 
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/kR01XImRexdf-09F2P2XwmAQt4JtLrMDop9Un3zx1QPSUFmVnSjIUmMgWmCZJ7e-wDu3XWfhLw", Espreso.TV
@@ -3363,7 +3363,7 @@ https://ythls.onrender.com/video/q-Wv4Pvt-5A.m3u8
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/ytc/AOPolaT5LWfEumJ4sdIxsGXGamIv4hyU1oIa2KkaLES3Ow", MBCNEWS
 https://ythls.onrender.com/channel/UCF4Wxdo3inmxP-Y59wXDsFw.m3u8
 
-#EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/BpY8Ub7K4qvUQjc-KmXuluH6vQzJssZDXWse0zesaSQeUDdPz4NqbltOws3zz5rUGOlyo1U6ew", MBS NEWS
+#EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/BpY8Ub7K4qvUQjc-KmXuluH6vQzJssZDXWse0zesaSQeUDdPz4NqbltOws3zz5rUGOlyo1U6ew", MBS-NEWS
 https://ythls.onrender.com/channel/UCkKJhKO73xF1pK5h9R82ZGQ.m3u8
 
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/QM4UUCxg-_7_wOXirNp8s8HgHZVH1Y6sVFmewn5Icq-VEnBelif3v4qi4-KSIh6qqX-w-hPjMA", MCGI Channel
@@ -3641,6 +3641,9 @@ https://ythls.onrender.com/video/NYoNORroe3o.m3u8
 
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/yQSsRuHFP9IWtOUwzXbcf7gNiz66oNga8set1TYy7jq6UnG_GMWbd3ZWIQPZkaRKbSqvk5gmPTc", Nagoya TV News
 https://ythls.onrender.com/video/-C6FE2m7kX8.m3u8
+
+#EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/yQSsRuHFP9IWtOUwzXbcf7gNiz66oNga8set1TYy7jq6UnG_GMWbd3ZWIQPZkaRKbSqvk5gmPTc", Nagoya TV News
+https://ythls.onrender.com/channel/UCWnOKASPkCBEL-_O8odMvtg.m3u8
 
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/UogOtvk3RzzWVlnmoBPb0lP3w_yEHMfgxlQd3R8bEdqS8yZlb04o2JBTchLjPG8osLE0R4UB", NamibiaCam
 https://ythls.onrender.com/channel/UC9X6gGKDv2yhMoofoeS7-Gg.m3u8
@@ -6854,9 +6857,6 @@ https://ythls.onrender.com/channel/UCl27leged0PT2kIrRtrFYKA.m3u8
 
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/ytc/AGIKgqPxZoCQ7xUtiU8-sjYI_YqHxTItaqCt9DXHoE4aeA", 【琉球放送】RBC NEWS
 https://ythls.onrender.com/video/3tbYk13CQ8g.m3u8
-
-#EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/yQSsRuHFP9IWtOUwzXbcf7gNiz66oNga8set1TYy7jq6UnG_GMWbd3ZWIQPZkaRKbSqvk5gmPTc", メ〜テレニュース
-https://ythls.onrender.com/channel/UCWnOKASPkCBEL-_O8odMvtg.m3u8
 
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/LTxf9w6UM1L4MKyi5pMo4Ry2uACH8MretJqCIi_xgE476wo62-956HacZ8gY9JzXRHapnmK6mGY", ヴァンガードチャンネル【ウィルドレス第1話無料公開中!】
 https://ythls.onrender.com/channel/UC1Wp3qfvlq1GybWL6C85jSw.m3u8
