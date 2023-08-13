@@ -252,7 +252,7 @@ https://ythls.onrender.com/channel/UCBvv5xYXNHa5XjecBC2-odA.m3u8
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/ytc/AOPolaQq-gaALVS2IxKcgHTrXy1UHSRFNqJMkoKtbrgN", ABC7 SWFL
 https://ythls.onrender.com/channel/UCq9e_hCv2jvgck8WowW1NXg.m3u8
 
-#EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/pdmhb8Gtl4gvB8HdC8Na3mChnujTTMl5ghy41wx7Olhn00qgeIJOl7FjF9RQ9hJNyQ5b9PU0", ABCTVnews
+#EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/pdmhb8Gtl4gvB8HdC8Na3mChnujTTMl5ghy41wx7Olhn00qgeIJOl7FjF9RQ9hJNyQ5b9PU0", ABCテレビニュース
 https://ythls.onrender.com/channel/UCPW-5qfYGNR8XYrvESrqJKA.m3u8
 
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/pdmhb8Gtl4gvB8HdC8Na3mChnujTTMl5ghy41wx7Olhn00qgeIJOl7FjF9RQ9hJNyQ5b9PU0", ABCテレビニュース
@@ -5115,7 +5115,7 @@ https://ythls.onrender.com/video/1-2jKcxwi30.m3u8
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/OlO10elE5T5mz8rA3qrGCIZ8ZwKk6_sI8KuPiskleMHhVne1zSYgQrruPVAvSKJvh1IuNqy6Mg", St Mary \u0026 St Mina's Coptic Orthodox Cathedral
 https://ythls.onrender.com/video/DXHOHdZmHMw.m3u8
 
-#EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/OlO10elE5T5mz8rA3qrGCIZ8ZwKk6_sI8KuPiskleMHhVne1zSYgQrruPVAvSKJvh1IuNqy6Mg", St Mary \u0026 St Mina's Coptic Orthodox Cathedral
+#EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/DjlNhb2Wvt1MiwfoTVt63Br8a5nOyHeP-IatZ8HxTu80HnK8pZQTdJhIWWbJe_WKPqavDYSjgw", St Mary \u0026 St Mina's Coptic Orthodox Cathedral
 https://ythls.onrender.com/video/_9xd8vCL5-E.m3u8
 
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/mqdytzNVJMld6WxzUZAYwWhv7LKEAqfKpQdkCszV5sJMWX-10K3steBuEVcDR2Epahsa0UiC", STAR
@@ -6440,6 +6440,9 @@ https://ythls.onrender.com/video/wXRdW7Jy8_0.m3u8
 
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/xxfzfY9cub50m8UVywKZei_raPiupe5fYpSC6xqi509HxTY8kLEB-TXlsO_fs7nWKC-cnUlG", YangiKulgu Official
 https://ythls.onrender.com/channel/UC9OpmkDt-iR0sNAL29_zPJw.m3u8
+
+#EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/ytc/AOPolaRxFhrW6Y8ijdMyOK6jBZgadCPIHYNrMtsiwxGo6A", YAPA MULTIMEDIA
+https://ythls.onrender.com/video/27N8Za2sF6Y.m3u8
 
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/ytc/AGIKgqMHvPD8xZkHjRHRHpTrU_D2KbUOFUYah1yv8w", YCN 성균관 유림방송
 https://ythls.onrender.com/channel/UCgF_Nk1txewB_mKychViraA.m3u8
