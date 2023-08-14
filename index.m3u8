@@ -1215,7 +1215,7 @@ https://ythls.onrender.com/video/W0lTT8S94ms.m3u8
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/ytc/AOPolaS_jVj2r4iWGTQ_OcKs5gQszWQY9uKp04vcuXNNbA", CARTOONS WORLD
 https://ythls.onrender.com/video/Qlk9HhuM0ZU.m3u8
 
-#EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/ytc/AGIKgqNxCCncRf6ZzK7vYQWqo4jghOKzVEc78Vg8F3mwQA", Cat Trumpet
+#EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/ytc/AOPolaQ8DWHWVZZNaVv-_5kpLhcG3jZqlfXqPPRAYir_Sg", Cat Trumpet
 https://ythls.onrender.com/channel/UCI-Ho-GaKYbtMzXJWmWAsrg.m3u8
 
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/EAmRmQT4t4Rq0griNo4n8dxA1Q5ucvWDqaDj0QrbVmQh8Ceol6fJfi48zOJQR34zr_HnweMlfjI", Catholic Media Network
@@ -2753,9 +2753,6 @@ https://ythls.onrender.com/video/cH7VBI4QQzA.m3u8
 
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/WN48s9Pyjafbyc4cLB8IkQg0mxmES5XMN4b6hRT3nw0eCPPeddYTPjZoincegM1ZLMUOQJaikPg", JAPAN 4K
 https://ythls.onrender.com/channel/UCZ0fkEaTm106vBdvd4PK_sA.m3u8
-
-#EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/uxFYyO107Bv7FK7fq9IXh9Marf_tqrXaTin1D8gGT1Z0ladRssiXm497wQh5Nr6KbdegwKO-9Q", JAPAN NEWS NIIGATA
-https://ythls.onrender.com/channel/UC8iN-WKPu820ve-4t9NxHRw.m3u8
 
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/ytc/AOPolaRiK4gSKl-URiGBg-6__iGb-irBIrkmyBz8fcmV", Jasna Góra Klasztor Ojców Paulinów
 https://ythls.onrender.com/channel/UCKAtPxfE2RAHSCwDABMMeAg.m3u8
@@ -7022,6 +7019,9 @@ https://ythls.onrender.com/video/gvRVJ6oNl_A.m3u8
 
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/ytc/AGIKgqMxSr95Zd1wDT-1nl5QsN2ZH70yXSBvpY400JhjYg", 新唐人亞太電視台NTDAPTV
 https://ythls.onrender.com/channel/UCi4AGjvmSMB9Nn6oyFPYPeQ.m3u8
+
+#EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/uxFYyO107Bv7FK7fq9IXh9Marf_tqrXaTin1D8gGT1Z0ladRssiXm497wQh5Nr6KbdegwKO-9Q", 新潟ニュース NST　-NIIGATA NEWS NST-
+https://ythls.onrender.com/channel/UC8iN-WKPu820ve-4t9NxHRw.m3u8
 
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/tbEx1gUijdigGn9zNL7npSHkTclQuDKtOkohhUt24KV9R0YNzpNS-1jYUvpd6UGAfzvXpyCG", 日テレNEWS
 https://ythls.onrender.com/channel/UCuTAXTexrhetbOe3zgskJBQ.m3u8
