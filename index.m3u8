@@ -2430,6 +2430,9 @@ https://ythls.onrender.com/video/qozx2FeSaeY.m3u8
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/lA916ANkWkN8BTK4C9VgnCHXNYGI_yljKqeJcTFq0iFW76eA0oTpIQz-XZTf-B4gFVIAC5TBfQ", Garena Free Fire Indonesia
 https://ythls.onrender.com/channel/UCM3SMB1jINy_NxH1O01z5gA.m3u8
 
+#EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/EtLgsQBeR8STlD68mG0swdhw9gJNvfzaWnue_TkRgPcIG-Bw7QzFf0m18thEZdIcxktPdFFMBw", GATOT JATAYU
+https://ythls.onrender.com/video/6KBZZDqmw6Q.m3u8
+
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/ytc/AGIKgqOfifI8m9c37fLr8cWs0l2wEqgXLJnjTjz0ceok", Gazwah TV
 https://ythls.onrender.com/video/gmbpqqwts8Y.m3u8
 
@@ -4322,9 +4325,6 @@ https://ythls.onrender.com/channel/UCLLWAXn5F415g2kNAcE_T1g.m3u8
 
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/c0_jy3lFxgDOA8Y5LwcRMNVruOX_eYntzHgTMnhSBalzNyFodysYkTGiYY0KoG4H2G7SOXc8", NTA TV  channel
 https://ythls.onrender.com/video/JPyKS97KiP4.m3u8
-
-#EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/c0_jy3lFxgDOA8Y5LwcRMNVruOX_eYntzHgTMnhSBalzNyFodysYkTGiYY0KoG4H2G7SOXc8", NTA TV  channel
-https://ythls.onrender.com/channel/UCQdSS9GSBbtSqW3oNB39KTw.m3u8
 
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/ytc/AOPolaTpRqLKgGj4mlgebl9M7v0vJRYcwpUrbRZw2oAr67E", NTN24
 https://ythls.onrender.com/channel/UCEJs1fTF3KszRJGxJY14VrA.m3u8
@@ -7212,6 +7212,9 @@ https://ythls.onrender.com/video/47k36yRqqD0.m3u8
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/DQ608hy7KentuCIhC2ZMgXeBwaiH-gyP9nfdB9bArL2kJNfEfn9WICG90r_CZWGOk6ihHU3fm1s", Телеканал Конкурент TV - новини Луцька та Волині
 https://ythls.onrender.com/channel/UC7eTa1b57wOoboFKH2hVdMQ.m3u8
 
+#EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/c0_jy3lFxgDOA8Y5LwcRMNVruOX_eYntzHgTMnhSBalzNyFodysYkTGiYY0KoG4H2G7SOXc8", Телеканал НТА
+https://ythls.onrender.com/channel/UCQdSS9GSBbtSqW3oNB39KTw.m3u8
+
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/LOAjtAl31lDNGQ92qqk9RYUR9H3Xj-EGr7pxRTUsOclP94brCKaiFcQLB7fMxFQJTcFVLEtXBQ", Телеканал Прямий
 https://ythls.onrender.com/channel/UCH9H_b9oJtSHBovh94yB5HA.m3u8
 
@@ -7571,6 +7574,9 @@ https://ythls.onrender.com/channel/UC9ENFRmToivvVyEUgIpbe9A.m3u8
 
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/ytc/AOPolaThnHSVaovVYOwTdgHPltQzOmmz2XYhoJkS3GWx", 真耶穌教會松山教會
 https://ythls.onrender.com/channel/UCwPcC60ateQfnPQ1Pye79Gw.m3u8
+
+#EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/wnhb4LdsfKms--_I6TSeRRo6UwFBquzGALRH46XQ-az1xyRxTQPFTpLEYXPPi26skMCmoiW-7w", 真耶穌教會樹林教會
+https://ythls.onrender.com/channel/UC4UVyfzeNhxB8UJIGrJIGog.m3u8
 
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/ytc/AOPolaS8Mw74qUG1V6IxITky3QGlNSvCe7SjQeCEBEJn", 真耶穌教會永福教會
 https://ythls.onrender.com/channel/UCU25lNpHunnhyT5UylJ3r1Q.m3u8
