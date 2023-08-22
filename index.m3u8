@@ -4437,6 +4437,9 @@ https://ythls.onrender.com/channel/UCLLWAXn5F415g2kNAcE_T1g.m3u8
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/c0_jy3lFxgDOA8Y5LwcRMNVruOX_eYntzHgTMnhSBalzNyFodysYkTGiYY0KoG4H2G7SOXc8", NTA TV  channel
 https://ythls.onrender.com/video/JPyKS97KiP4.m3u8
 
+#EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/c0_jy3lFxgDOA8Y5LwcRMNVruOX_eYntzHgTMnhSBalzNyFodysYkTGiYY0KoG4H2G7SOXc8", NTA TV  channel
+https://ythls.onrender.com/channel/UCQdSS9GSBbtSqW3oNB39KTw.m3u8
+
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/ytc/AOPolaTpRqLKgGj4mlgebl9M7v0vJRYcwpUrbRZw2oAr67E", NTN24
 https://ythls.onrender.com/channel/UCEJs1fTF3KszRJGxJY14VrA.m3u8
 
@@ -4700,9 +4703,6 @@ https://ythls.onrender.com/channel/UCgbfG5HoczHIkpzxLYH-8Ww.m3u8
 
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/ytc/AOPolaTHmmYOdduJ2lbsxHw1zKXVzxw0bqh-je7uLnkH", Pokémon Kids TV
 https://ythls.onrender.com/video/ycCN7gAQP4U.m3u8
-
-#EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/ytc/AOPolaTmYvJqhAkIkUMvMFJJ9L9yHe4bJSCX51SYFjAi", Pokémon Kids TV Japan
-https://ythls.onrender.com/channel/UCH0JJtRn2syic5xxavMKQ4Q.m3u8
 
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/ytc/AOPolaTVP-PS5xXZvhcH8xxuc8FmO5tzgUttxGwav5YehCA", Polimer News
 https://ythls.onrender.com/channel/UC8Z-VjXBtDJTvq6aqkIskPg.m3u8
@@ -7395,9 +7395,6 @@ https://ythls.onrender.com/video/47k36yRqqD0.m3u8
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/DQ608hy7KentuCIhC2ZMgXeBwaiH-gyP9nfdB9bArL2kJNfEfn9WICG90r_CZWGOk6ihHU3fm1s", Телеканал Конкурент TV - новини Луцька та Волині
 https://ythls.onrender.com/channel/UC7eTa1b57wOoboFKH2hVdMQ.m3u8
 
-#EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/c0_jy3lFxgDOA8Y5LwcRMNVruOX_eYntzHgTMnhSBalzNyFodysYkTGiYY0KoG4H2G7SOXc8", Телеканал НТА
-https://ythls.onrender.com/channel/UCQdSS9GSBbtSqW3oNB39KTw.m3u8
-
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/LOAjtAl31lDNGQ92qqk9RYUR9H3Xj-EGr7pxRTUsOclP94brCKaiFcQLB7fMxFQJTcFVLEtXBQ", Телеканал Прямий
 https://ythls.onrender.com/channel/UCH9H_b9oJtSHBovh94yB5HA.m3u8
 
@@ -7607,6 +7604,9 @@ https://ythls.onrender.com/channel/UCtODsVaDSNkd93p6pXT15vA.m3u8
 
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/ytc/AOPolaSsIs48VaC43nfR2__K53CnV2gE6Kdi2mqAa4uN", チューリップテレビ
 https://ythls.onrender.com/channel/UCk4bgav5X0rlbGefFnPcuoQ.m3u8
+
+#EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/ytc/AOPolaTmYvJqhAkIkUMvMFJJ9L9yHe4bJSCX51SYFjAi", ポケモン Kids TV
+https://ythls.onrender.com/channel/UCH0JJtRn2syic5xxavMKQ4Q.m3u8
 
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/LTxf9w6UM1L4MKyi5pMo4Ry2uACH8MretJqCIi_xgE476wo62-956HacZ8gY9JzXRHapnmK6mGY", ヴァンガードチャンネル【ウィルドレス第1話無料公開中!】
 https://ythls.onrender.com/channel/UC1Wp3qfvlq1GybWL6C85jSw.m3u8
