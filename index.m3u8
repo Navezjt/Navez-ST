@@ -3642,6 +3642,9 @@ https://ythls.onrender.com/video/xhMx3mag62E.m3u8
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/ytc/AOPolaTQRY1CVRormCqyitfnnUJbBK3BgjJFgRXFCClZVw", Learn Bulgarian with BulgarianPod101.com
 https://ythls.onrender.com/video/EdD_J17Grm0.m3u8
 
+#EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/ytc/AOPolaR8e_ASCNHYaRrYNpcdxJ-goHPycz0XvcX1RxUavQ", Learn Cantonese with CantoneseClass101.com
+https://ythls.onrender.com/video/7n3o2wGob2k.m3u8
+
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/ytc/AOPolaRfRvWQ0sATaVQ2RLnzwdEIFjPaPgGwmFERYVkyMw", Learn Czech with CzechClass101.com
 https://ythls.onrender.com/video/AB6IcRNcjzY.m3u8
 
@@ -3657,8 +3660,20 @@ https://ythls.onrender.com/video/f7Aumw-E9w8.m3u8
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/ytc/AOPolaR8r35Ekm6WxQKMBM_jeIt_fjv1JA7SewTXNYPbUQ", Learn Filipino with FilipinoPod101.com
 https://ythls.onrender.com/video/xOIwYe0_pwg.m3u8
 
+#EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/ytc/AOPolaRV5h5RafXhfCodswNAiwINVCOWgarq-MEPCc5izA", Learn Finnish with FinnishPod101.com
+https://ythls.onrender.com/video/h5qZtxzEY8w.m3u8
+
+#EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/ytc/AOPolaTVtqQvTFTIsnZjYjCbejDegWeP-eCs3PLY3mz97PE", Learn French with FrenchPod101.com
+https://ythls.onrender.com/video/6PZ43QROrVs.m3u8
+
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/ytc/AOPolaSlrSaRDhRMbMw4BNLGBGdWVUoharnGNFiTLLbrtg", Learn German with GermanPod101.com
 https://ythls.onrender.com/video/t5R5pC3raVk.m3u8
+
+#EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/ytc/AOPolaSqFCZw0t0e7oU_ch2DL424VhVkHjDflcSM8i7CVg", Learn Greek with GreekPod101.com
+https://ythls.onrender.com/video/cdJPkSfNnL4.m3u8
+
+#EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/ytc/AOPolaRISFqok8znaacxwqOO5sWhA5VBe9ROOqvMOqY8AA", Learn Hebrew with HebrewPod101.com
+https://ythls.onrender.com/video/dF0jS9T-E0s.m3u8
 
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/ytc/AOPolaQFct8O95dMtrrFTb_rtM_K-DROw_kxhMpjJRXl3g", Learn Hindi with HindiPod101.com
 https://ythls.onrender.com/video/-7V2k83Ni-Q.m3u8
@@ -3669,20 +3684,53 @@ https://ythls.onrender.com/video/OODX90FfpXc.m3u8
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/ytc/AOPolaSfN6RpCGRcXZIg4E-oocL-1V5_VOC70OZ4euXrVw", Learn Indonesian with IndonesianPod101.com
 https://ythls.onrender.com/video/WHOAt22s9e0.m3u8
 
+#EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/ytc/AOPolaTSuHKeswb5xvkZtXkax2s39bczabptq1LCCIVP9Q", Learn Italian with ItalianPod101.com
+https://ythls.onrender.com/video/B7jdaQ0LFo4.m3u8
+
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/ytc/AOPolaRjuyOd2dj95K7waUnPwtSSl5-6yhv-s2eQnASMJHU", Learn Japanese with JapanesePod101.com
 https://ythls.onrender.com/video/c3nH0tIpK68.m3u8
 
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/ytc/AOPolaQCA_KF5pufekhoS0HKwb3OBgrd1qEbfLzu37uwsQ", Learn Korean with KoreanClass101.com
 https://ythls.onrender.com/video/vo-Toilsx30.m3u8
 
+#EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/ytc/AOPolaTePtmo9DnJoWcNeVqrIxxLzIiPxjG_dwSmujb2Bg", Learn Norwegian with NorwegianClass101.com
+https://ythls.onrender.com/video/xGCMm6nSnPk.m3u8
+
+#EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/ytc/AOPolaR_mVemmOo4N6Dh_X_jhGwGYFMnwBZ2DWD9rG_MVQ", Learn Persian with PersianPod101.com
+https://ythls.onrender.com/video/on1sbj1_YKA.m3u8
+
+#EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/ytc/AOPolaSxlfv7u8FDDxfQRNbyg9n0RLyImV0bE9UROBdYLQ0", Learn Polish with PolishPod101.com
+https://ythls.onrender.com/video/AmJ8Qxz93fE.m3u8
+
+#EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/ytc/AOPolaQO4FmrXw6J-zO5cots6qSfps8BRTGS7xpZbjR0GA", Learn Portuguese with PortuguesePod101.com
+https://ythls.onrender.com/video/9FsYZfmGuwk.m3u8
+
+#EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/ytc/AOPolaSaKp1nksBNmrdr-6XfEnFAZxOxPlX8ibVAd0oqtA", Learn Romanian with RomanianPod101.com
+https://ythls.onrender.com/video/iWfyFgLXOQY.m3u8
+
+#EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/ytc/AOPolaSkTgjhQrU3pjt8laYmje42bHbZlDwRF6IX_uQIvA", Learn Russian with RussianPod101.com
+https://ythls.onrender.com/video/5QRm0zE3s1M.m3u8
+
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/ytc/AOPolaR81EI9OjJD3uGhLqLQSuY7utFShq9CMRUEHgSbDg", Learn Spanish with SpanishPod101.com
 https://ythls.onrender.com/video/9fLGKC9HTZE&ab.m3u8
+
+#EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/ytc/AOPolaR81EI9OjJD3uGhLqLQSuY7utFShq9CMRUEHgSbDg", Learn Spanish with SpanishPod101.com
+https://ythls.onrender.com/video/9fLGKC9HTZE.m3u8
+
+#EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/ytc/AOPolaSfyr3wTAgudKs-a9FUzN0TZXbM7rxWErP2FOjgQw", Learn Swahili with SwahiliPod101.com
+https://ythls.onrender.com/video/du1cauZNzhM.m3u8
 
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/ytc/AOPolaQb2awYi3n5UbIqTomVY58zE894T33NBiyWvC2MNw", Learn Swedish with SwedishPod101.com
 https://ythls.onrender.com/video/ujnW8Iarjio.m3u8
 
+#EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/ytc/AOPolaQPDx4DMmq9lWr94VTiexjkOH5DenXdhgQt3cvWHA", Learn Thai with ThaiPod101.com
+https://ythls.onrender.com/video/euz4PWb8uMY.m3u8
+
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/ytc/AOPolaTN5WsLCUTW8socU5nSn-iT36Aq2wWiVTYzue_Acg", Learn Turkish with TurkishClass101.com
 https://ythls.onrender.com/video/8Gu7SVcZGvw.m3u8
+
+#EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/ytc/AOPolaSZj07OGAcmOUhneHB0ZhcNZSHkza6cV4FjWdTUFQ", Learn Urdu with UrduPod101.com
+https://ythls.onrender.com/video/cmwSeKnrWDg.m3u8
 
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/ytc/AOPolaTezjmuBDED9VxwppizQJgX4ZHM9PEba2sPqzq2Jg", Learn Vietnamese with VietnamesePod101.com
 https://ythls.onrender.com/video/EW1jDY_GchI.m3u8
@@ -4647,9 +4695,6 @@ https://ythls.onrender.com/channel/UCLLWAXn5F415g2kNAcE_T1g.m3u8
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/c0_jy3lFxgDOA8Y5LwcRMNVruOX_eYntzHgTMnhSBalzNyFodysYkTGiYY0KoG4H2G7SOXc8", NTA TV  channel
 https://ythls.onrender.com/video/JPyKS97KiP4.m3u8
 
-#EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/c0_jy3lFxgDOA8Y5LwcRMNVruOX_eYntzHgTMnhSBalzNyFodysYkTGiYY0KoG4H2G7SOXc8", NTA TV  channel
-https://ythls.onrender.com/channel/UCQdSS9GSBbtSqW3oNB39KTw.m3u8
-
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/ytc/AOPolaTpRqLKgGj4mlgebl9M7v0vJRYcwpUrbRZw2oAr67E", NTN24
 https://ythls.onrender.com/channel/UCEJs1fTF3KszRJGxJY14VrA.m3u8
 
@@ -4922,6 +4967,9 @@ https://ythls.onrender.com/channel/UCgbfG5HoczHIkpzxLYH-8Ww.m3u8
 
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/ytc/AOPolaTHmmYOdduJ2lbsxHw1zKXVzxw0bqh-je7uLnkH", Pokémon Kids TV
 https://ythls.onrender.com/video/ycCN7gAQP4U.m3u8
+
+#EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/ytc/AOPolaTmYvJqhAkIkUMvMFJJ9L9yHe4bJSCX51SYFjAi", Pokémon Kids TV Japan
+https://ythls.onrender.com/channel/UCH0JJtRn2syic5xxavMKQ4Q.m3u8
 
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/ytc/AOPolaTVP-PS5xXZvhcH8xxuc8FmO5tzgUttxGwav5YehCA", Polimer News
 https://ythls.onrender.com/channel/UC8Z-VjXBtDJTvq6aqkIskPg.m3u8
@@ -7071,6 +7119,9 @@ https://ythls.onrender.com/channel/UCavPXO6_Z2cVjT9OVguwXmg.m3u8
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/ytc/AOPolaSXbnLsJq9hk7iuF0q3Y5oq4gBAyonTXfA5P2DZ", UDrive Tech LIVE Streaming
 https://ythls.onrender.com/video/X3mAxLqIxhc.m3u8
 
+#EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/km69ZFm2OLq8WteY3aGBbXGHrsJB7aU6m_n4iIcFO47q44oU12fo4oar53CF3KH7DAY9F-F81w", UFA Live 24
+https://ythls.onrender.com/video/Bg77UvoqU8U.m3u8
+
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/QMVhtdIV6XX-yyjuLQnJ5jpfPsW_vsAVa6D7e18AqM0oPO77n3p2Mn5JdDpSGy0gUixcR2mqkg", Ukraine World News
 https://ythls.onrender.com/channel/UCGRhTiknVzrL-Rfy4N1tPTA.m3u8
 
@@ -7725,6 +7776,9 @@ https://ythls.onrender.com/video/47k36yRqqD0.m3u8
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/DQ608hy7KentuCIhC2ZMgXeBwaiH-gyP9nfdB9bArL2kJNfEfn9WICG90r_CZWGOk6ihHU3fm1s", Телеканал Конкурент TV - новини Луцька та Волині
 https://ythls.onrender.com/channel/UC7eTa1b57wOoboFKH2hVdMQ.m3u8
 
+#EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/c0_jy3lFxgDOA8Y5LwcRMNVruOX_eYntzHgTMnhSBalzNyFodysYkTGiYY0KoG4H2G7SOXc8", Телеканал НТА
+https://ythls.onrender.com/channel/UCQdSS9GSBbtSqW3oNB39KTw.m3u8
+
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/LOAjtAl31lDNGQ92qqk9RYUR9H3Xj-EGr7pxRTUsOclP94brCKaiFcQLB7fMxFQJTcFVLEtXBQ", Телеканал Прямий
 https://ythls.onrender.com/channel/UCH9H_b9oJtSHBovh94yB5HA.m3u8
 
@@ -7955,9 +8009,6 @@ https://ythls.onrender.com/channel/UCtODsVaDSNkd93p6pXT15vA.m3u8
 
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/ytc/AOPolaSsIs48VaC43nfR2__K53CnV2gE6Kdi2mqAa4uN", チューリップテレビ
 https://ythls.onrender.com/channel/UCk4bgav5X0rlbGefFnPcuoQ.m3u8
-
-#EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/ytc/AOPolaTmYvJqhAkIkUMvMFJJ9L9yHe4bJSCX51SYFjAi", ポケモン Kids TV
-https://ythls.onrender.com/channel/UCH0JJtRn2syic5xxavMKQ4Q.m3u8
 
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/yQSsRuHFP9IWtOUwzXbcf7gNiz66oNga8set1TYy7jq6UnG_GMWbd3ZWIQPZkaRKbSqvk5gmPTc", メ〜テレニュース
 https://ythls.onrender.com/channel/UCWnOKASPkCBEL-_O8odMvtg.m3u8
