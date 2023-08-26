@@ -276,7 +276,7 @@ https://ythls.onrender.com/channel/UCBvv5xYXNHa5XjecBC2-odA.m3u8
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/ytc/AOPolaQq-gaALVS2IxKcgHTrXy1UHSRFNqJMkoKtbrgN", ABC7 SWFL
 https://ythls.onrender.com/channel/UCq9e_hCv2jvgck8WowW1NXg.m3u8
 
-#EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/pdmhb8Gtl4gvB8HdC8Na3mChnujTTMl5ghy41wx7Olhn00qgeIJOl7FjF9RQ9hJNyQ5b9PU0", ABCテレビニュース
+#EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/pdmhb8Gtl4gvB8HdC8Na3mChnujTTMl5ghy41wx7Olhn00qgeIJOl7FjF9RQ9hJNyQ5b9PU0", ABCTVnews
 https://ythls.onrender.com/channel/UCPW-5qfYGNR8XYrvESrqJKA.m3u8
 
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/pdmhb8Gtl4gvB8HdC8Na3mChnujTTMl5ghy41wx7Olhn00qgeIJOl7FjF9RQ9hJNyQ5b9PU0", ABCテレビニュース
@@ -1229,6 +1229,9 @@ https://ythls.onrender.com/channel/UCuJvDPQIaUhvdHiH275WjNA.m3u8
 
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/d5T0TKI0sCxCz7F30ajXsCrYNH3RXXeCLrO-UYWeF0O6eDvG8ecaRSruAP2bHaKY3IqCpAMEpg", Canal 33
 https://ythls.onrender.com/channel/UChXVCKn5sa-e-bNXjX47lJw.m3u8
+
+#EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/d5T0TKI0sCxCz7F30ajXsCrYNH3RXXeCLrO-UYWeF0O6eDvG8ecaRSruAP2bHaKY3IqCpAMEpg", Canal 33
+https://ythls.onrender.com/video/qg4u34RNrGo.m3u8
 
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/MsSE7_YC2suB5UJz5e4z5jUCHQ6hg0AtbCVyNAVeFITK1-QDcSGatBtFJUHl6LvPzq7a1oMa6A", Canal 66 Mexicali en vivo
 https://ythls.onrender.com/channel/UCgu4v4HAioB0N5K6aq_H-WQ.m3u8
@@ -7313,6 +7316,9 @@ https://ythls.onrender.com/video/DNaG3dXRitE.m3u8
 
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/I96-b-cIu5a1jckOClVuO3dJQDVHLO-pRLAXPavGZY5N-qHQfClyuG9YnH2RsrXI_n0xxufmUL4", Viet Melodic Official
 https://ythls.onrender.com/channel/UCiwb-9kJYSsfLU23u6-67mw.m3u8
+
+#EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/9OpKjSuU2yOUA805kg-RtLtKw-frIdT_SvtYRNy80Zeca6NFRi6uL4NI6WXz96ROJ4_zHI_oOA", VINDES
+https://ythls.onrender.com/video/gb8nORbDUb4.m3u8
 
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/nH86B-IgPpFa-cv2zOyzMJi9RD4USnwVnauju7B18I3-ajCKoIBk0cYL-nTH9GnRbYkz_GB3jKA", Vineyard Worship
 https://ythls.onrender.com/channel/UClaHV2T--jGhJfHUL1gYwOA.m3u8
