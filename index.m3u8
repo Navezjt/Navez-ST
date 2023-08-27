@@ -282,7 +282,7 @@ https://ythls.onrender.com/channel/UCBvv5xYXNHa5XjecBC2-odA.m3u8
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/ytc/AOPolaQq-gaALVS2IxKcgHTrXy1UHSRFNqJMkoKtbrgN", ABC7 SWFL
 https://ythls.onrender.com/channel/UCq9e_hCv2jvgck8WowW1NXg.m3u8
 
-#EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/pdmhb8Gtl4gvB8HdC8Na3mChnujTTMl5ghy41wx7Olhn00qgeIJOl7FjF9RQ9hJNyQ5b9PU0", ABCTVnews
+#EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/pdmhb8Gtl4gvB8HdC8Na3mChnujTTMl5ghy41wx7Olhn00qgeIJOl7FjF9RQ9hJNyQ5b9PU0", ABCテレビニュース
 https://ythls.onrender.com/channel/UCPW-5qfYGNR8XYrvESrqJKA.m3u8
 
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/pdmhb8Gtl4gvB8HdC8Na3mChnujTTMl5ghy41wx7Olhn00qgeIJOl7FjF9RQ9hJNyQ5b9PU0", ABCテレビニュース
@@ -765,7 +765,7 @@ https://ythls.onrender.com/channel/UCLyH0n2yMR9mmkYvXkwJTTw.m3u8
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/ZAmov7ZHojOFYqy13y6B56Wwsm79Dqjdttj_gbSAJOT0hgt8SG-3_ypGvvPVBC2D7D0eMFoIx1s", Astro AWANI
 https://ythls.onrender.com/channel/UC5dYmq91e5_g54krpO06NJw.m3u8
 
-#EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/LNJqs45rQQXiRbSuX6tai989Fm193sGHas7AuQJt_riO274EnhTHypbc241dp-MCPiHN9Qciow", Astro AWANI
+#EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/ZAmov7ZHojOFYqy13y6B56Wwsm79Dqjdttj_gbSAJOT0hgt8SG-3_ypGvvPVBC2D7D0eMFoIx1s", Astro AWANI
 https://ythls.onrender.com/video/txxOwpdp58Q.m3u8
 
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/ytc/AOPolaRGSmW2WwTLCQx3mKPjs8vj-Dghr-bGZkJtDI6bOg", AstroLife
@@ -1922,6 +1922,9 @@ https://ythls.onrender.com/video/KpcAMDXXyoQ.m3u8
 
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/3mzdkB4bRizqFHsJDTkvzAqFQ4D9QoZXmvAnH93M8Fq_AB5pG8H_DYycLVnObpxXa0qZmShruw", Divya Darshan TV
 https://ythls.onrender.com/video/JWCBVHOQews.m3u8
+
+#EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/3mzdkB4bRizqFHsJDTkvzAqFQ4D9QoZXmvAnH93M8Fq_AB5pG8H_DYycLVnObpxXa0qZmShruw", Divya Darshan TV
+https://ythls.onrender.com/video/TrLUGtYWQO8.m3u8
 
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/NwxZomhWygqUdgzIvGJdycby5XDJALEe4tb2_dIJ3F8wrMma_QLp6T6eXFPL-XXyWd2ZvwxaLgA", Diwan FM Live
 https://ythls.onrender.com/channel/UCOvTt3b378hpuUXgb46UdMQ.m3u8
@@ -6056,6 +6059,9 @@ https://ythls.onrender.com/video/p-Cgv8UrGK4.m3u8
 
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/VHYWfsvAJCbO0e6IdN0d9RE14gxPxSXfr9wZmAFK2Evl9MOGucyny8OTMI-2IXvTQ_CxVdnZ", Somnath Temple - Official Channel
 https://ythls.onrender.com/video/XMgHCACHlCc.m3u8
+
+#EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/VHYWfsvAJCbO0e6IdN0d9RE14gxPxSXfr9wZmAFK2Evl9MOGucyny8OTMI-2IXvTQ_CxVdnZ", Somnath Temple - Official Channel
+https://ythls.onrender.com/video/m0M7BeyKnkg.m3u8
 
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/tOutn2AAanKRwVvKcECFHxcvIiTa1rbC59v2yGt_h3RBBkQj06GbIpFSnl3a4wFb14GkcZke3g", Somos Gualeguaychú 
 https://ythls.onrender.com/channel/UCTD9rS_qUVe0_xPdbbCXnww.m3u8
