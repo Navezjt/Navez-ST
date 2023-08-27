@@ -4773,6 +4773,9 @@ https://ythls.onrender.com/channel/UCLLWAXn5F415g2kNAcE_T1g.m3u8
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/c0_jy3lFxgDOA8Y5LwcRMNVruOX_eYntzHgTMnhSBalzNyFodysYkTGiYY0KoG4H2G7SOXc8", NTA TV  channel
 https://ythls.onrender.com/video/JPyKS97KiP4.m3u8
 
+#EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/c0_jy3lFxgDOA8Y5LwcRMNVruOX_eYntzHgTMnhSBalzNyFodysYkTGiYY0KoG4H2G7SOXc8", NTA TV  channel
+https://ythls.onrender.com/channel/UCQdSS9GSBbtSqW3oNB39KTw.m3u8
+
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/ytc/AOPolaTpRqLKgGj4mlgebl9M7v0vJRYcwpUrbRZw2oAr67E", NTN24
 https://ythls.onrender.com/channel/UCEJs1fTF3KszRJGxJY14VrA.m3u8
 
@@ -6717,7 +6720,7 @@ https://ythls.onrender.com/video/YmTVMBiLk44.m3u8
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/pK9H2B2L9Z7Z6hliBkICEizzZrgAWy3CTZ9xP0jkcdCloZHgii24tNEcRpP5TZ0f6DLGrljRcA", The Expressway in Kobe, Japan
 https://ythls.onrender.com/channel/UC8G4C-GpexZP7_AkuB37wHw.m3u8
 
-#EXTINF:-1 group-title="Music" tvg-language="English" tvg-logo="https://yt3.ggpht.com/ytc/AOPolaT2HFQvqI_O2swOj_9YpkKK939Eqe-qStZ077QbaQ", The Good Life Radio x Sensual Musique
+#EXTINF:-1 group-title="Music" tvg-language="English" tvg-logo="https://yt3.ggpht.com/ytc/AOPolaRN_RXJPWp4O1Zg5laTovuefeP0lzZWhCSXpnMTUw", The Good Life Radio x Sensual Musique
 https://ythls.onrender.com/channel/UChs0pSaEoNLV4mevBFGaoKA.m3u8
 
 #EXTINF:-1 group-title="Music" tvg-language="English" tvg-logo="https://yt3.ggpht.com/ytc/AOPolaT2HFQvqI_O2swOj_9YpkKK939Eqe-qStZ077QbaQ", The Good Life Radio x Sensual Musique
@@ -7269,7 +7272,7 @@ https://ythls.onrender.com/channel/UCSfNcvSwqOfA33QYkzZfB-g.m3u8
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/QMVhtdIV6XX-yyjuLQnJ5jpfPsW_vsAVa6D7e18AqM0oPO77n3p2Mn5JdDpSGy0gUixcR2mqkg", Ukraine World News
 https://ythls.onrender.com/channel/UCGRhTiknVzrL-Rfy4N1tPTA.m3u8
 
-#EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/ytc/AOPolaRtKmLzwrQBnQM2xGPobZaUXe33G5XLtVRpOUg84A", Ulbra TV
+#EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/F2lyhX8d-Q9cQsdU9oDo2dYIiyVAXAwflQcUMGIDyoaJk4oKQtobcYIsPuHEVc5oXN7YqJmrtg", Ulbra TV
 https://ythls.onrender.com/channel/UCpKbjgVXitTO7mIkalr4-kQ.m3u8
 
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/ytc/AOPolaS4emFbFJmkoRipg1gJiIWk9y4DaM14_aUjaQu8kCY", ULTRAVISION CONSULT
@@ -7934,9 +7937,6 @@ https://ythls.onrender.com/video/47k36yRqqD0.m3u8
 
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/DQ608hy7KentuCIhC2ZMgXeBwaiH-gyP9nfdB9bArL2kJNfEfn9WICG90r_CZWGOk6ihHU3fm1s", Телеканал Конкурент TV - новини Луцька та Волині
 https://ythls.onrender.com/channel/UC7eTa1b57wOoboFKH2hVdMQ.m3u8
-
-#EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/c0_jy3lFxgDOA8Y5LwcRMNVruOX_eYntzHgTMnhSBalzNyFodysYkTGiYY0KoG4H2G7SOXc8", Телеканал НТА
-https://ythls.onrender.com/channel/UCQdSS9GSBbtSqW3oNB39KTw.m3u8
 
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/LOAjtAl31lDNGQ92qqk9RYUR9H3Xj-EGr7pxRTUsOclP94brCKaiFcQLB7fMxFQJTcFVLEtXBQ", Телеканал Прямий
 https://ythls.onrender.com/channel/UCH9H_b9oJtSHBovh94yB5HA.m3u8
