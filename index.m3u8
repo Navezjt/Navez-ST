@@ -798,7 +798,7 @@ https://ythls.onrender.com/video/1KXZDgP9W5E.m3u8
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/5OGHIV8vBrOo2C7Fj913RVedjKQpBCrCsYawRmA8z0znBHFzZu7tuvaJcSig0anUFRkDxcnXBVY", ATV Aomori TV Official Channel
 https://ythls.onrender.com/video/cQDPXJAYmjI.m3u8
 
-#EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/5OGHIV8vBrOo2C7Fj913RVedjKQpBCrCsYawRmA8z0znBHFzZu7tuvaJcSig0anUFRkDxcnXBVY", ATV青森テレビ 公式チャンネル
+#EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/5OGHIV8vBrOo2C7Fj913RVedjKQpBCrCsYawRmA8z0znBHFzZu7tuvaJcSig0anUFRkDxcnXBVY", ATV Aomori TV Official Channel
 https://ythls.onrender.com/channel/UCdNYphHZdRYjpys_gwofUNQ.m3u8
 
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/ytc/AOPolaSTTtlTp2t-j4YxIYSpY0xvjdh2l-ONkhnIyWDVDA", Avenues Khabar
@@ -4451,9 +4451,6 @@ https://ythls.onrender.com/video/NYoNORroe3o.m3u8
 
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/yQSsRuHFP9IWtOUwzXbcf7gNiz66oNga8set1TYy7jq6UnG_GMWbd3ZWIQPZkaRKbSqvk5gmPTc", Nagoya TV News
 https://ythls.onrender.com/video/-C6FE2m7kX8.m3u8
-
-#EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/yQSsRuHFP9IWtOUwzXbcf7gNiz66oNga8set1TYy7jq6UnG_GMWbd3ZWIQPZkaRKbSqvk5gmPTc", Nagoya TV News
-https://ythls.onrender.com/channel/UCWnOKASPkCBEL-_O8odMvtg.m3u8
 
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/UogOtvk3RzzWVlnmoBPb0lP3w_yEHMfgxlQd3R8bEdqS8yZlb04o2JBTchLjPG8osLE0R4UB", NamibiaCam
 https://ythls.onrender.com/channel/UC9X6gGKDv2yhMoofoeS7-Gg.m3u8
@@ -8252,6 +8249,9 @@ https://ythls.onrender.com/channel/UCtODsVaDSNkd93p6pXT15vA.m3u8
 
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/ytc/AOPolaSsIs48VaC43nfR2__K53CnV2gE6Kdi2mqAa4uN", チューリップテレビ
 https://ythls.onrender.com/channel/UCk4bgav5X0rlbGefFnPcuoQ.m3u8
+
+#EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/yQSsRuHFP9IWtOUwzXbcf7gNiz66oNga8set1TYy7jq6UnG_GMWbd3ZWIQPZkaRKbSqvk5gmPTc", メ〜テレニュース
+https://ythls.onrender.com/channel/UCWnOKASPkCBEL-_O8odMvtg.m3u8
 
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/LTxf9w6UM1L4MKyi5pMo4Ry2uACH8MretJqCIi_xgE476wo62-956HacZ8gY9JzXRHapnmK6mGY", ヴァンガードチャンネル【ウィルドレス第1話無料公開中!】
 https://ythls.onrender.com/channel/UC1Wp3qfvlq1GybWL6C85jSw.m3u8
