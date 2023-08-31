@@ -807,7 +807,7 @@ https://ythls.onrender.com/video/1KXZDgP9W5E.m3u8
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/5OGHIV8vBrOo2C7Fj913RVedjKQpBCrCsYawRmA8z0znBHFzZu7tuvaJcSig0anUFRkDxcnXBVY", ATV Aomori TV Official Channel
 https://ythls.onrender.com/video/cQDPXJAYmjI.m3u8
 
-#EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/5OGHIV8vBrOo2C7Fj913RVedjKQpBCrCsYawRmA8z0znBHFzZu7tuvaJcSig0anUFRkDxcnXBVY", ATV青森テレビ 公式チャンネル
+#EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/5OGHIV8vBrOo2C7Fj913RVedjKQpBCrCsYawRmA8z0znBHFzZu7tuvaJcSig0anUFRkDxcnXBVY", ATV Aomori TV Official Channel
 https://ythls.onrender.com/channel/UCdNYphHZdRYjpys_gwofUNQ.m3u8
 
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/ytc/AOPolaSTTtlTp2t-j4YxIYSpY0xvjdh2l-ONkhnIyWDVDA", Avenues Khabar
@@ -5853,7 +5853,7 @@ https://ythls.onrender.com/video/dw54p_YXMIE.m3u8
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/V_c5N2sfwnnGQbd8RQ8zyVvJJR-PSvzqLI4I49H4MOk6oWbOt48IF221wltQll4YMWzEpH_Lvw", SA Webcams
 https://ythls.onrender.com/video/HlimPykEcfU.m3u8
 
-#EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/fJzqC4rfW_QQQkMVo1c6kNp80xgqd-bI5rUE3U2SqcZmMDnEsTjRosVpxG1axnDHifcpWKSB", Saam TV
+#EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/fJzqC4rfW_QQQkMVo1c6kNp80xgqd-bI5rUE3U2SqcZmMDnEsTjRosVpxG1axnDHifcpWKSB", Saam TV News
 https://ythls.onrender.com/channel/UC6cxTsUnfSZrj96KNHhRTHQ.m3u8
 
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/OaVYLe4EtJPMjEqZYs9_2yioVZCOh6Zqk2s1zNxz8qELc-5UIQYo4rGuEBg9FrMGf_pe8TeYZw", SAB TV Pakistan
@@ -7578,8 +7578,14 @@ https://ythls.onrender.com/channel/UCnB5vfb9FMMNTnC6-kAT3fQ.m3u8
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/ytc/AOPolaTLFyStb0WLnVXpgj_QQZr08dd5i3O0riLnDSeMDA", Vatican News - Français
 https://ythls.onrender.com/channel/UCQxVySG5g2aC-Uz9NhpyiFg.m3u8
 
+#EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/ytc/AOPolaRKS0zr7EjJVuqdnvNqyePfu2sk4kPqaPm4AKfJTg", Vatican News - Italiano
+https://ythls.onrender.com/channel/UCkwbN2a1L1H6P9rcA7FhAqg.m3u8
+
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/ytc/AOPolaRIhVxGw0dCNRQgon8aIAKqvBQpZIa-NPQYatRS2g", Vatican News - Português
 https://ythls.onrender.com/video/bD5YtvKU2Q8.m3u8
+
+#EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/ytc/AOPolaRIhVxGw0dCNRQgon8aIAKqvBQpZIa-NPQYatRS2g", Vatican News - Português
+https://ythls.onrender.com/channel/UCGYSq4b4DXmtK4jyq6r-FYg.m3u8
 
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/RACtsIu2-G96TFGcEje3D8fhomrVO0CTEv_H8CFTTLDtsB1EdbOSaY_j5EVsAHshCrTIMCVTtj0", Vav Radyo
 https://ythls.onrender.com/video/ke1UKJpM7xg.m3u8
