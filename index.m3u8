@@ -4932,6 +4932,9 @@ https://ythls.onrender.com/video/sWxRLCkvTOU.m3u8
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/ytc/AOPolaSzWSS7kZV2OBRNCIyvLEvEUAIUQO4mfsg7-VSnQes", NBC News
 https://ythls.onrender.com/video/4QYxIXS3ka8.m3u8
 
+#EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/ytc/AOPolaSzWSS7kZV2OBRNCIyvLEvEUAIUQO4mfsg7-VSnQes", NBC News
+https://ythls.onrender.com/video/F5TpDzzWn-E.m3u8
+
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/ytc/AOPolaT6rFKHOrYefbu0QKgcyET8CnHNgkaBDGbb9Y3JLg", NBC2 News
 https://ythls.onrender.com/video/MJB6CUxvZcU.m3u8
 
@@ -7905,9 +7908,6 @@ https://ythls.onrender.com/video/LONcmK_WMRE.m3u8
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/hevXTZxQ55JhBv-XBWMN8g4e97YlOyjOOUVfXhj0V_5GD0xl8zhohIREx19I5F2mNOMkZ6n8eMY", TV360 Nigeria
 https://ythls.onrender.com/channel/UCBzu4YqGiBxBD8pq8NiBuKw.m3u8
 
-#EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/ytc/AOPolaRfit1Yn2whvmRn7kE7jNOR69-q-mdMuz56fv3Fkw", TV5
-https://ythls.onrender.com/channel/UCP-0oW3M7DpjmPDutckOjiA.m3u8
-
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/ytc/AOPolaQ76rMGpOX51VUSBwtUvz5Es41Z5vTprTnkSEk0", TV5 Kannada
 https://ythls.onrender.com/channel/UCpzsmNuUEmod64DGgBDPO-Q.m3u8
 
@@ -7916,6 +7916,9 @@ https://ythls.onrender.com/channel/UCAR3h_9fLV82N2FH4cE4RKw.m3u8
 
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/Hz0ZWAZq64ouDXsGnGv9h1cG6wezsPuYowayytoEVchaYErA8k08WWfA5ox35jJ0hRgn4oBkHg", TV5 News 
 https://ythls.onrender.com/video/ox2rT1KRkFI.m3u8
+
+#EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/ytc/AOPolaRfit1Yn2whvmRn7kE7jNOR69-q-mdMuz56fv3Fkw", TV5 Television
+https://ythls.onrender.com/channel/UCP-0oW3M7DpjmPDutckOjiA.m3u8
 
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/ytc/AOPolaROqKA6Q1zN-yjAWOr-py7KymkjQb1n2mk_Z8Ks_w", TV7
 https://ythls.onrender.com/channel/UCV9yrdAfyd1BdDyd4tDdVxg.m3u8
@@ -8331,11 +8334,11 @@ https://ythls.onrender.com/video/ang8LgJ9Mlo.m3u8
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/MSSsFRjbn8fYUICVDe_nnSs1qGFs2IoZ4tLza4jipnGSa5hE-xg77eafqNSTWXnQpDOPXx61OJg", Watchers Club
 https://ythls.onrender.com/video/riI3sIZgEMo.m3u8
 
-#EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/MSSsFRjbn8fYUICVDe_nnSs1qGFs2IoZ4tLza4jipnGSa5hE-xg77eafqNSTWXnQpDOPXx61OJg", Watchers Club [Club der Beobachter]
-https://ythls.onrender.com/channel/UCSkaixM5p8mYuBIdy2J0ZHw.m3u8
+#EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/MSSsFRjbn8fYUICVDe_nnSs1qGFs2IoZ4tLza4jipnGSa5hE-xg77eafqNSTWXnQpDOPXx61OJg", Watchers Club
+https://ythls.onrender.com/video/AguwBNWVhRw.m3u8
 
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/MSSsFRjbn8fYUICVDe_nnSs1qGFs2IoZ4tLza4jipnGSa5hE-xg77eafqNSTWXnQpDOPXx61OJg", Watchers Club [Club der Beobachter]
-https://ythls.onrender.com/video/AguwBNWVhRw.m3u8
+https://ythls.onrender.com/channel/UCSkaixM5p8mYuBIdy2J0ZHw.m3u8
 
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/ytc/AOPolaQZqFRCMBOufZuXWd3JeOvy4uNNkPxLWYczp-t2VQ", WatchMojo.com
 https://ythls.onrender.com/channel/UCaWd5_7JhbQBe4dknZhsHJg.m3u8
@@ -8448,7 +8451,7 @@ https://ythls.onrender.com/video/wEeJfBE8ecM.m3u8
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/imhb27FnbFRB3e5iS2Z7Okj91czXuvkMKUfMGXbmzkLArIlPRGINfWMKW8okNaHOEh36WRuaY38", Weercamera
 https://ythls.onrender.com/video/I09L5RCJkjo.m3u8
 
-#EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/ytc/AOPolaTpvGWDFasCGSHwYNLfbqAC_L7zwdzRJev13_e-jqY", WELT Nachrichtensender
+#EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/ytc/AOPolaTpvGWDFasCGSHwYNLfbqAC_L7zwdzRJev13_e-jqY", WELT
 https://ythls.onrender.com/channel/UCZMsvbAhhRblVGXmEXW8TSA.m3u8
 
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/dXeoiAlgbOqxHM-SyTUl0ZYJEMGo1iBJe6XqUg2DUg8IBLYrD9EnmwiSqMNaIqQZ8y2NcujnOw", Wena Sport Live
