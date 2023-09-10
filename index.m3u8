@@ -3486,7 +3486,7 @@ https://ythls.onrender.com/channel/UCttspZesZIDEwwpVIgoZtWQ.m3u8
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/ytc/AOPolaR8vx8PsXhjELaI5Te3CXBrFZR2Km7TFjXb2U8wJw", Indonesian Football e-League
 https://ythls.onrender.com/channel/UCGjs_InMUkfCzB79AjzaaKw.m3u8
 
-#EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/p2P3tU8mrPaPCrhXkHbDbqhpap-PBeGGjuzclXwMwK0cLqYmlpG8DCSVH74fFqLG_ZF6CkXSgA", Induk Frekom_86
+#EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/p2P3tU8mrPaPCrhXkHbDbqhpap-PBeGGjuzclXwMwK0cLqYmlpG8DCSVH74fFqLG_ZF6CkXSgA", Induk Frekom_86 (Mount Merapi Monitoring)
 https://ythls.onrender.com/video/ga9KTEPR7PQ.m3u8
 
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/IMjGmXpVVGPVFOzkJZxLUl3S5r0Spk3XAfu1gRnXIaJd9bmQTDvRwpLEBTKf2-O27BRXsgNvFA", iNEWS
@@ -4259,9 +4259,6 @@ https://ythls.onrender.com/channel/UC9q_4Ljmm0C15j25Bqx1ZOw.m3u8
 
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/QpMNF8Skt9BTsqc1KZz6HKZXRqK715mv11_GRv7bTTaG8jFXpfEe9o2ImBRHhnb7fNWE2WQxpXE", Letana Hotel \u0026 Restaurant 24 Hrs
 https://ythls.onrender.com/video/YAoyteM7Kvk.m3u8
-
-#EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/OZcOQc2xqaUYjAtECN7tOYPLOlsq-U049ibeulg1pO9iw6QVpBc8EreEYNAE0FXunAh7lyHMKMI", Letiště Praha
-https://ythls.onrender.com/video/eclmkLEJp1s.m3u8
 
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/OZcOQc2xqaUYjAtECN7tOYPLOlsq-U049ibeulg1pO9iw6QVpBc8EreEYNAE0FXunAh7lyHMKMI", Letiště Praha
 https://ythls.onrender.com/channel/UCF7gGGK5faKRXZExCSp1Vyw.m3u8
@@ -5732,6 +5729,9 @@ https://ythls.onrender.com/channel/UCE4BLzIH4N7cNIjjVrvH9TQ.m3u8
 
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/rl6f3hcqnnlbUgZmoftf-nj4X2q-Ucqi1e83M1gz2qYwhi1Ldief6S2PdhkNZN7xXaLRn2rCfA", Pragna TV Live Streaming
 https://ythls.onrender.com/channel/UCEwh9uOc4CE561y_KHN4Xug.m3u8
+
+#EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/OZcOQc2xqaUYjAtECN7tOYPLOlsq-U049ibeulg1pO9iw6QVpBc8EreEYNAE0FXunAh7lyHMKMI", Prague Airport
+https://ythls.onrender.com/video/eclmkLEJp1s.m3u8
 
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/6Eq1_nWkTyOktFxufAtuUAAxYDFVzt8D4Krq4dTetixzNYvmUFKydzhzcGIvkG76bcLzZKO3aw", Presentation Sports
 https://ythls.onrender.com/video/SH6u8tuQd4Y.m3u8
@@ -8508,7 +8508,7 @@ https://ythls.onrender.com/video/VufB_nQtvxA.m3u8
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/86g5WM50zqOivQPajRdSehjRU4zeosRdh9acaWDRu-CWU7oPEpepmz2wvRr7JI742kzEOcVggg", Weather Italy - WS Cam
 https://ythls.onrender.com/video/ZCF9R6sg-g4.m3u8
 
-#EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/86g5WM50zqOivQPajRdSehjRU4zeosRdh9acaWDRu-CWU7oPEpepmz2wvRr7JI742kzEOcVggg", Weather Italy - WS Cam
+#EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/86g5WM50zqOivQPajRdSehjRU4zeosRdh9acaWDRu-CWU7oPEpepmz2wvRr7JI742kzEOcVggg", Weather Sicily
 https://ythls.onrender.com/video/ncYv7M6Ns7E.m3u8
 
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/86g5WM50zqOivQPajRdSehjRU4zeosRdh9acaWDRu-CWU7oPEpepmz2wvRr7JI742kzEOcVggg", Weather Sicily
