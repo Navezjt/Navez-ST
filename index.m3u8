@@ -2568,7 +2568,7 @@ https://ythls.onrender.com/video/lFvCpvAI1Kw.m3u8
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/ytc/AOPolaTuPGluhx0V49RqTBYiEk9R1f4oMgmkQKaR85Efsw", Espace TV Guinée
 https://ythls.onrender.com/channel/UCMsFKwxfosayYR73hhFyf2Q.m3u8
 
-#EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/73-8rz8VSstA-YOTLd-wWxLceMtHQZqPqb5bG_8gcXQa7ehLrtd__sGl5xGmt4r2T1dV4lLx9g", Espreso
+#EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/73-8rz8VSstA-YOTLd-wWxLceMtHQZqPqb5bG_8gcXQa7ehLrtd__sGl5xGmt4r2T1dV4lLx9g", Espreso.TV
 https://ythls.onrender.com/channel/UCMEiyV8N2J93GdPNltPYM6w.m3u8
 
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/kR01XImRexdf-09F2P2XwmAQt4JtLrMDop9Un3zx1QPSUFmVnSjIUmMgWmCZJ7e-wDu3XWfhLw", Espreso.TV
@@ -3302,9 +3302,6 @@ https://ythls.onrender.com/channel/UCBQnpH3GKOKRGg4O8PpqQSw.m3u8
 
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/8-SXKb11zd5DBJGXL-4uRmyWmRtgi99vhq-BhE7uMdjkZ9OO5BhE-0aKv4XSxhdI3kP4Sjkt7g", Hipódromo San Isidro
 https://ythls.onrender.com/channel/UC3M7efaO9uxT0LTl3BSKvGg.m3u8
-
-#EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/qgEu_5bsC8PYrtd8fUyC2jFz5l5jPTo2vfsewNg-aQMqYAG1HeRfeDUKYFEo6FSKzTs32jlE", Hiroshima Latest News \u0026 Documentary
-https://ythls.onrender.com/channel/UCRnFGOp_mjaCYEhMzsE2iHA.m3u8
 
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/qgEu_5bsC8PYrtd8fUyC2jFz5l5jPTo2vfsewNg-aQMqYAG1HeRfeDUKYFEo6FSKzTs32jlE", Hiroshima Latest News \u0026 Documentary
 https://ythls.onrender.com/video/HCdknTdMfd8.m3u8
@@ -5663,6 +5660,9 @@ https://ythls.onrender.com/video/T4bKX9tChxY.m3u8
 
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/NT9VlXqiay7SoPw4niMMr8j8QOP0e9K5c3aLtrbfw8sY_qyThbNRN3Zzl2x4-lkiZ07tMqT2", PartyPokerTV
 https://ythls.onrender.com/video/YFxCU5KkubY.m3u8
+
+#EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/9lYoXSoJZq4gJaXHriG5Es4aOH6bNftzNJF58YzslvTm9lzdLj_ahcflwauvgIw8nte3TCDamjU", Patra Channel / 周防パトラ
+https://ythls.onrender.com/channel/UCeLzT-7b2PBcunJplmWtoDg.m3u8
 
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/fXAnfbXdv7xQxCRYxuSpAsR1o2dvC3NCY22mftXtWhTZeYeJNuAlj01lnr71n4KknmXjg6Q-d4o", PAW Patrol en Español
 https://ythls.onrender.com/channel/UCJNBZaQWMIHACqvHT_k2cWw.m3u8
@@ -8706,7 +8706,7 @@ https://ythls.onrender.com/video/wEeJfBE8ecM.m3u8
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/imhb27FnbFRB3e5iS2Z7Okj91czXuvkMKUfMGXbmzkLArIlPRGINfWMKW8okNaHOEh36WRuaY38", Weercamera
 https://ythls.onrender.com/video/I09L5RCJkjo.m3u8
 
-#EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/ytc/AOPolaTpvGWDFasCGSHwYNLfbqAC_L7zwdzRJev13_e-jqY", WELT Nachrichtensender
+#EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/ytc/AOPolaTpvGWDFasCGSHwYNLfbqAC_L7zwdzRJev13_e-jqY", WELT
 https://ythls.onrender.com/channel/UCZMsvbAhhRblVGXmEXW8TSA.m3u8
 
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/dXeoiAlgbOqxHM-SyTUl0ZYJEMGo1iBJe6XqUg2DUg8IBLYrD9EnmwiSqMNaIqQZ8y2NcujnOw", Wena Sport Live
@@ -9266,6 +9266,9 @@ https://ythls.onrender.com/channel/UCR61XV4ROXhkcfLO31hTGuw.m3u8
 
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/4f4-oNB9F7dVflwUeBfBUIGvCZ6QBLeSE1pL_rVde0JhcxEY_XpfgdjbkraiyrlL9BitcfnXfxQ", 【LIVE配信   大阪・日本橋】メイド喫茶の街、日本橋、コスプレ、日本橋ストリートフェスタ
 https://ythls.onrender.com/channel/UCjeJcwvOUi4XZpM4J9bm74A.m3u8
+
+#EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/qgEu_5bsC8PYrtd8fUyC2jFz5l5jPTo2vfsewNg-aQMqYAG1HeRfeDUKYFEo6FSKzTs32jlE", 【公式】HOME広島ニュース
+https://ythls.onrender.com/channel/UCRnFGOp_mjaCYEhMzsE2iHA.m3u8
 
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/ytc/AOPolaSYtF8TeNsjHs10mVAG8wtwlCEzyaHdh7tRKagRfQ", 【琉球放送】RBC NEWS
 https://ythls.onrender.com/channel/UCl27leged0PT2kIrRtrFYKA.m3u8
