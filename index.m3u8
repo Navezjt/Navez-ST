@@ -891,7 +891,7 @@ https://ythls.onrender.com/video/EvIN3aHCE0o.m3u8
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/5OGHIV8vBrOo2C7Fj913RVedjKQpBCrCsYawRmA8z0znBHFzZu7tuvaJcSig0anUFRkDxcnXBVY", ATV Aomori TV Official Channel
 https://ythls.onrender.com/video/cQDPXJAYmjI.m3u8
 
-#EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/5OGHIV8vBrOo2C7Fj913RVedjKQpBCrCsYawRmA8z0znBHFzZu7tuvaJcSig0anUFRkDxcnXBVY", ATV青森テレビ 公式チャンネル
+#EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/5OGHIV8vBrOo2C7Fj913RVedjKQpBCrCsYawRmA8z0znBHFzZu7tuvaJcSig0anUFRkDxcnXBVY", ATV Aomori TV Official Channel
 https://ythls.onrender.com/channel/UCdNYphHZdRYjpys_gwofUNQ.m3u8
 
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/ytc/AOPolaSTTtlTp2t-j4YxIYSpY0xvjdh2l-ONkhnIyWDVDA", Avenues Khabar
@@ -1577,9 +1577,6 @@ https://ythls.onrender.com/video/Qlk9HhuM0ZU.m3u8
 
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/ytc/AOPolaQ8DWHWVZZNaVv-_5kpLhcG3jZqlfXqPPRAYir_Sg", Cat Trumpet
 https://ythls.onrender.com/channel/UCI-Ho-GaKYbtMzXJWmWAsrg.m3u8
-
-#EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/EAmRmQT4t4Rq0griNo4n8dxA1Q5ucvWDqaDj0QrbVmQh8Ceol6fJfi48zOJQR34zr_HnweMlfjI", Catholic Media Network
-https://ythls.onrender.com/channel/UCnPwQV0-W7S02i_omPEpJBg.m3u8
 
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/l4R_A2qP51-Lbp1-DzrqIiCvxWk-yjHRFNPlrtX2wlDZV4ePfvZK4if1nDG-21fwIvvIOz2z8w", Catomedia UCSG
 https://ythls.onrender.com/channel/UCH5499PHqkqKPsGEUJl5lZg.m3u8
@@ -6374,6 +6371,9 @@ https://ythls.onrender.com/video/oIA8Z_IWm2E.m3u8
 
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/xoqgjnZ9Wd8-cPvKryCyTcfeaT7K3rZtQxCJHhcbICXoVvw7x3hYcQ0S02kzvdmsqwq-Fgnt", Record News
 https://ythls.onrender.com/video/G7yGdmojzEw.m3u8
+
+#EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/EAmRmQT4t4Rq0griNo4n8dxA1Q5ucvWDqaDj0QrbVmQh8Ceol6fJfi48zOJQR34zr_HnweMlfjI", RED CATÓLICA DE MEDIOS
+https://ythls.onrender.com/channel/UCnPwQV0-W7S02i_omPEpJBg.m3u8
 
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/ytc/AOPolaTVzElJK1SX0qRyxnw219HjEQRCMegQjUXd59qz-9w_rGdOJ0gUX9pkFWymr9KO", Redactie A7tv
 https://ythls.onrender.com/channel/UCWZxOfINa92_vDXXsHZygKA.m3u8
