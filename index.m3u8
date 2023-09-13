@@ -7389,9 +7389,6 @@ https://ythls.onrender.com/video/DPYfl26f1k4.m3u8
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/RfKKG7y_FBtCNSO8pxW28swsDWPYT_2OsAe4g6JFOidlzLznXd73tzk3vsHyUk3Fywp_itC6", Taiwan SETNEWS Live  Channel
 https://ythls.onrender.com/video/jlldIiGA5bU.m3u8
 
-#EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/RfKKG7y_FBtCNSO8pxW28swsDWPYT_2OsAe4g6JFOidlzLznXd73tzk3vsHyUk3Fywp_itC6", Taiwan SETNEWS Live  Channel
-https://ythls.onrender.com/video/oZdzzvxTfUY.m3u8
-
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/6bPR4HEN_91wKrD7k0dfnRWO5G6XPZdHKWWhRbzyT-nERWPTm-LtpqF_TYhwuf5BqMBveum5sdQ", TaiwanPlus Livestream
 https://ythls.onrender.com/channel/UC7c6rvyAZLpKGk8ttVnpnLA.m3u8
 
@@ -9441,6 +9438,12 @@ https://ythls.onrender.com/channel/UC1Wp3qfvlq1GybWL6C85jSw.m3u8
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/ZdGT0pzlpBUdyvQN-2MtuDPe0_Bclv1JSv3LbIub8TAofAE_xL7SxyBbSCZYnJjpB9hV2ncl", 三立iNEWS
 https://ythls.onrender.com/channel/UCoNYj9OFHZn3ACmmeRCPwbA.m3u8
 
+#EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/ZdGT0pzlpBUdyvQN-2MtuDPe0_Bclv1JSv3LbIub8TAofAE_xL7SxyBbSCZYnJjpB9hV2ncl", 三立iNEWS
+https://ythls.onrender.com/video/CKjSm5ZeehE.m3u8
+
+#EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/RfKKG7y_FBtCNSO8pxW28swsDWPYT_2OsAe4g6JFOidlzLznXd73tzk3vsHyUk3Fywp_itC6", 三立LIVE新聞
+https://ythls.onrender.com/video/oZdzzvxTfUY.m3u8
+
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/RfKKG7y_FBtCNSO8pxW28swsDWPYT_2OsAe4g6JFOidlzLznXd73tzk3vsHyUk3Fywp_itC6", 三立LIVE新聞
 https://ythls.onrender.com/channel/UC2TuODJhC03pLgd6MpWP0iw.m3u8
 
@@ -9579,7 +9582,7 @@ https://ythls.onrender.com/video/gFRtAAmiFbE.m3u8
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/ytc/AOPolaQN516x_3CAgm46QOX44g-Ur1T56WQHklo9bxEYLQ", 民視新聞網 Formosa TV News network
 https://ythls.onrender.com/channel/UC2VmWn8dAqkzlQqvy02E1PA.m3u8
 
-#EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/ytc/AOPolaS8mzBZ9G_OUDOQha9NpmFDpmXughgAzx_Hq4q3Eg", 民視新聞網 Formosa TV News network
+#EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/ytc/AOPolaQN516x_3CAgm46QOX44g-Ur1T56WQHklo9bxEYLQ", 民視新聞網 Formosa TV News network
 https://ythls.onrender.com/video/ylYJSBUgaMA.m3u8
 
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/USckKOrCaZNFLPNY6WTV8MIhmc0Xbapol2fIXzHU3SSFITy2qqR7aqqVflFUuDOQTwhSS-SInA", 真耶穌教會 民雄教會
