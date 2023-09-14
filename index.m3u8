@@ -327,7 +327,7 @@ https://ythls.onrender.com/channel/UCBvv5xYXNHa5XjecBC2-odA.m3u8
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/ytc/AOPolaQq-gaALVS2IxKcgHTrXy1UHSRFNqJMkoKtbrgN", ABC7 SWFL
 https://ythls.onrender.com/channel/UCq9e_hCv2jvgck8WowW1NXg.m3u8
 
-#EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/pdmhb8Gtl4gvB8HdC8Na3mChnujTTMl5ghy41wx7Olhn00qgeIJOl7FjF9RQ9hJNyQ5b9PU0", ABCTVnews
+#EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/pdmhb8Gtl4gvB8HdC8Na3mChnujTTMl5ghy41wx7Olhn00qgeIJOl7FjF9RQ9hJNyQ5b9PU0", ABCテレビニュース
 https://ythls.onrender.com/channel/UCPW-5qfYGNR8XYrvESrqJKA.m3u8
 
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/pdmhb8Gtl4gvB8HdC8Na3mChnujTTMl5ghy41wx7Olhn00qgeIJOl7FjF9RQ9hJNyQ5b9PU0", ABCテレビニュース
@@ -1874,6 +1874,9 @@ https://ythls.onrender.com/channel/UC0okuxxQzjTFtdV3koO_Tjw.m3u8
 
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/EmxxEsThVYZlf31I_Lj2pRSBJYJ0qItXwO7U9E0Fa8a_L0ZW8IXWa9YTUrvuldMJFAs5B1czxA", Congreso del Perú en Vivo
 https://ythls.onrender.com/channel/UCBBfJ9Y_Cl3AA10wGz7jxXQ.m3u8
+
+#EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/89JiHsaEsuCuzlcmtemfWyfMtRRbZrjMciCZrWTWT7oRonqiz29iOnBndDifmPQAcF54thytIQ", CONMEBOL
+https://ythls.onrender.com/video/gYECkdethXA.m3u8
 
 #EXTINF:-1 group-title="Crime" tvg-language="English" tvg-logo="https://yt3.ggpht.com/ytc/AOPolaSYZO5U_3aJIaWIxUeM-KKDn6tREqlyo-YVQW67bA", COPSTV
 https://ythls.onrender.com/channel/UCfJsOa7m1zKMS9T2dvIljfQ.m3u8
@@ -5108,6 +5111,12 @@ https://ythls.onrender.com/video/ZTBaUuHhVPs.m3u8
 
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/hClyN5iUmNRnC_9xdLsOdMB6tBl2HNAh8fhtdSg25KuCG8iynnsMOZA9abDL0TB0JksRIs56xA", Musicamusik
 https://ythls.onrender.com/video/wDMTaLZ-XX0.m3u8
+
+#EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/t2cxLlb7JVVkOZSN6yOlhUMy_XKdcLktiRMc6FVvdCrl3YPpDl8C-3xmgITOTc13OqvA6KaOMeE", Musicoterapia 
+https://ythls.onrender.com/video/7J0GO-XOo4I.m3u8
+
+#EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/t2cxLlb7JVVkOZSN6yOlhUMy_XKdcLktiRMc6FVvdCrl3YPpDl8C-3xmgITOTc13OqvA6KaOMeE", Musicoterapia 
+https://ythls.onrender.com/video/AVu4_2Ez0E8.m3u8
 
 #EXTINF:-1 group-title="Sports" tvg-language="English" tvg-logo="https://yt3.ggpht.com/9wk_1O3cXWnUmNUseduRI9QDLnSc9AcF92LrP92V8TKaVLTVWvYK5nw4TNkDJWq1-lRGGJ5LIg", mxgptv
 https://ythls.onrender.com/channel/UCOlCqreTEPtLeuNu3hJhEBQ.m3u8
