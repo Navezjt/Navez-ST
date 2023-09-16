@@ -2874,6 +2874,9 @@ https://ythls.onrender.com/video/6ch6CN6ZhWQ.m3u8
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/fPA92eS9tUrDP3sn2DnMdsg4zq-v_647DosWnrRAS2-6UiweKu1Frgv8j_tbdv6ywDD-XZUOVQ", Exclusiv TV LIVE Romania
 https://ythls.onrender.com/video/38wKqGJIXYY.m3u8
 
+#EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/fPA92eS9tUrDP3sn2DnMdsg4zq-v_647DosWnrRAS2-6UiweKu1Frgv8j_tbdv6ywDD-XZUOVQ", Exclusiv TV LIVE Romania
+https://ythls.onrender.com/video/zi91g2q6L3k.m3u8
+
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/ytc/AOPolaQSlvpo2Vk_efjjbMbPs8GUJG1RGVwU4ihlc6Gr", Exclusiv TV Romania
 https://ythls.onrender.com/channel/UCxc4yGEO7sS228V9mltNjZQ.m3u8
 
@@ -8067,9 +8070,6 @@ https://ythls.onrender.com/video/3loPeQnJKk4.m3u8
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/ytc/AOPolaQVrNNdWQ0anRpT0A6H85mtuo7hXL3Dq4SeUZOe8A", The official channel of KSA Qur’an TV 
 https://ythls.onrender.com/video/N9QSL1PLUS4.m3u8
 
-#EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/ytc/AOPolaQVrNNdWQ0anRpT0A6H85mtuo7hXL3Dq4SeUZOe8A", The official channel of KSA Qur’an TV 
-https://ythls.onrender.com/channel/UCos52azQNBgW63_9uDJoPDA.m3u8
-
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/ytc/AOPolaSLWaKnAFtVbthcLVEj6ZGSPRJ1DwxXJDa9iaInaw", The official channel of KSA Sports TV
 https://ythls.onrender.com/video/vI7Fmg4wKts.m3u8
 
@@ -9629,6 +9629,9 @@ https://ythls.onrender.com/channel/UCtF3YygTiodnYSw8vD3UJtQ.m3u8
 
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/ytc/AOPolaTuv8Wa35Zhv7rSjILH7OZp9Hh8iNmpITx7oEmLNA", قناة العراقية الرياضية
 https://ythls.onrender.com/channel/UCZ8zJO04KF6RD2VqZaWFkxg.m3u8
+
+#EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/ytc/AOPolaQVrNNdWQ0anRpT0A6H85mtuo7hXL3Dq4SeUZOe8A", قناة القران الكريم
+https://ythls.onrender.com/channel/UCos52azQNBgW63_9uDJoPDA.m3u8
 
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/ytc/AOPolaQVrNNdWQ0anRpT0A6H85mtuo7hXL3Dq4SeUZOe8A", قناة القران الكريم
 https://ythls.onrender.com/video/MgLFLCMb5m4.m3u8
