@@ -327,7 +327,7 @@ https://ythls.onrender.com/channel/UCBvv5xYXNHa5XjecBC2-odA.m3u8
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/ytc/AOPolaQq-gaALVS2IxKcgHTrXy1UHSRFNqJMkoKtbrgN", ABC7 SWFL
 https://ythls.onrender.com/channel/UCq9e_hCv2jvgck8WowW1NXg.m3u8
 
-#EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/pdmhb8Gtl4gvB8HdC8Na3mChnujTTMl5ghy41wx7Olhn00qgeIJOl7FjF9RQ9hJNyQ5b9PU0", ABCTVnews
+#EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/pdmhb8Gtl4gvB8HdC8Na3mChnujTTMl5ghy41wx7Olhn00qgeIJOl7FjF9RQ9hJNyQ5b9PU0", ABCテレビニュース
 https://ythls.onrender.com/channel/UCPW-5qfYGNR8XYrvESrqJKA.m3u8
 
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/pdmhb8Gtl4gvB8HdC8Na3mChnujTTMl5ghy41wx7Olhn00qgeIJOl7FjF9RQ9hJNyQ5b9PU0", ABCテレビニュース
@@ -1910,6 +1910,9 @@ https://ythls.onrender.com/channel/UCef1-8eOpJgud7szVPlZQAQ.m3u8
 
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/4m7yvjIhOhtCXb905kcNQl6EXt5AzDXvmx6pN5WxbMtd1hylOZDESw6lvV77UjPWtQ--JizW8w", CNN-News18
 https://ythls.onrender.com/video/4nNqFV68Kuo.m3u8
+
+#EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/4m7yvjIhOhtCXb905kcNQl6EXt5AzDXvmx6pN5WxbMtd1hylOZDESw6lvV77UjPWtQ--JizW8w", CNN-News18
+https://ythls.onrender.com/video/IjExC5XuppM.m3u8
 
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/ytc/AOPolaRjYdnt_ES9B8QK398k4R1o5U6MoFQ0a7fqT4t8", Cocobi - Songs \u0026 Stories
 https://ythls.onrender.com/video/TI5A2wivQQw.m3u8
@@ -8145,6 +8148,9 @@ https://ythls.onrender.com/video/3loPeQnJKk4.m3u8
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/ytc/AOPolaQVrNNdWQ0anRpT0A6H85mtuo7hXL3Dq4SeUZOe8A", The official channel of KSA Qur’an TV 
 https://ythls.onrender.com/video/N9QSL1PLUS4.m3u8
 
+#EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/ytc/AOPolaQVrNNdWQ0anRpT0A6H85mtuo7hXL3Dq4SeUZOe8A", The official channel of KSA Qur’an TV 
+https://ythls.onrender.com/channel/UCos52azQNBgW63_9uDJoPDA.m3u8
+
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/ytc/AOPolaSLWaKnAFtVbthcLVEj6ZGSPRJ1DwxXJDa9iaInaw", The official channel of KSA Sports TV
 https://ythls.onrender.com/video/vI7Fmg4wKts.m3u8
 
@@ -8634,9 +8640,6 @@ https://ythls.onrender.com/video/LONcmK_WMRE.m3u8
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/hevXTZxQ55JhBv-XBWMN8g4e97YlOyjOOUVfXhj0V_5GD0xl8zhohIREx19I5F2mNOMkZ6n8eMY", TV360 Nigeria
 https://ythls.onrender.com/channel/UCBzu4YqGiBxBD8pq8NiBuKw.m3u8
 
-#EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/ytc/AOPolaRfit1Yn2whvmRn7kE7jNOR69-q-mdMuz56fv3Fkw", TV5
-https://ythls.onrender.com/channel/UCP-0oW3M7DpjmPDutckOjiA.m3u8
-
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/ytc/AOPolaQ76rMGpOX51VUSBwtUvz5Es41Z5vTprTnkSEk0", TV5 Kannada
 https://ythls.onrender.com/channel/UCpzsmNuUEmod64DGgBDPO-Q.m3u8
 
@@ -8645,6 +8648,9 @@ https://ythls.onrender.com/channel/UCAR3h_9fLV82N2FH4cE4RKw.m3u8
 
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/Hz0ZWAZq64ouDXsGnGv9h1cG6wezsPuYowayytoEVchaYErA8k08WWfA5ox35jJ0hRgn4oBkHg", TV5 News 
 https://ythls.onrender.com/video/ox2rT1KRkFI.m3u8
+
+#EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/ytc/AOPolaRfit1Yn2whvmRn7kE7jNOR69-q-mdMuz56fv3Fkw", TV5 Television
+https://ythls.onrender.com/channel/UCP-0oW3M7DpjmPDutckOjiA.m3u8
 
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/dta_1oTIVadJjGyWtfGmhMJuhrOxRwz-1cgwJ8p559PYLY77eUM1_9NpMvdE07GnYbb9cOpgNA", TV5MONDE Info
 https://ythls.onrender.com/video/-NHuK6o3R5s.m3u8
@@ -9716,9 +9722,6 @@ https://ythls.onrender.com/channel/UCtF3YygTiodnYSw8vD3UJtQ.m3u8
 
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/ytc/AOPolaTuv8Wa35Zhv7rSjILH7OZp9Hh8iNmpITx7oEmLNA", قناة العراقية الرياضية
 https://ythls.onrender.com/channel/UCZ8zJO04KF6RD2VqZaWFkxg.m3u8
-
-#EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/ytc/AOPolaQVrNNdWQ0anRpT0A6H85mtuo7hXL3Dq4SeUZOe8A", قناة القران الكريم
-https://ythls.onrender.com/channel/UCos52azQNBgW63_9uDJoPDA.m3u8
 
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/ytc/AOPolaQVrNNdWQ0anRpT0A6H85mtuo7hXL3Dq4SeUZOe8A", قناة القران الكريم
 https://ythls.onrender.com/video/MgLFLCMb5m4.m3u8
