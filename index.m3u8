@@ -2070,6 +2070,9 @@ https://ythls.onrender.com/channel/UC9r76Tzp5HxeQG7SqZwV3OA.m3u8
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/ytc/AOPolaS2B_XRr2kMw55HYs2nuWf1Eo5iok1EKybCcqlMPw", Cruise1st TV
 https://ythls.onrender.com/video/LTHVmGbYBo8.m3u8
 
+#EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/UtEhhI5nBa7MRGnam0FuAYmOf2u1KMUvL2NHbVKLVDUp96U8sDKaoDS75wtO_7Y1csTUo3lP1w", Crypto \u0026 Forex Live Education
+https://ythls.onrender.com/video/lo6I1zDehTQ.m3u8
+
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/i213N_VQVyD9cIhh1zRP9OFW60ege6nchMkw4SzEiy6YznGacsKto8GKsFoye12LcV4pskI__w", Crónica TV
 https://ythls.onrender.com/channel/UCT7KFGv6s2a-rh2Jq8ZdM1g.m3u8
 
@@ -6747,6 +6750,9 @@ https://ythls.onrender.com/channel/UC-MMd_17p3qNSTVbLdiYzow.m3u8
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/mTlDGbTA2yAO86wi3YGZycJN8nrTaX_8grkT6SCUMDg0tj8nBIK21HnqgxTx4LIKN-dmeUJxRDY", Rap Mafia
 https://ythls.onrender.com/video/S6helKOW5P0.m3u8
 
+#EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/ytc/AOPolaT56u4BXVDRcdR522-3YVDDa44cx_yGfhnBbxkPyQ", Rapha TV
+https://ythls.onrender.com/channel/UCYo1cBqDWMAQ-_krJdEw9ew.m3u8
+
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/A9H9fvxtkleO4RD65cWQVPRJvTURSITtSR8rPaOUZPqDbkEZ4goO7QUn7vUaT1vUwyKJFhjHMPc", Raquel Daruech TV
 https://ythls.onrender.com/channel/UCxZ7Z0-z9EnTZAyKmeP2_MQ.m3u8
 
@@ -8826,9 +8832,6 @@ https://ythls.onrender.com/channel/UCBzu4YqGiBxBD8pq8NiBuKw.m3u8
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/ytc/AOPolaRfit1Yn2whvmRn7kE7jNOR69-q-mdMuz56fv3Fkw", TV5
 https://ythls.onrender.com/video/svSmNvB42Dk.m3u8
 
-#EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/ytc/AOPolaRfit1Yn2whvmRn7kE7jNOR69-q-mdMuz56fv3Fkw", TV5
-https://ythls.onrender.com/channel/UCP-0oW3M7DpjmPDutckOjiA.m3u8
-
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/ytc/AOPolaQ76rMGpOX51VUSBwtUvz5Es41Z5vTprTnkSEk0", TV5 Kannada
 https://ythls.onrender.com/channel/UCpzsmNuUEmod64DGgBDPO-Q.m3u8
 
@@ -8837,6 +8840,9 @@ https://ythls.onrender.com/channel/UCAR3h_9fLV82N2FH4cE4RKw.m3u8
 
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/Hz0ZWAZq64ouDXsGnGv9h1cG6wezsPuYowayytoEVchaYErA8k08WWfA5ox35jJ0hRgn4oBkHg", TV5 News 
 https://ythls.onrender.com/video/ox2rT1KRkFI.m3u8
+
+#EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/ytc/AOPolaRfit1Yn2whvmRn7kE7jNOR69-q-mdMuz56fv3Fkw", TV5 Television
+https://ythls.onrender.com/channel/UCP-0oW3M7DpjmPDutckOjiA.m3u8
 
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/dta_1oTIVadJjGyWtfGmhMJuhrOxRwz-1cgwJ8p559PYLY77eUM1_9NpMvdE07GnYbb9cOpgNA", TV5MONDE Info
 https://ythls.onrender.com/video/-NHuK6o3R5s.m3u8
@@ -9405,7 +9411,7 @@ https://ythls.onrender.com/video/wEeJfBE8ecM.m3u8
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/imhb27FnbFRB3e5iS2Z7Okj91czXuvkMKUfMGXbmzkLArIlPRGINfWMKW8okNaHOEh36WRuaY38", Weercamera
 https://ythls.onrender.com/video/I09L5RCJkjo.m3u8
 
-#EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/ytc/AOPolaTpvGWDFasCGSHwYNLfbqAC_L7zwdzRJev13_e-jqY", WELT
+#EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/ytc/AOPolaTpvGWDFasCGSHwYNLfbqAC_L7zwdzRJev13_e-jqY", WELT Nachrichtensender
 https://ythls.onrender.com/channel/UCZMsvbAhhRblVGXmEXW8TSA.m3u8
 
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/dXeoiAlgbOqxHM-SyTUl0ZYJEMGo1iBJe6XqUg2DUg8IBLYrD9EnmwiSqMNaIqQZ8y2NcujnOw", Wena Sport Live
