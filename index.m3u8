@@ -759,6 +759,9 @@ https://ythls.onrender.com/video/OADLpWomMR8.m3u8
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/r1K14zjta14Zdm9bikcHH2YlhAMbpwlnvWkdNDESrkiIySi_pokbyNkvO9WKMHN5dvGkA2nlIw", Aradana TV 
 https://ythls.onrender.com/video/vOBN5fE_GHc.m3u8
 
+#EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/r1K14zjta14Zdm9bikcHH2YlhAMbpwlnvWkdNDESrkiIySi_pokbyNkvO9WKMHN5dvGkA2nlIw", Aradana TV 
+https://ythls.onrender.com/video/Bvg1iwBpHrc.m3u8
+
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/OPXiRNVOnH1fz0Li7fc1y-AnUGuOkjiSgcIXb2YQwV7sOw5qb0NQnstOl8CHJ1ys4rbFZaxaLg", ARAPUAN FM JOÃO PESSOA
 https://ythls.onrender.com/channel/UCdThBY40H-w3JjHjgVzdjww.m3u8
 
@@ -8373,9 +8376,6 @@ https://ythls.onrender.com/video/w2besHmcunk.m3u8
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/ytc/AOPolaQVrNNdWQ0anRpT0A6H85mtuo7hXL3Dq4SeUZOe8A", The official channel of KSA Qur’an TV 
 https://ythls.onrender.com/video/3loPeQnJKk4.m3u8
 
-#EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/ytc/AOPolaQVrNNdWQ0anRpT0A6H85mtuo7hXL3Dq4SeUZOe8A", The official channel of KSA Qur’an TV 
-https://ythls.onrender.com/channel/UCos52azQNBgW63_9uDJoPDA.m3u8
-
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/ytc/AOPolaSLWaKnAFtVbthcLVEj6ZGSPRJ1DwxXJDa9iaInaw", The official channel of KSA Sports TV
 https://ythls.onrender.com/video/vI7Fmg4wKts.m3u8
 
@@ -8889,9 +8889,6 @@ https://ythls.onrender.com/channel/UCBzu4YqGiBxBD8pq8NiBuKw.m3u8
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/ytc/AOPolaRfit1Yn2whvmRn7kE7jNOR69-q-mdMuz56fv3Fkw", TV5
 https://ythls.onrender.com/video/svSmNvB42Dk.m3u8
 
-#EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/ytc/AOPolaRfit1Yn2whvmRn7kE7jNOR69-q-mdMuz56fv3Fkw", TV5
-https://ythls.onrender.com/channel/UCP-0oW3M7DpjmPDutckOjiA.m3u8
-
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/ytc/AOPolaQ76rMGpOX51VUSBwtUvz5Es41Z5vTprTnkSEk0", TV5 Kannada
 https://ythls.onrender.com/channel/UCpzsmNuUEmod64DGgBDPO-Q.m3u8
 
@@ -8900,6 +8897,9 @@ https://ythls.onrender.com/channel/UCAR3h_9fLV82N2FH4cE4RKw.m3u8
 
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/Hz0ZWAZq64ouDXsGnGv9h1cG6wezsPuYowayytoEVchaYErA8k08WWfA5ox35jJ0hRgn4oBkHg", TV5 News 
 https://ythls.onrender.com/video/ox2rT1KRkFI.m3u8
+
+#EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/ytc/AOPolaRfit1Yn2whvmRn7kE7jNOR69-q-mdMuz56fv3Fkw", TV5 Television
+https://ythls.onrender.com/channel/UCP-0oW3M7DpjmPDutckOjiA.m3u8
 
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/dta_1oTIVadJjGyWtfGmhMJuhrOxRwz-1cgwJ8p559PYLY77eUM1_9NpMvdE07GnYbb9cOpgNA", TV5MONDE Info
 https://ythls.onrender.com/video/-NHuK6o3R5s.m3u8
@@ -10004,6 +10004,9 @@ https://ythls.onrender.com/channel/UCtF3YygTiodnYSw8vD3UJtQ.m3u8
 
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/ytc/AOPolaTuv8Wa35Zhv7rSjILH7OZp9Hh8iNmpITx7oEmLNA", قناة العراقية الرياضية
 https://ythls.onrender.com/channel/UCZ8zJO04KF6RD2VqZaWFkxg.m3u8
+
+#EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/ytc/AOPolaQVrNNdWQ0anRpT0A6H85mtuo7hXL3Dq4SeUZOe8A", قناة القران الكريم
+https://ythls.onrender.com/channel/UCos52azQNBgW63_9uDJoPDA.m3u8
 
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/ytc/AOPolaQVrNNdWQ0anRpT0A6H85mtuo7hXL3Dq4SeUZOe8A", قناة القران الكريم
 https://ythls.onrender.com/video/N9QSL1PLUS4.m3u8
