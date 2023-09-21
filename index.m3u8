@@ -339,7 +339,7 @@ https://ythls.onrender.com/channel/UCBvv5xYXNHa5XjecBC2-odA.m3u8
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/ytc/AOPolaQq-gaALVS2IxKcgHTrXy1UHSRFNqJMkoKtbrgN", ABC7 SWFL
 https://ythls.onrender.com/channel/UCq9e_hCv2jvgck8WowW1NXg.m3u8
 
-#EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/pdmhb8Gtl4gvB8HdC8Na3mChnujTTMl5ghy41wx7Olhn00qgeIJOl7FjF9RQ9hJNyQ5b9PU0", ABCTVnews
+#EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/pdmhb8Gtl4gvB8HdC8Na3mChnujTTMl5ghy41wx7Olhn00qgeIJOl7FjF9RQ9hJNyQ5b9PU0", ABCテレビニュース
 https://ythls.onrender.com/channel/UCPW-5qfYGNR8XYrvESrqJKA.m3u8
 
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/pdmhb8Gtl4gvB8HdC8Na3mChnujTTMl5ghy41wx7Olhn00qgeIJOl7FjF9RQ9hJNyQ5b9PU0", ABCテレビニュース
@@ -761,6 +761,9 @@ https://ythls.onrender.com/video/vOBN5fE_GHc.m3u8
 
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/r1K14zjta14Zdm9bikcHH2YlhAMbpwlnvWkdNDESrkiIySi_pokbyNkvO9WKMHN5dvGkA2nlIw", Aradana TV 
 https://ythls.onrender.com/video/Bvg1iwBpHrc.m3u8
+
+#EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/r1K14zjta14Zdm9bikcHH2YlhAMbpwlnvWkdNDESrkiIySi_pokbyNkvO9WKMHN5dvGkA2nlIw", Aradana TV 
+https://ythls.onrender.com/video/soVWANGU7sY.m3u8
 
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/OPXiRNVOnH1fz0Li7fc1y-AnUGuOkjiSgcIXb2YQwV7sOw5qb0NQnstOl8CHJ1ys4rbFZaxaLg", ARAPUAN FM JOÃO PESSOA
 https://ythls.onrender.com/channel/UCdThBY40H-w3JjHjgVzdjww.m3u8
@@ -5664,6 +5667,9 @@ https://ythls.onrender.com/channel/UC1-ATnDVEwKT6-0aEeJ2ibA.m3u8
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/ytc/AOPolaSAHWGsBJ3kEkX_p-zjgDi5swFnbtKJ-ZER5akjyA", NetInsight
 https://ythls.onrender.com/video/d59850Gob28.m3u8
 
+#EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/ytc/AOPolaSAHWGsBJ3kEkX_p-zjgDi5swFnbtKJ-ZER5akjyA", NetInsight
+https://ythls.onrender.com/video/2G_6SynoeTU.m3u8
+
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/bukAXuOy0pKZQ_QCKYZOcfNQJPFvXgXWCHge0sgJUuUPP2j_ZeLffBSLNRDO6LpiZ0QbQiNeveQ", NevoMusic | Uzbek Music Videos
 https://ythls.onrender.com/channel/UCkaUg9b9LplVoJdx1JwwyOg.m3u8
 
@@ -9483,7 +9489,7 @@ https://ythls.onrender.com/video/wEeJfBE8ecM.m3u8
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/imhb27FnbFRB3e5iS2Z7Okj91czXuvkMKUfMGXbmzkLArIlPRGINfWMKW8okNaHOEh36WRuaY38", Weercamera
 https://ythls.onrender.com/video/I09L5RCJkjo.m3u8
 
-#EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/ytc/AOPolaTpvGWDFasCGSHwYNLfbqAC_L7zwdzRJev13_e-jqY", WELT Nachrichtensender
+#EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/ytc/AOPolaTpvGWDFasCGSHwYNLfbqAC_L7zwdzRJev13_e-jqY", WELT
 https://ythls.onrender.com/channel/UCZMsvbAhhRblVGXmEXW8TSA.m3u8
 
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/dXeoiAlgbOqxHM-SyTUl0ZYJEMGo1iBJe6XqUg2DUg8IBLYrD9EnmwiSqMNaIqQZ8y2NcujnOw", Wena Sport Live
