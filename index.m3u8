@@ -351,7 +351,7 @@ https://ythls.onrender.com/channel/UCBvv5xYXNHa5XjecBC2-odA.m3u8
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/ytc/AOPolaQq-gaALVS2IxKcgHTrXy1UHSRFNqJMkoKtbrgN", ABC7 SWFL
 https://ythls.onrender.com/channel/UCq9e_hCv2jvgck8WowW1NXg.m3u8
 
-#EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/pdmhb8Gtl4gvB8HdC8Na3mChnujTTMl5ghy41wx7Olhn00qgeIJOl7FjF9RQ9hJNyQ5b9PU0", ABCTVnews
+#EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/pdmhb8Gtl4gvB8HdC8Na3mChnujTTMl5ghy41wx7Olhn00qgeIJOl7FjF9RQ9hJNyQ5b9PU0", ABCテレビニュース
 https://ythls.onrender.com/channel/UCPW-5qfYGNR8XYrvESrqJKA.m3u8
 
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/pdmhb8Gtl4gvB8HdC8Na3mChnujTTMl5ghy41wx7Olhn00qgeIJOl7FjF9RQ9hJNyQ5b9PU0", ABCテレビニュース
@@ -9240,6 +9240,9 @@ https://ythls.onrender.com/video/LONcmK_WMRE.m3u8
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/hevXTZxQ55JhBv-XBWMN8g4e97YlOyjOOUVfXhj0V_5GD0xl8zhohIREx19I5F2mNOMkZ6n8eMY", TV360 Nigeria
 https://ythls.onrender.com/channel/UCBzu4YqGiBxBD8pq8NiBuKw.m3u8
 
+#EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/ytc/APkrFKaGiMBfUZWMyuguFIxtsjF5YUyBQPcmP_6Lw4xBtQ", TV5
+https://ythls.onrender.com/channel/UCP-0oW3M7DpjmPDutckOjiA.m3u8
+
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/ytc/APkrFKZSSeML051-32s-BXG3DkTLG0eGMj4XhW8TYm-K", TV5 Kannada
 https://ythls.onrender.com/channel/UCpzsmNuUEmod64DGgBDPO-Q.m3u8
 
@@ -9248,9 +9251,6 @@ https://ythls.onrender.com/channel/UCAR3h_9fLV82N2FH4cE4RKw.m3u8
 
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/Hz0ZWAZq64ouDXsGnGv9h1cG6wezsPuYowayytoEVchaYErA8k08WWfA5ox35jJ0hRgn4oBkHg", TV5 News 
 https://ythls.onrender.com/video/ox2rT1KRkFI.m3u8
-
-#EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/ytc/APkrFKaGiMBfUZWMyuguFIxtsjF5YUyBQPcmP_6Lw4xBtQ", TV5 Television
-https://ythls.onrender.com/channel/UCP-0oW3M7DpjmPDutckOjiA.m3u8
 
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/ytc/AOPolaRfit1Yn2whvmRn7kE7jNOR69-q-mdMuz56fv3Fkw", TV5 Television
 https://ythls.onrender.com/video/svSmNvB42Dk.m3u8
@@ -10413,7 +10413,7 @@ https://ythls.onrender.com/video/HrIW6iL6bLw.m3u8
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/L78LCv94daVMbBRZAWc4dXaT4-rqSStvt99_SSjuWahHfnSoj9GFMO2P3SYdEppiP-NG290z", قناة الواقع الفضائية
 https://ythls.onrender.com/channel/UCbnHOTI-v-xp9MBdp57JsJw.m3u8
 
-#EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/ytc/AOPolaRByIh5twEm0u-22nuBmzg5sGXN6PhPVIYFfWw3sw", قناة بلقيس الفضائية Belqees TV
+#EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/ytc/APkrFKYJrlBciSWs3IM8HHKYy1QNE5eEDqlWIi_KeCeVCg", قناة بلقيس الفضائية Belqees TV
 https://ythls.onrender.com/channel/UCxA_zZwALQMmVMSZyLKC-Nw.m3u8
 
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/ytc/APkrFKY9V1pjz_lEZ7RDWtNNMVuRgaTn1ILhbqaRkK93", قناة ذكريات
