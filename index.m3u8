@@ -999,7 +999,7 @@ https://ythls.onrender.com/video/EvIN3aHCE0o.m3u8
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/5OGHIV8vBrOo2C7Fj913RVedjKQpBCrCsYawRmA8z0znBHFzZu7tuvaJcSig0anUFRkDxcnXBVY", ATV Aomori TV Official Channel
 https://ythls.onrender.com/video/cQDPXJAYmjI.m3u8
 
-#EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/5OGHIV8vBrOo2C7Fj913RVedjKQpBCrCsYawRmA8z0znBHFzZu7tuvaJcSig0anUFRkDxcnXBVY", ATV青森テレビ 公式チャンネル
+#EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/5OGHIV8vBrOo2C7Fj913RVedjKQpBCrCsYawRmA8z0znBHFzZu7tuvaJcSig0anUFRkDxcnXBVY", ATV Aomori TV Official Channel
 https://ythls.onrender.com/channel/UCdNYphHZdRYjpys_gwofUNQ.m3u8
 
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/r9pTsnnBG2NbvMsYSSTV3wYS8TYyw4IaYIOxi03sRaxVaDLADWAfHdoeHxhfL5xj38SDMarK9w", Aurora live Abitibi Québec
@@ -2387,6 +2387,9 @@ https://ythls.onrender.com/channel/UC6V4nVa0CQkoLZUlg9drmZA.m3u8
 
 #EXTINF:-1 group-title="News" tvg-language="Hindi" tvg-logo="https://yt3.ggpht.com/SWNN1d7b5gNd4JvnmP3MkN8B-LBqDrCKkal_FrToeWbxcJ4UYGRsuko1DrfNMidcbUnEmG33VA", DDNews
 https://ythls.onrender.com/channel/UCKwucPzHZ7zCUIf7If-Wo1g.m3u8
+
+#EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/SWNN1d7b5gNd4JvnmP3MkN8B-LBqDrCKkal_FrToeWbxcJ4UYGRsuko1DrfNMidcbUnEmG33VA", DDNews
+https://ythls.onrender.com/video/zUlhju0XVyE.m3u8
 
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/jtXt24oRs-u32ON5WKsgyLPaD343n9S1NtGc8i0KnPHj6cfApzc5F45Pf8GnHKVF14R8b_sw", ddpunjabi
 https://ythls.onrender.com/channel/UC8GYp35wJTN2ituJr0y-7AQ.m3u8
@@ -9261,7 +9264,7 @@ https://ythls.onrender.com/channel/UCsAJCP5sbCczdRifNnaynuQ.m3u8
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/XRtoVNP9UXZ_cvCrYs6htRX0aDJ1Ya7r2x2XUv2NVLSOVE0YdQZ0684sl8RnKOiHISQe1-TiAA", TV Pajuçara
 https://ythls.onrender.com/channel/UCToYO4d7XLXYC0XO_hdyoAw.m3u8
 
-#EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/ytc/AOPolaTe4XwpxexS_dwIzp4OsspuqibThIuZmAOdmla8Hw", TV Ponta Verde SBT
+#EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/ytc/APkrFKZKxQBkRnBPiKAg8VniCMcZAIDeejBE8HjLY_qPFw", TV Ponta Verde SBT
 https://ythls.onrender.com/channel/UCjoAMfyUFKLL_yopUQbd3Fg.m3u8
 
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/hFuzomqFV2W35ke5dhkFfWycUwmmmVBlII2TJBfFLsnu4FDHV7Xaw205FEs66r_zizFgkcn94w", TV Rerun Club by MGM
