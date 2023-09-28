@@ -354,7 +354,7 @@ https://ythls.onrender.com/channel/UCBvv5xYXNHa5XjecBC2-odA.m3u8
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/ytc/AOPolaQq-gaALVS2IxKcgHTrXy1UHSRFNqJMkoKtbrgN", ABC7 SWFL
 https://ythls.onrender.com/channel/UCq9e_hCv2jvgck8WowW1NXg.m3u8
 
-#EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/pdmhb8Gtl4gvB8HdC8Na3mChnujTTMl5ghy41wx7Olhn00qgeIJOl7FjF9RQ9hJNyQ5b9PU0", ABCテレビニュース
+#EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/pdmhb8Gtl4gvB8HdC8Na3mChnujTTMl5ghy41wx7Olhn00qgeIJOl7FjF9RQ9hJNyQ5b9PU0", ABCTVnews
 https://ythls.onrender.com/channel/UCPW-5qfYGNR8XYrvESrqJKA.m3u8
 
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/pdmhb8Gtl4gvB8HdC8Na3mChnujTTMl5ghy41wx7Olhn00qgeIJOl7FjF9RQ9hJNyQ5b9PU0", ABCテレビニュース
@@ -1508,6 +1508,9 @@ https://ythls.onrender.com/channel/UCqvDXN3mmnRjdxhPoqgU0lA.m3u8
 
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/bX1WpuQfehEDptUV8Nlpokrr2W_qGWtEIyNQWqerLL2fopORDnAYbUF89-lQ0TknqRDagVMcHtI", BRIC TV
 https://ythls.onrender.com/video/V94TWMpbymI.m3u8
+
+#EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/6EUQn4ipkj1XJWuOtD246motbCqU0RO3AgBD3UfhPmbL7tvt5POgn1tnigTx_y29t1HqLGxqg68", brugMIngetan
+https://ythls.onrender.com/video/p3dVkXijJc4.m3u8
 
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/9zz_C-GPa2uLBxSMsxxtqWxeuao9DnQnSmK5GbnEFma-MSxi3LjThlgc8pfFdW8smE6gXtQd", BSN新潟 NEWS \u0026 LIVE
 https://ythls.onrender.com/channel/UCSFteALQuWkhEeKqIGVc_UQ.m3u8
@@ -4557,9 +4560,6 @@ https://ythls.onrender.com/channel/UCTojB9v5tkn3UyiUsx8cE3g.m3u8
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/cMIU2JgrKyhHBKNeSHw7GlnCJaGJiJD8b-jIef_VY_gXZb-dB3sQnkx84DHOuSriHj_RdyXfYg", KBC Channel 1
 https://ythls.onrender.com/channel/UCypNjM5hP1qcUqQZe57jNfg.m3u8
 
-#EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/VZwt09R7BdPc0-8OrXFd4KW478OAM1v0dpPb3SIIe5QIuNSP3esxvQ0GzoAcJkwj5y7o-eX6", KBC NEWS in JAPAN
-https://ythls.onrender.com/channel/UCS8ZQejq2CL-nZcnRWZCA5Q.m3u8
-
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/najMI17691FBwi1RJrxbSVeIi49ZHlellV2Sz62v6a11KmNKGO82VMS0Iskv7mGJMKKVTiVjsg", KBK PROD
 https://ythls.onrender.com/channel/UCWb-9MkraVlBhqEX7-r_PBQ.m3u8
 
@@ -5817,6 +5817,9 @@ https://ythls.onrender.com/video/Is03gZsBeq0.m3u8
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/nQjbGJXBgeDeIFHuhHNLPLYNLJ2FWMne0X7MqDcG_5jU8PbqU2Piz-BL317k6EzpByjJMJD73Q", NAGASWARA RADIOTEMEN
 https://ythls.onrender.com/video/NYoNORroe3o.m3u8
 
+#EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/yQSsRuHFP9IWtOUwzXbcf7gNiz66oNga8set1TYy7jq6UnG_GMWbd3ZWIQPZkaRKbSqvk5gmPTc", Nagoya TV News
+https://ythls.onrender.com/channel/UCWnOKASPkCBEL-_O8odMvtg.m3u8
+
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/UogOtvk3RzzWVlnmoBPb0lP3w_yEHMfgxlQd3R8bEdqS8yZlb04o2JBTchLjPG8osLE0R4UB", NamibiaCam
 https://ythls.onrender.com/channel/UC9X6gGKDv2yhMoofoeS7-Gg.m3u8
 
@@ -6674,6 +6677,9 @@ https://ythls.onrender.com/channel/UCgbfG5HoczHIkpzxLYH-8Ww.m3u8
 
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/ytc/APkrFKbVfvcTz0ukTxk7TEjUdemNV_oRFKpZpK_9V6zv", Pokémon Kids TV
 https://ythls.onrender.com/video/ycCN7gAQP4U.m3u8
+
+#EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/ytc/APkrFKYtNSU72ydFfyOf16jXv5N0CWj3pKh5AvxAt15a", Pokémon Kids TV Japan
+https://ythls.onrender.com/channel/UCH0JJtRn2syic5xxavMKQ4Q.m3u8
 
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/ytc/APkrFKawboS-hjxUswWsl96XftTuRZOpVEdrCytV9mCtzkk", Polimer News
 https://ythls.onrender.com/channel/UC8Z-VjXBtDJTvq6aqkIskPg.m3u8
@@ -9420,6 +9426,9 @@ https://ythls.onrender.com/video/LONcmK_WMRE.m3u8
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/hevXTZxQ55JhBv-XBWMN8g4e97YlOyjOOUVfXhj0V_5GD0xl8zhohIREx19I5F2mNOMkZ6n8eMY", TV360 Nigeria
 https://ythls.onrender.com/channel/UCBzu4YqGiBxBD8pq8NiBuKw.m3u8
 
+#EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/ytc/APkrFKaGiMBfUZWMyuguFIxtsjF5YUyBQPcmP_6Lw4xBtQ", TV5
+https://ythls.onrender.com/channel/UCP-0oW3M7DpjmPDutckOjiA.m3u8
+
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/ytc/APkrFKZSSeML051-32s-BXG3DkTLG0eGMj4XhW8TYm-K", TV5 Kannada
 https://ythls.onrender.com/channel/UCpzsmNuUEmod64DGgBDPO-Q.m3u8
 
@@ -9431,9 +9440,6 @@ https://ythls.onrender.com/video/ox2rT1KRkFI.m3u8
 
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/Hz0ZWAZq64ouDXsGnGv9h1cG6wezsPuYowayytoEVchaYErA8k08WWfA5ox35jJ0hRgn4oBkHg", TV5 News 
 https://ythls.onrender.com/video/6BmPMmH3MN8.m3u8
-
-#EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/ytc/APkrFKaGiMBfUZWMyuguFIxtsjF5YUyBQPcmP_6Lw4xBtQ", TV5 Television
-https://ythls.onrender.com/channel/UCP-0oW3M7DpjmPDutckOjiA.m3u8
 
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/ytc/AOPolaRfit1Yn2whvmRn7kE7jNOR69-q-mdMuz56fv3Fkw", TV5 Television
 https://ythls.onrender.com/video/svSmNvB42Dk.m3u8
@@ -10713,12 +10719,6 @@ https://ythls.onrender.com/channel/UCk4bgav5X0rlbGefFnPcuoQ.m3u8
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/ytc/AOPolaQocfFqwiF8JsR7SitwmCkDYMlhi4iT9dAV8HkZ", テレビ神奈川 tvk3ch
 https://ythls.onrender.com/video/6xunKAJfFHk.m3u8
 
-#EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/ytc/APkrFKYtNSU72ydFfyOf16jXv5N0CWj3pKh5AvxAt15a", ポケモン Kids TV
-https://ythls.onrender.com/channel/UCH0JJtRn2syic5xxavMKQ4Q.m3u8
-
-#EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/yQSsRuHFP9IWtOUwzXbcf7gNiz66oNga8set1TYy7jq6UnG_GMWbd3ZWIQPZkaRKbSqvk5gmPTc", メ〜テレニュース
-https://ythls.onrender.com/channel/UCWnOKASPkCBEL-_O8odMvtg.m3u8
-
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/yQSsRuHFP9IWtOUwzXbcf7gNiz66oNga8set1TYy7jq6UnG_GMWbd3ZWIQPZkaRKbSqvk5gmPTc", メ〜テレニュース
 https://ythls.onrender.com/video/-C6FE2m7kX8.m3u8
 
@@ -10940,6 +10940,9 @@ https://ythls.onrender.com/channel/UCvRraBQlw-EyVHq1ajnPqmQ.m3u8
 
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/J0ymlvMuhYL39V0lHYKnoK1NRdBQrbp8EZdg5fP5G7Hjmi0rRmsFUx34YKjNMa0Xz7WKC3ondkU", 神戸ウォーターフロント開発機構
 https://ythls.onrender.com/channel/UC1YsvhwhmQV5kfVMRpTVx-A.m3u8
+
+#EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/VZwt09R7BdPc0-8OrXFd4KW478OAM1v0dpPb3SIIe5QIuNSP3esxvQ0GzoAcJkwj5y7o-eX6", 福岡・佐賀 KBC NEWS
+https://ythls.onrender.com/channel/UCS8ZQejq2CL-nZcnRWZCA5Q.m3u8
 
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/ytc/AOPolaTCTOu9HL_RPFVBxXY0a966moeSmKuklTCRcdNy", 福岡・佐賀 KBC NEWS
 https://ythls.onrender.com/video/bHRaXxyvgU0.m3u8
