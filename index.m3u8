@@ -6870,9 +6870,6 @@ https://ythls.onrender.com/channel/UCgbfG5HoczHIkpzxLYH-8Ww.m3u8
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/ytc/APkrFKbVfvcTz0ukTxk7TEjUdemNV_oRFKpZpK_9V6zv", Pokémon Kids TV
 https://ythls.onrender.com/video/ycCN7gAQP4U.m3u8
 
-#EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/ytc/APkrFKYtNSU72ydFfyOf16jXv5N0CWj3pKh5AvxAt15a", Pokémon Kids TV Japan
-https://ythls.onrender.com/channel/UCH0JJtRn2syic5xxavMKQ4Q.m3u8
-
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/ytc/APkrFKawboS-hjxUswWsl96XftTuRZOpVEdrCytV9mCtzkk", Polimer News
 https://ythls.onrender.com/channel/UC8Z-VjXBtDJTvq6aqkIskPg.m3u8
 
@@ -9897,7 +9894,7 @@ https://ythls.onrender.com/channel/UCmAXLEbwfM-vQtWNEVbcNLA.m3u8
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/z2611gqEZvI7lGAoE7F05HGMa_idVntFJvkNhk7VjEcRcDNuXWWv9GbxMMLStyzvaPsn_nsY", Univision Noticias
 https://ythls.onrender.com/channel/UC32TdiIsh_5X8tKr_9rKQyA.m3u8
 
-#EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/aIi9kO_VmMuKNaAoFMSNJGX9xRKuEHSc4j2pz13rCN9kj31cO2wMmcjSOFoeZVoiQOqO0gxnrQ", Uno Noticias
+#EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/wjEThfMi1LhwOGABaEr1IlZnlvHvLkuRMc9_QmCfDd7kdLpPRRPIaaPKorCAppHC6RQlD5C6M0I", Uno Noticias
 https://ythls.onrender.com/channel/UC-bk3CDvTwt2TqPHykduhcQ.m3u8
 
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/ytc/APkrFKZUAZtUv4nPqv-cDM9NBOvMkFPsgM9y0jHRCXlrPQ", UNQtv
@@ -10329,7 +10326,7 @@ https://ythls.onrender.com/video/wEeJfBE8ecM.m3u8
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/imhb27FnbFRB3e5iS2Z7Okj91czXuvkMKUfMGXbmzkLArIlPRGINfWMKW8okNaHOEh36WRuaY38", Weercamera
 https://ythls.onrender.com/video/I09L5RCJkjo.m3u8
 
-#EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/ytc/APkrFKbJgVJCTZmZ1D6v-NEqD8fbwUdYrNkO-nXxc1SGG_o", WELT
+#EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/ytc/APkrFKbJgVJCTZmZ1D6v-NEqD8fbwUdYrNkO-nXxc1SGG_o", WELT Nachrichtensender
 https://ythls.onrender.com/channel/UCZMsvbAhhRblVGXmEXW8TSA.m3u8
 
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/dXeoiAlgbOqxHM-SyTUl0ZYJEMGo1iBJe6XqUg2DUg8IBLYrD9EnmwiSqMNaIqQZ8y2NcujnOw", Wena Sport Live
@@ -11033,6 +11030,9 @@ https://ythls.onrender.com/channel/UCk4bgav5X0rlbGefFnPcuoQ.m3u8
 
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/ytc/AOPolaQocfFqwiF8JsR7SitwmCkDYMlhi4iT9dAV8HkZ", テレビ神奈川 tvk3ch
 https://ythls.onrender.com/video/6xunKAJfFHk.m3u8
+
+#EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/ytc/APkrFKYtNSU72ydFfyOf16jXv5N0CWj3pKh5AvxAt15a", ポケモン Kids TV
+https://ythls.onrender.com/channel/UCH0JJtRn2syic5xxavMKQ4Q.m3u8
 
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/yQSsRuHFP9IWtOUwzXbcf7gNiz66oNga8set1TYy7jq6UnG_GMWbd3ZWIQPZkaRKbSqvk5gmPTc", メ〜テレニュース
 https://ythls.onrender.com/video/-C6FE2m7kX8.m3u8
