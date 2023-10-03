@@ -360,7 +360,7 @@ https://ythls.onrender.com/channel/UCBvv5xYXNHa5XjecBC2-odA.m3u8
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/ytc/AOPolaQq-gaALVS2IxKcgHTrXy1UHSRFNqJMkoKtbrgN", ABC7 SWFL
 https://ythls.onrender.com/channel/UCq9e_hCv2jvgck8WowW1NXg.m3u8
 
-#EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/pdmhb8Gtl4gvB8HdC8Na3mChnujTTMl5ghy41wx7Olhn00qgeIJOl7FjF9RQ9hJNyQ5b9PU0", ABCTVnews
+#EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/pdmhb8Gtl4gvB8HdC8Na3mChnujTTMl5ghy41wx7Olhn00qgeIJOl7FjF9RQ9hJNyQ5b9PU0", ABCテレビニュース
 https://ythls.onrender.com/channel/UCPW-5qfYGNR8XYrvESrqJKA.m3u8
 
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/pdmhb8Gtl4gvB8HdC8Na3mChnujTTMl5ghy41wx7Olhn00qgeIJOl7FjF9RQ9hJNyQ5b9PU0", ABCテレビニュース
@@ -1560,7 +1560,7 @@ https://ythls.onrender.com/channel/UCqvDXN3mmnRjdxhPoqgU0lA.m3u8
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/bX1WpuQfehEDptUV8Nlpokrr2W_qGWtEIyNQWqerLL2fopORDnAYbUF89-lQ0TknqRDagVMcHtI", BRIC TV
 https://ythls.onrender.com/video/V94TWMpbymI.m3u8
 
-#EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/6EUQn4ipkj1XJWuOtD246motbCqU0RO3AgBD3UfhPmbL7tvt5POgn1tnigTx_y29t1HqLGxqg68", brugMIngetan Channel
+#EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/6EUQn4ipkj1XJWuOtD246motbCqU0RO3AgBD3UfhPmbL7tvt5POgn1tnigTx_y29t1HqLGxqg68", brugMIngetan
 https://ythls.onrender.com/video/wnW9hbCWKok.m3u8
 
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/6EUQn4ipkj1XJWuOtD246motbCqU0RO3AgBD3UfhPmbL7tvt5POgn1tnigTx_y29t1HqLGxqg68", brugMIngetan Channel
@@ -4278,7 +4278,7 @@ https://ythls.onrender.com/channel/UCttspZesZIDEwwpVIgoZtWQ.m3u8
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/xvSPpZd-kEa6T3KgnlWv5YYkzLxf9UjWwnjlVBhtJR67qcipOq0sBjrgOd5_46mdoCE3cglT_w", IndiaTV
 https://ythls.onrender.com/video/Xmm3Kr5P1Uw.m3u8
 
-#EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/ytc/AOPolaR8vx8PsXhjELaI5Te3CXBrFZR2Km7TFjXb2U8wJw", Indonesian Football e-League
+#EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/ytc/APkrFKa-SRnF1nABRUpLy0-w4fdBFrBcvSs0hxPECp4JMg", Indonesian Football e-League
 https://ythls.onrender.com/channel/UCGjs_InMUkfCzB79AjzaaKw.m3u8
 
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/p2P3tU8mrPaPCrhXkHbDbqhpap-PBeGGjuzclXwMwK0cLqYmlpG8DCSVH74fFqLG_ZF6CkXSgA", Induk Frekom_86 (Mount Merapi Monitoring)
@@ -8021,6 +8021,9 @@ https://ythls.onrender.com/channel/UCMXLvWR4z1Z4P4JvubxMQtg.m3u8
 
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/ytc/APkrFKZM-FjTMRfcAT805CryNfciVFYHIEqL6OmSQ8Gm4w", Senate of the Philippines
 https://ythls.onrender.com/channel/UCPJWi44tskVVMNyKzYrPoGg.m3u8
+
+#EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/ytc/APkrFKbsaGE4Zy4Lc4zPAq6cCHUMi7TOVDpm5s8IGfly", Senatul României
+https://ythls.onrender.com/channel/UCpZswGPkx4fBwaZ_U5scXDw.m3u8
 
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/ytc/APkrFKZBPS_495sogVQ2IKZlq9U0qi6MfL-aUVZZpA4coA", SensaCine TRAILERS
 https://ythls.onrender.com/video/zWSgSYaKVRs.m3u8
