@@ -369,7 +369,7 @@ https://ythls.onrender.com/channel/UCBvv5xYXNHa5XjecBC2-odA.m3u8
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/ytc/AOPolaQq-gaALVS2IxKcgHTrXy1UHSRFNqJMkoKtbrgN", ABC7 SWFL
 https://ythls.onrender.com/channel/UCq9e_hCv2jvgck8WowW1NXg.m3u8
 
-#EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/pdmhb8Gtl4gvB8HdC8Na3mChnujTTMl5ghy41wx7Olhn00qgeIJOl7FjF9RQ9hJNyQ5b9PU0", ABCTVnews
+#EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/pdmhb8Gtl4gvB8HdC8Na3mChnujTTMl5ghy41wx7Olhn00qgeIJOl7FjF9RQ9hJNyQ5b9PU0", ABCテレビニュース
 https://ythls.onrender.com/channel/UCPW-5qfYGNR8XYrvESrqJKA.m3u8
 
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/pdmhb8Gtl4gvB8HdC8Na3mChnujTTMl5ghy41wx7Olhn00qgeIJOl7FjF9RQ9hJNyQ5b9PU0", ABCテレビニュース
@@ -10976,6 +10976,9 @@ https://ythls.onrender.com/channel/UCa85JIfBxZgcrsd8Ar7Z9nw.m3u8
 
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/ytc/AOPolaRi6CjoVog1Yo2nsdJqFam59clzLoQz_ZcstbqIUkA", Телеканал ICTV
 https://ythls.onrender.com/video/XiBBbMVGUkQ.m3u8
+
+#EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/URKASuaS92zvRQNwRosqMuqtNWKdX5VfRNaCd_dcAFhOSkfOmLy1xMOhJ6JxuubH5LF3i1u2", Телеканал OstWest
+https://ythls.onrender.com/channel/UC6IHSAUvmsSKlABloNBzoXQ.m3u8
 
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/992hphVYiDaHgC7ipQaf6HeiUhDfK5cLX24xxtzro5qSeIjl38zRycCiVSdq90zuKAeLGZyj3Q", Телеканал Броди online
 https://ythls.onrender.com/channel/UCr5VD_iFyOptegezSQZ7iNQ.m3u8
