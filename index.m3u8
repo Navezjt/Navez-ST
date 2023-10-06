@@ -39,7 +39,7 @@ https://ythls.onrender.com/channel/UCkgOz-my1nu6G4hKKZTf-UA.m3u8
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/ru-lzJwrXB3-uO1GTXALDRCD-q0rjYT80X2Kl4QljJf5-ibrrt1_9kN6d4f9GZpDOJsjmMJuKDs", 0plays music
 https://ythls.onrender.com/video/1bFNzsGIPYU.m3u8
 
-#EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/ytc/APkrFKbHXNjz9qK2MzSyj3n5YIZXxOSZWbefkhmIrDWKxA", 1062madradio
+#EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/U5QIj1AnrHiq7BgTYXzUxvKZDrhZeY9vzCC5RJ_3pHz07EeqFPTm1JpmiZkOVmr_SJrxdlDaCQ", 1062madradio
 https://ythls.onrender.com/channel/UCzPB5j0mU-0TORZ-7-u8y0w.m3u8
 
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/Gb4tcFuK50ESSfUzLh-kW0aEclU3Kll5yTIq6-oTzxlkfq68VHO2x7gJT7Z3IeLmCiG93kWGaQ", 10TV News Telugu
@@ -1050,7 +1050,7 @@ https://ythls.onrender.com/video/EvIN3aHCE0o.m3u8
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/5OGHIV8vBrOo2C7Fj913RVedjKQpBCrCsYawRmA8z0znBHFzZu7tuvaJcSig0anUFRkDxcnXBVY", ATV Aomori TV Official Channel
 https://ythls.onrender.com/video/cQDPXJAYmjI.m3u8
 
-#EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/5OGHIV8vBrOo2C7Fj913RVedjKQpBCrCsYawRmA8z0znBHFzZu7tuvaJcSig0anUFRkDxcnXBVY", ATV青森テレビ 公式チャンネル
+#EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/5OGHIV8vBrOo2C7Fj913RVedjKQpBCrCsYawRmA8z0znBHFzZu7tuvaJcSig0anUFRkDxcnXBVY", ATV Aomori TV Official Channel
 https://ythls.onrender.com/channel/UCdNYphHZdRYjpys_gwofUNQ.m3u8
 
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/r9pTsnnBG2NbvMsYSSTV3wYS8TYyw4IaYIOxi03sRaxVaDLADWAfHdoeHxhfL5xj38SDMarK9w", Aurora live Abitibi Québec
@@ -2571,6 +2571,9 @@ https://ythls.onrender.com/video/lLC8LNI-0NA.m3u8
 #EXTINF:-1 group-title="News" tvg-language="Hindi" tvg-logo="https://yt3.ggpht.com/SWNN1d7b5gNd4JvnmP3MkN8B-LBqDrCKkal_FrToeWbxcJ4UYGRsuko1DrfNMidcbUnEmG33VA", DD News
 https://ythls.onrender.com/channel/UCKwucPzHZ7zCUIf7If-Wo1g.m3u8
 
+#EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/SWNN1d7b5gNd4JvnmP3MkN8B-LBqDrCKkal_FrToeWbxcJ4UYGRsuko1DrfNMidcbUnEmG33VA", DD News
+https://ythls.onrender.com/video/zUlhju0XVyE.m3u8
+
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/AnhY6wL5OPhtL-ou3uLlAJTPuP7fv9z-dMoLDdfCXnlamPgIg8nHUiLVek_NMqcfr5FrGi1y", DD Saptagiri
 https://ythls.onrender.com/video/v2ABd87QksY.m3u8
 
@@ -2582,9 +2585,6 @@ https://ythls.onrender.com/channel/UCx55tefMzKkaA0uDmj9g2XA.m3u8
 
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/zhnil9WsQ-Z3gjqZDGeJaNszyTNgHuuJ6nJsP_3N9Hkwy1bLGjj8fj7ThdqQEpMoUf5NYnOY", DD Yadagiri Telangana
 https://ythls.onrender.com/channel/UC6V4nVa0CQkoLZUlg9drmZA.m3u8
-
-#EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/SWNN1d7b5gNd4JvnmP3MkN8B-LBqDrCKkal_FrToeWbxcJ4UYGRsuko1DrfNMidcbUnEmG33VA", DDNews
-https://ythls.onrender.com/video/zUlhju0XVyE.m3u8
 
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/jtXt24oRs-u32ON5WKsgyLPaD343n9S1NtGc8i0KnPHj6cfApzc5F45Pf8GnHKVF14R8b_sw", ddpunjabi
 https://ythls.onrender.com/channel/UC8GYp35wJTN2ituJr0y-7AQ.m3u8
@@ -5730,11 +5730,11 @@ https://ythls.onrender.com/channel/UCF4Wxdo3inmxP-Y59wXDsFw.m3u8
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/ytc/APkrFKYxy_0_-dee1Y6LbKwn8tLKwU4WoPVa_cSQUan8QA", MBCNEWS
 https://ythls.onrender.com/video/QGMsbO5nuUs.m3u8
 
-#EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/BpY8Ub7K4qvUQjc-KmXuluH6vQzJssZDXWse0zesaSQeUDdPz4NqbltOws3zz5rUGOlyo1U6ew", MBS NEWS
-https://ythls.onrender.com/channel/UCkKJhKO73xF1pK5h9R82ZGQ.m3u8
-
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/ytc/APkrFKaTSd7HzWr6eSl5LrbvGCa_6ROXq05CBns9mPwWuA", MBS TV
 https://ythls.onrender.com/channel/UCj8IDT_XOQBje1L5SmAn1Zw.m3u8
+
+#EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/BpY8Ub7K4qvUQjc-KmXuluH6vQzJssZDXWse0zesaSQeUDdPz4NqbltOws3zz5rUGOlyo1U6ew", MBS-NEWS
+https://ythls.onrender.com/channel/UCkKJhKO73xF1pK5h9R82ZGQ.m3u8
 
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/QM4UUCxg-_7_wOXirNp8s8HgHZVH1Y6sVFmewn5Icq-VEnBelif3v4qi4-KSIh6qqX-w-hPjMA", MCGI Channel
 https://ythls.onrender.com/video/pH668wDRADU.m3u8
