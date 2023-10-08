@@ -561,6 +561,9 @@ https://ythls.onrender.com/video/mJdhDuweBHM.m3u8
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/MtgDGUAxBJlNefQ03GXtV8aXM9VjVnxhzgM3TD1V3bJmZdrGQKxp9U1s2dO324opc8LZXKI88ts", Al Jazeera Mubasher قناة الجزيرة مباشر
 https://ythls.onrender.com/video/8D5QY5gw_Xk.m3u8
 
+#EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/MtgDGUAxBJlNefQ03GXtV8aXM9VjVnxhzgM3TD1V3bJmZdrGQKxp9U1s2dO324opc8LZXKI88ts", Al Jazeera Mubasher قناة الجزيرة مباشر
+https://ythls.onrender.com/channel/UCCv1Pd24oPErw5S7zJWltnQ.m3u8
+
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/HUdt4mSz2wjsqh5CiWtLIygj5LIlRFywO5Pzs-mudnCk21UX8gWJ0hl-JElqC6jQgXs8nhqPJA", Al Mashhad المشهد
 https://ythls.onrender.com/channel/UCWnBTuzUUDpKhJPGuDQMynA.m3u8
 
@@ -644,9 +647,6 @@ https://ythls.onrender.com/channel/UCfiwzLy-8yKzIbsmZTzxDgw.m3u8
 
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/LViWsQpkUN7p22xcW5kPzWai-HzWlaszpsEP3jQjnIyXi2G_gaZz7zosE1_vNOPrrdvzKYEryA", AlJazeera Arabic  قناة الجزيرة
 https://ythls.onrender.com/video/bNyUyrR0PHo.m3u8
-
-#EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/MtgDGUAxBJlNefQ03GXtV8aXM9VjVnxhzgM3TD1V3bJmZdrGQKxp9U1s2dO324opc8LZXKI88ts", Aljazeera Mubasher
-https://ythls.onrender.com/channel/UCCv1Pd24oPErw5S7zJWltnQ.m3u8
 
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/MtgDGUAxBJlNefQ03GXtV8aXM9VjVnxhzgM3TD1V3bJmZdrGQKxp9U1s2dO324opc8LZXKI88ts", Aljazeera Mubasher
 https://ythls.onrender.com/video/eksOMqVMINo.m3u8
@@ -1023,6 +1023,9 @@ https://ythls.onrender.com/video/uccSi8UBAao.m3u8
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/ytc/APkrFKb4XfK6DrPIwYLR5E4mv_g8_JbrHlgGl_PnSu9etA", Assembleia de Minas Gerais
 https://ythls.onrender.com/channel/UCLyH0n2yMR9mmkYvXkwJTTw.m3u8
 
+#EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/ytc/APkrFKZPimfEb_yqVHhvWuWYuWynADBbI_ZmKj111GDW_A", Associated Press
+https://ythls.onrender.com/channel/UC52X5wxOL_s5yw0dQk7NtgA.m3u8
+
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/ZAmov7ZHojOFYqy13y6B56Wwsm79Dqjdttj_gbSAJOT0hgt8SG-3_ypGvvPVBC2D7D0eMFoIx1s", Astro AWANI
 https://ythls.onrender.com/channel/UC5dYmq91e5_g54krpO06NJw.m3u8
 
@@ -1068,7 +1071,7 @@ https://ythls.onrender.com/video/EvIN3aHCE0o.m3u8
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/5OGHIV8vBrOo2C7Fj913RVedjKQpBCrCsYawRmA8z0znBHFzZu7tuvaJcSig0anUFRkDxcnXBVY", ATV Aomori TV Official Channel
 https://ythls.onrender.com/video/cQDPXJAYmjI.m3u8
 
-#EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/5OGHIV8vBrOo2C7Fj913RVedjKQpBCrCsYawRmA8z0znBHFzZu7tuvaJcSig0anUFRkDxcnXBVY", ATV Aomori TV Official Channel
+#EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/5OGHIV8vBrOo2C7Fj913RVedjKQpBCrCsYawRmA8z0znBHFzZu7tuvaJcSig0anUFRkDxcnXBVY", ATV青森テレビ 公式チャンネル
 https://ythls.onrender.com/channel/UCdNYphHZdRYjpys_gwofUNQ.m3u8
 
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/r9pTsnnBG2NbvMsYSSTV3wYS8TYyw4IaYIOxi03sRaxVaDLADWAfHdoeHxhfL5xj38SDMarK9w", Aurora live Abitibi Québec
@@ -4641,6 +4644,9 @@ https://ythls.onrender.com/channel/UCRmReUqNqc-GSZeD48QKjhQ.m3u8
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/ytc/APkrFKamfdA0n_oSPssH_jtGMzFoFbfCqGd90tKb6zQW", ITVN
 https://ythls.onrender.com/channel/UCaZWTzSO0dvQiAbN-4xFYIg.m3u8
 
+#EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/gludaypQn0D-ArQzMt5GIgpadW2vMc1QPR0ZqskyLBekNwIX2UJRAkRjb-rDa1iQZUZ1BXlnqw", J-POP Collection
+https://ythls.onrender.com/video/yW51TA9Kwpw.m3u8
+
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/ytc/AOPolaTfLXByFTOvhwy0NwYBsZL5OwdEF1sRxpOKO519", J.LEAGUE International
 https://ythls.onrender.com/channel/UCmQp6ZaAejJKKkXc_Y_lh1A.m3u8
 
@@ -6444,7 +6450,7 @@ https://ythls.onrender.com/video/aJkIZDfn53Q.m3u8
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/ytc/APkrFKb9lpg811HDEjhB8gxH3W2JWThLkrmp1dQMA0-Aicc", Netizen Best Choice
 https://ythls.onrender.com/video/80IxTEheE-c.m3u8
 
-#EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/8gxEAzsGjA2JBZ8oawttfi0lEWxb-OPObV_THubg0n4GWwDSoJAQUZCenAw17YS5ooGNthAvlA", NevoMusic | Uzbek Music Videos
+#EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/8gxEAzsGjA2JBZ8oawttfi0lEWxb-OPObV_THubg0n4GWwDSoJAQUZCenAw17YS5ooGNthAvlA", NevoMusic
 https://ythls.onrender.com/channel/UCkaUg9b9LplVoJdx1JwwyOg.m3u8
 
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/VzHCL2OA1aC8awpoCpQuYcpOdvWojbEi92ezfWuEDs7iE0kv90URc4SJne25ajioZhD_f07CgQ", NevoMusicTj
@@ -9453,9 +9459,6 @@ https://ythls.onrender.com/channel/UC-JFyL0zDFOsPMpuWu39rPA.m3u8
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/ytc/AOPolaQiZ1t723LEW4hdTh9nSugYAWVCdSIwIvKH4CmcLtU", Thanthi TV
 https://ythls.onrender.com/video/FeweQREkl44.m3u8
 
-#EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/ORToHzPUdRmSzWY7H4tjZ3LE913yVg09JejWYWHS-oNKboDrMglaJFrloYSgPVXZ0rqY1vQmXQ", The Asahi Shimbun Company
-https://ythls.onrender.com/channel/UCMKvT0YVLufHMdGLH89J1oA.m3u8
-
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/ytc/AGIKgqMxS219SXmMozxUfEWR9N7nE5c6__aG5wwdCuub", The Beach Channel
 https://ythls.onrender.com/channel/UC4DGdCCp03yi6AWp2sO_r1g.m3u8
 
@@ -11684,6 +11687,9 @@ https://ythls.onrender.com/video/E8JKeypwCXI.m3u8
 
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/xbF1-NcnikgRAH04sVPQ4RL9IVokb0SKEi81ILkOJrz-bb41UQTqU8jMsikHut4gYNjH0uyZQg", 朝日新聞LIVE
 https://ythls.onrender.com/video/mYhkthVZUhY.m3u8
+
+#EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/ORToHzPUdRmSzWY7H4tjZ3LE913yVg09JejWYWHS-oNKboDrMglaJFrloYSgPVXZ0rqY1vQmXQ", 朝日新聞デジタル
+https://ythls.onrender.com/channel/UCMKvT0YVLufHMdGLH89J1oA.m3u8
 
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/N3uydO2vycuY0id8JZeGa6qxOXNSfVvKCLA0-M0T9vw5EbHSqOzeKWyQ1aG650BcNRZ9pDFvUvg", 東森娛樂
 https://ythls.onrender.com/channel/UCmyVDKnXwdw3McUlcijqmvQ.m3u8
