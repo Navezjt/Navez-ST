@@ -1083,7 +1083,7 @@ https://ythls.onrender.com/video/EvIN3aHCE0o.m3u8
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/5OGHIV8vBrOo2C7Fj913RVedjKQpBCrCsYawRmA8z0znBHFzZu7tuvaJcSig0anUFRkDxcnXBVY", ATV Aomori TV Official Channel
 https://ythls.onrender.com/video/cQDPXJAYmjI.m3u8
 
-#EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/5OGHIV8vBrOo2C7Fj913RVedjKQpBCrCsYawRmA8z0znBHFzZu7tuvaJcSig0anUFRkDxcnXBVY", ATV Aomori TV Official Channel
+#EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/5OGHIV8vBrOo2C7Fj913RVedjKQpBCrCsYawRmA8z0znBHFzZu7tuvaJcSig0anUFRkDxcnXBVY", ATV青森テレビ 公式チャンネル
 https://ythls.onrender.com/channel/UCdNYphHZdRYjpys_gwofUNQ.m3u8
 
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/r9pTsnnBG2NbvMsYSSTV3wYS8TYyw4IaYIOxi03sRaxVaDLADWAfHdoeHxhfL5xj38SDMarK9w", Aurora live Abitibi Québec
@@ -3986,6 +3986,9 @@ https://ythls.onrender.com/channel/UC74icFVsxTFr2BW3Vm8n_iw.m3u8
 
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/ytc/APkrFKaEmZ4uRPdW7PDazexqhULujf6-eG4gyuddhKEY", GrandGeneveTV
 https://ythls.onrender.com/channel/UCXFfYlxx1CDljLyXwXFbL1A.m3u8
+
+#EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/ytc/APkrFKaEmZ4uRPdW7PDazexqhULujf6-eG4gyuddhKEY", GrandGeneveTV
+https://ythls.onrender.com/video/TwDDXO56228.m3u8
 
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/ytc/AL5GRJVCxdQJpqMf_MwrfVQjRxpXh7lc1pFCBIDdC5_j", Greek Songs
 https://ythls.onrender.com/video/GgSEAgiZUaM.m3u8
@@ -10881,7 +10884,7 @@ https://ythls.onrender.com/video/ThVtj7egCKY.m3u8
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/imhb27FnbFRB3e5iS2Z7Okj91czXuvkMKUfMGXbmzkLArIlPRGINfWMKW8okNaHOEh36WRuaY38", Weercamera
 https://ythls.onrender.com/video/wEeJfBE8ecM.m3u8
 
-#EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/ytc/APkrFKbJgVJCTZmZ1D6v-NEqD8fbwUdYrNkO-nXxc1SGG_o", WELT
+#EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/ytc/APkrFKbJgVJCTZmZ1D6v-NEqD8fbwUdYrNkO-nXxc1SGG_o", WELT Nachrichtensender
 https://ythls.onrender.com/channel/UCZMsvbAhhRblVGXmEXW8TSA.m3u8
 
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/dXeoiAlgbOqxHM-SyTUl0ZYJEMGo1iBJe6XqUg2DUg8IBLYrD9EnmwiSqMNaIqQZ8y2NcujnOw", Wena Sport Live
@@ -11546,6 +11549,9 @@ https://ythls.onrender.com/channel/UCbnHOTI-v-xp9MBdp57JsJw.m3u8
 
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/ytc/APkrFKYJrlBciSWs3IM8HHKYy1QNE5eEDqlWIi_KeCeVCg", قناة بلقيس الفضائية Belqees TV
 https://ythls.onrender.com/channel/UCxA_zZwALQMmVMSZyLKC-Nw.m3u8
+
+#EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/Qc_e_RZiBxH9yNLQ-lMqM1jHjiYI1lhUdHpXOzloIUPi6sHP5oH_oaC9TExZf2aeM8xdhA0Glw", قناة تلفزيون السودان القومي
+https://ythls.onrender.com/channel/UCC1p77YoxrTnb7huxFoIYQw.m3u8
 
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/ytc/APkrFKY9V1pjz_lEZ7RDWtNNMVuRgaTn1ILhbqaRkK93", قناة ذكريات
 https://ythls.onrender.com/channel/UCnUrsg20rwVmeK7hai7IdMQ.m3u8
