@@ -567,9 +567,6 @@ https://ythls.onrender.com/video/mJdhDuweBHM.m3u8
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/MtgDGUAxBJlNefQ03GXtV8aXM9VjVnxhzgM3TD1V3bJmZdrGQKxp9U1s2dO324opc8LZXKI88ts", Al Jazeera Mubasher قناة الجزيرة مباشر
 https://ythls.onrender.com/video/8D5QY5gw_Xk.m3u8
 
-#EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/MtgDGUAxBJlNefQ03GXtV8aXM9VjVnxhzgM3TD1V3bJmZdrGQKxp9U1s2dO324opc8LZXKI88ts", Al Jazeera Mubasher قناة الجزيرة مباشر
-https://ythls.onrender.com/channel/UCCv1Pd24oPErw5S7zJWltnQ.m3u8
-
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/HUdt4mSz2wjsqh5CiWtLIygj5LIlRFywO5Pzs-mudnCk21UX8gWJ0hl-JElqC6jQgXs8nhqPJA", Al Mashhad المشهد
 https://ythls.onrender.com/channel/UCWnBTuzUUDpKhJPGuDQMynA.m3u8
 
@@ -656,6 +653,9 @@ https://ythls.onrender.com/channel/UCfiwzLy-8yKzIbsmZTzxDgw.m3u8
 
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/LViWsQpkUN7p22xcW5kPzWai-HzWlaszpsEP3jQjnIyXi2G_gaZz7zosE1_vNOPrrdvzKYEryA", AlJazeera Arabic  قناة الجزيرة
 https://ythls.onrender.com/video/bNyUyrR0PHo.m3u8
+
+#EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/MtgDGUAxBJlNefQ03GXtV8aXM9VjVnxhzgM3TD1V3bJmZdrGQKxp9U1s2dO324opc8LZXKI88ts", Aljazeera Mubasher
+https://ythls.onrender.com/channel/UCCv1Pd24oPErw5S7zJWltnQ.m3u8
 
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/MtgDGUAxBJlNefQ03GXtV8aXM9VjVnxhzgM3TD1V3bJmZdrGQKxp9U1s2dO324opc8LZXKI88ts", Aljazeera Mubasher
 https://ythls.onrender.com/video/eksOMqVMINo.m3u8
@@ -6597,6 +6597,9 @@ https://ythls.onrender.com/video/lLXby2fORw4.m3u8
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/dt_7th6zZPzSIeMfBgvkJBgu3NZ4YRZlqFuxLAKsHY7SljR0yLkcXZE-izL_Ds0NY5v1N7eW", News18 India
 https://ythls.onrender.com/video/HoeIWa2cEJY.m3u8
 
+#EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/dt_7th6zZPzSIeMfBgvkJBgu3NZ4YRZlqFuxLAKsHY7SljR0yLkcXZE-izL_Ds0NY5v1N7eW", News18 India
+https://ythls.onrender.com/video/6OYB2I0ORNA.m3u8
+
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/ytc/APkrFKYZmPf-zFRp8kwIPeCcpPXODgdfwdyxgmBrtr45", News18 Kannada
 https://ythls.onrender.com/channel/UCa-vioGhe2btBcZneaPonKA.m3u8
 
@@ -8777,6 +8780,9 @@ https://ythls.onrender.com/video/p53rW6sMfqw.m3u8
 
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/6seaFtFqsyG1OS1aTyC47Dfrpw6Ed-buOwIK8_3hnp3NTRCwcSIN35cgam4A2ZAXOdRiKB0uqOk", SpongeBoy Lofi
 https://ythls.onrender.com/video/Rm_AsflD2c0.m3u8
+
+#EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/6seaFtFqsyG1OS1aTyC47Dfrpw6Ed-buOwIK8_3hnp3NTRCwcSIN35cgam4A2ZAXOdRiKB0uqOk", SpongeBoy Lofi
+https://ythls.onrender.com/video/d_t5nnK9Rn4.m3u8
 
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/ytc/APkrFKaLLy6p7ewgk19Y1w2kf7Lsjk4j4_zKmV1lAWeyqlk5WusQrvXWniYJA2BKOjjH", Sport X
 https://ythls.onrender.com/video/teq8oxDFnNs.m3u8
