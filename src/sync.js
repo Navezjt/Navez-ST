@@ -5,7 +5,7 @@ const path = require('path')
 const axios = require('axios')
 
 const getCache = async () => {
-  const response = await axios.get('https://ythls.onrender.com/cache')
+  const response = await axios.get('https://ythls-v2.onrender.com/cache')
   return response.data
 }
 
