@@ -1,8 +1,5 @@
 #EXTM3U x-tvg-url="https://github.com/botallen/epg/releases/download/latest/epg.xml"
 
-#EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/f8cxB7SCcnvaVnbbnerU8eGDraoAShr9NK3_gy8WDglSqjmi2BlY_x0lPlQjUYF_yjrRsR7g",  4K Scenic Relaxation
-https://ythls-v2.onrender.com/video/QNjYwCiJBIk.m3u8
-
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/Be50EvUiWlvnunn4_lwP_xplX0d34nhlu_oG0WFeqEcPsKwABYYt19ciuqXSme0Sp_kUp-rM514",  All Stream Game
 https://ythls-v2.onrender.com/video/b4KLKqyM7Fc.m3u8
 
@@ -23,9 +20,6 @@ https://ythls-v2.onrender.com/video/fAiHD0CLNms.m3u8
 
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/ezG7fZAoI4puqxZvEHRY0Xfwl6CcR3bWRadwh-lg_-JSuBw9aK6hpJuR5wIlu1WHhsvseAWzfyA",  YTN
 https://ythls-v2.onrender.com/video/V6u2PbEpiN8.m3u8
-
-#EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/uEg0EEuKqJHhrkjmSn4VaXrpAe_WO47laeBqZ45HrlYwKN-wm3-Cijq_taNvnH-MlEXylFBpCg",  Zee Tamil News
-https://ythls-v2.onrender.com/channel/UCxRRfF6qIoYntp3zNOozonQ.m3u8
 
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/uEg0EEuKqJHhrkjmSn4VaXrpAe_WO47laeBqZ45HrlYwKN-wm3-Cijq_taNvnH-MlEXylFBpCg",  Zee Tamil News
 https://ythls-v2.onrender.com/video/w0XpmGfd92M.m3u8
@@ -143,6 +137,9 @@ https://ythls-v2.onrender.com/video/t4Dy8WAvMnY.m3u8
 
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/ruhanJh77ZSaMRbtgqUIQkRMFVws45qdLKwcx39G8gVPs-qkFIPwyeWmvULYzRAqPChKTPWe2Q", 4K Relaxing - Wild Animals
 https://ythls-v2.onrender.com/channel/UCqY4QL6bgWeKLN0MOmJIcUg.m3u8
+
+#EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/f8cxB7SCcnvaVnbbnerU8eGDraoAShr9NK3_gy8WDglSqjmi2BlY_x0lPlQjUYF_yjrRsR7g", 4K Scenic Relaxation
+https://ythls-v2.onrender.com/video/QNjYwCiJBIk.m3u8
 
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/h7b6wa8_7dFMZRr9qeyD2qPPRbKDryKCI7ks0PKKpoS98IefZd5tl5Xm1pq-uRzDVmklfQKBWEw", 4K Video Nature - Focus Music
 https://ythls-v2.onrender.com/channel/UCNlfGuzOAKM1sycPuM_QTHg.m3u8
@@ -11378,6 +11375,9 @@ https://ythls-v2.onrender.com/video/TPcmrPrygDc.m3u8
 
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/ytc/APkrFKZWsSF_OKQ1lrbluEtD8DJr0ee9av5A8ZNemeFV", Zee Punjab Haryana Himachal
 https://ythls-v2.onrender.com/channel/UCmhe0p2-m_KURZYQNchK-QQ.m3u8
+
+#EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/uEg0EEuKqJHhrkjmSn4VaXrpAe_WO47laeBqZ45HrlYwKN-wm3-Cijq_taNvnH-MlEXylFBpCg", Zee Tamil News
+https://ythls-v2.onrender.com/channel/UCxRRfF6qIoYntp3zNOozonQ.m3u8
 
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/93tHmOkT1G1qrPxtoASRHz8rmbBPXMkYTBPfQP2lI04QAr5FdQme5yZEl66L4ytnBDwfkmY26g", Zee Telugu News
 https://ythls-v2.onrender.com/channel/UCfWo0Z5PKYd86JfQ5ZE5cWg.m3u8
