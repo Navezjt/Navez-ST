@@ -23,28 +23,29 @@ const getCache = async () => {
   // get channels from remote cache
   const cache = await getCache()
 
-  // console.log(cache)
-
   // merge the channels from two sourcea
   cache.forEach(item => {
     if (item.name) {
       const youtube = item.url.replace('https://www.youtube.com/', '').replace('/live', '').replace('watch?v=', 'video/')
 
       const channel = channels.find((channel) => channel.youtube === youtube)
-
+      
       if (channel) {
+        // existing channel
+
+        // update logo
         if (item.logo && item.logo !== '' && channel.logo !== item.logo) {
-          // console.log('Updating logo:', item.name)
           channel.logo = item.logo
           channel.updated = (new Date()).toISOString()
         }
 
-        if (item.name !== '' && channel.name !== item.name) {
-          channel.name = item.name
+        // update name
+        if (item.name !== '' && channel.name !== item.name.trim()) {
+          channel.name = item.name.trim()
           channel.updated = (new Date()).toISOString()
         }
       } else {
-        // console.log('Adding channel:', item.name)
+        // add new channel
         channels.push({
           name: item.name,
           group: '',
@@ -56,8 +57,6 @@ const getCache = async () => {
       }
     }
   })
-
-  // console.log(channels)
 
   // sort channels alphabetically by their name
   channels.sort((a, b) => a.name.toLowerCase().trim().localeCompare(b.name.toLowerCase().trim()))
