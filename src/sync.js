@@ -18,8 +18,6 @@ const getCache = async () => {
     skip_empty_lines: true
   })
 
-  // console.log(channels)
-
   // get channels from remote cache
   const cache = await getCache()
 
@@ -28,8 +26,9 @@ const getCache = async () => {
     if (item.name) {
       const youtube = item.url.replace('https://www.youtube.com/', '').replace('/live', '').replace('watch?v=', 'video/')
 
-      const channel = channels.find((channel) => channel.youtube === youtube)
-      
+      const index = channels.findIndex((channel) => channel.youtube === youtube)
+      const channel = channels[index]
+
       if (channel) {
         // existing channel
 
@@ -44,16 +43,23 @@ const getCache = async () => {
           channel.name = item.name.trim()
           channel.updated = (new Date()).toISOString()
         }
+
+        // remove video which is not live
+        if (youtube.startsWith('video/') && !item.isLive) {
+          channels.splice(index, 1)
+        }
       } else {
-        // add new channel
-        channels.push({
-          name: item.name,
-          group: '',
-          language: '',
-          youtube,
-          logo: item.logo,
-          updated: (new Date()).toISOString()
-        })
+        // add new channel if live
+        if (item.isLive) {
+          channels.push({
+            name: item.name,
+            group: '',
+            language: '',
+            youtube,
+            logo: item.logo,
+            updated: (new Date()).toISOString()
+          })
+        }
       }
     }
   })
