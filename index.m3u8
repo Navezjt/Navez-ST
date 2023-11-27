@@ -2193,6 +2193,9 @@ https://ythls-v2.onrender.com/channel/UCvJJ_dzjViJCoLf5uKUTwoA.m3u8
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/ytc/APkrFKbSMbYWQ5TLMPPDKBf_oJX6QHvatlPZkJt6YLpj9Oc", CNBC
 https://ythls-v2.onrender.com/video/9NyxcX3rhQs.m3u8
 
+#EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/-lZfPTGTTWcUHDR6gAjlCVZCyne7xtrxzKVrNlsxsduhbLfVhwMoGuestI-HL_sSKTn3ziA9eA", CNBC Africa
+https://ythls-v2.onrender.com/channel/UCsba91UGiQLFOb5DN3Z_AdQ.m3u8
+
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/jmk-uO9d57gzkcPzo8FhZIWVL7Pewh0-4KYE1V4PWDK7F79IbMKxMoHgtQqRd_TERvTQr5-okQ", CNBC Arabia TV
 https://ythls-v2.onrender.com/channel/UCsHdPPJXT-yKVTLGkn3DSvQ.m3u8
 
@@ -2207,9 +2210,6 @@ https://ythls-v2.onrender.com/video/TD0A7fHAxKw.m3u8
 
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/JySEhLOv8Llm0VZBxo5iCttTVg80ttt90xTxhBGm7XSXiEuPA_0liFIiBpokEonD8pvdKy0r", CNBC-TV18
 https://ythls-v2.onrender.com/channel/UCmRbHAgG2k2vDUvb3xsEunQ.m3u8
-
-#EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/ytc/APkrFKaP1xxf5qeblA6cXqJyJDNRWUK6G9o6paCTaWqJGQ", CNBCAfrica
-https://ythls-v2.onrender.com/channel/UCsba91UGiQLFOb5DN3Z_AdQ.m3u8
 
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/ytc/APkrFKZxgIqjBqrOrG17bmCgQ0j3xEWUvstCL0ZtVPm3jw", CNN Brasil
 https://ythls-v2.onrender.com/channel/UCvdwhh_fDyWccR42-rReZLw.m3u8
@@ -6936,9 +6936,6 @@ https://ythls-v2.onrender.com/channel/UCWIdqSQekeGmUWlSFeCiEnA.m3u8
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/ytc/AOPolaSAMq7ijbZpPY54BiBKft8kXUCd0SAauyl63jgTmg", Osratouna tv - قناة أسرتنا
 https://ythls-v2.onrender.com/video/oe_ni87dke0&ab.m3u8
 
-#EXTINF:-1 group-title="News" tvg-language="Odia" tvg-logo="https://yt3.ggpht.com/ytc/APkrFKZK4hp9PqO0azKBAEeSyBetquwkvH5QWEGUsAB8lA", OTV
-https://ythls-v2.onrender.com/video/UWY2p8YEnb8.m3u8
-
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/ytc/APkrFKZK4hp9PqO0azKBAEeSyBetquwkvH5QWEGUsAB8lA", OTV
 https://ythls-v2.onrender.com/channel/UCCgLMMp4lv7fSD2sBz1Ai6Q.m3u8
 
@@ -7091,9 +7088,6 @@ https://ythls-v2.onrender.com/channel/UCgR0st4ZLABi-LQcWNu3wnQ.m3u8
 
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/ytc/APkrFKaTOApYnoycr3RByB4iR3aV8Te9SlxLrFxfo6OqBA", PBS Guam
 https://ythls-v2.onrender.com/channel/UCaVp5oNNuIZVU7qqhSX0LGQ.m3u8
-
-#EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/zaMIMLXJM2PXvUAA-FZuCOIFxKpMU94L-QfqiCeoOnkM55TXd3fppYBaMYbCJ-x2HiFDBovIklk", PBS KIDS
-https://ythls-v2.onrender.com/video/wBLLA6sjBAY.m3u8
 
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/Gt7H_Mw0zzoB1CmuoRcmf8cW7hEjC12lCiyl6ufPZAcAUiH4ND6rjchJaZvIf8w2CoPnPzNfLMM", Peaceful Night Music
 https://ythls-v2.onrender.com/video/B5oKcTusnj0.m3u8
