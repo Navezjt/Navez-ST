@@ -1,4 +1,4 @@
-const fs = require('fs')
+const fs = require('fs') 
 const { parse } = require('csv-parse/sync')
 const path = require('path')
 
