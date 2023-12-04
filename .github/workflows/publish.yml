@@ -1,4 +1,4 @@
-name: Publish Playlist 
+name: Publish Playlist
 on: [ push ] 
 jobs:
   deploy:
