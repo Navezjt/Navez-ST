@@ -1,5 +1,5 @@
 {
-  "name": "iptv-youtube-live",
+  "name": "Navez-ST",
   "version": "1.0.0",
   "description": "Collection of Youtube live channels that can be added to any IPTV client.",
   "main": "index.js",
@@ -12,14 +12,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/abskmj/iptv-youtube-live.git"
+    "url": "git+https://github.com/Navezjt/Navez-ST.git"
   },
   "author": "abskmj@gmail.com",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/abskmj/iptv-youtube-live/issues"
+    "url": "https://github.com/Navezjt/Navez-ST/issues"
   },
-  "homepage": "https://github.com/abskmj/iptv-youtube-live#readme",
+  "homepage": "https://github.com/Navezjt/Navez-ST#readme",
   "devDependencies": {
     "standard": "^17.0.0"
   },
