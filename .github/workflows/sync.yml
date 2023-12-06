@@ -6,8 +6,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v3
-      - name: config
-        run: |
+        with:
           git config --global user.email "action@github.com"
           git config --global user.name "GitHub Action"
       - uses: actions/setup-node@v3
