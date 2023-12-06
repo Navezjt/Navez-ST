@@ -7,8 +7,7 @@ jobs:
     steps:
       - uses: actions/checkout@v3
         with:
-          token: git config --global user.email "action@github.com"
-                 git config --global user.name "GitHub Action"
+          token: ${{ secrets }}
       - uses: actions/setup-node@v3
       - run: npm ci
       - run: npm run sync
