@@ -1,38 +1,26 @@
-name: Sync channels
+name: Sync Channels
 
 on:
   workflow_dispatch:
 
 jobs:
-  Publish:
+  publish:
     runs-on: ubuntu-latest
-    
     steps:
-      - name: Checkout
-        uses: actions/checkout@v3
-
-      - name: Configure Git
+      - uses: actions/checkout@v3
+      - name: config
         run: |
           git config --global user.email "action@github.com"
           git config --global user.name "GitHub Action"
-
-      - name: Set up Node.js
-        uses: actions/setup-node@v3
-
-      - name: Install dependencies
-        run: npm ci
-
-      - name: Run synchronization script
-        run: npm run sync
-
+      - uses: actions/setup-node@v3
+      - run: npm ci
+      - run: npm run sync
       - name: Commit and push changes
         uses: stefanzweifel/git-auto-commit-action@v4
         with:
           commit_message: "Automated synchronization"
+      - run: git push
 
-      - name: Push to branch
-        run: git push
-          
 # Schedule execution every 60 minutes (3600 seconds)
 on:
   schedule:
