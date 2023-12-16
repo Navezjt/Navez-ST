@@ -1,8 +1,6 @@
 name: Sync Channels
-
 on:
   workflow_dispatch:
-
 jobs:
   publish:
     runs-on: ubuntu-latest
@@ -15,13 +13,5 @@ jobs:
       - uses: actions/setup-node@v3
       - run: npm ci
       - run: npm run sync
-      - name: Commit and push changes
-        uses: stefanzweifel/git-auto-commit-action@v4
-        with:
-          commit_message: "Automated synchronization"
+      - uses: stefanzweifel/git-auto-commit-action@v4
       - run: git push
-
-# Schedule execution every 60 minutes (3600 seconds)
-on:
-  schedule:
-    - cron: '0 */1 * * *'
