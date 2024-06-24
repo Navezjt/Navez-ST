@@ -5,7 +5,7 @@ jobs:
   publish:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v3
+      - uses: actions/checkout@v4
       - name: config
         run: |
           git config --global user.email "action@github.com"
@@ -13,5 +13,5 @@ jobs:
       - uses: actions/setup-node@v4
       - run: npm ci
       - run: npm run sync
-      - uses: stefanzweifel/git-auto-commit-action@v4
+      - uses: stefanzweifel/git-auto-commit-action@v3
       - run: git push
