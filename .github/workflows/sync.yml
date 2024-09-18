@@ -4,13 +4,14 @@ on:
 jobs:
   publish:
     runs-on: ubuntu-latest
-    permissions:
-      contents: write
     steps:
-      - uses: actions/checkout@v4
-        with:
-          token: ${{ secrets.PAT }}
+      - uses: actions/checkout@v3
+      - name: config
+        run: |
+          git config --global user.email "action@github.com"
+          git config --global user.name "GitHub Action"
       - uses: actions/setup-node@v3
       - run: npm ci
       - run: npm run sync
-      - uses: stefanzweifel/git-auto-commit-action@v5
+      - uses: stefanzweifel/git-auto-commit-action@v4
+      - run: git push
