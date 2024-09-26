@@ -13,5 +13,5 @@ jobs:
       - uses: actions/setup-node@v4
       - run: npm ci
       - run: npm run sync
-      - uses: Navezjt/Navez-ST/git-auto-commit-action@v4
+      - uses: Navezjt/Navez-ST/git-auto-commit-action@v5
       - run: git push
